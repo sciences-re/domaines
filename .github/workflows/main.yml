@@ -1,0 +1,21 @@
+name: 'Extract domains from Renater FER'
+on:
+  push:
+  schedule:
+    - cron: "*/10 * * * *"
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+      - uses: cachix/install-nix-action@v25
+        with:
+          nix_path: nixpkgs=channel:nixos-unstable
+      - name: "Download and extract the TLDs"
+        run: "./download_domains.py"
+      - name: "Concat domains"
+        run: "cat fer_domains.txt additional_domains.txt > all_domains.txt"
+      - uses: stefanzweifel/git-auto-commit-action@v5
