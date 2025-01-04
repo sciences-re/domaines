@@ -14,5 +14,5 @@ for url in urls:
     preauthorized_domains.update(set([tldextract.extract(item.text).registered_domain for item in soup.find_all("shibmd:Scope")]))
 print(f"The preauthorized domains set contains {len(preauthorized_domains)} domains.")
 with open("fer_domains.txt", "wt") as f:
-    for domain in preauthorized_domains:
+    for domain in sorted(preauthorized_domains):
         f.write(f"{domain}\n")
