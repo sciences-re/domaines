@@ -553,6 +553,7 @@ bmskole.no
 bmu.edu.in
 bmwf.gv.at
 bne.es
+bnf.fr
 bnl.gov
 bnu.edu.cn
 bnu.fr
