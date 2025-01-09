@@ -2816,6 +2816,7 @@ iggcas.ac.cn
 igh.hr
 igidr.ac.in
 ignou.ac.in
+igntu.ac.in
 igsnrr.ac.cn
 igtf.net
 ihb.ac.cn
@@ -3123,6 +3124,7 @@ itb.ie
 itchen.ac.uk
 itcn.dk
 itecsur.edu.ec
+itg.be
 ithaca.edu
 iti.lk
 itp.ac.cn
@@ -3248,6 +3250,7 @@ just.edu.cn
 justis.com
 jusutdanning.no
 jxas.ac.cn
+jxau.edu.cn
 jxnyi.edu.cn
 jxuas.edu.cn
 jxufe.edu.cn
@@ -3799,7 +3802,6 @@ lirauni.ac.ug
 lis.ac.uk
 lis.nl
 lissa.si
-lit.edu
 lit.edu.cn
 liu.se
 liuc.it
@@ -3962,6 +3964,7 @@ malselv.kommune.no
 maltepe.edu.tr
 malvik.kommune.no
 mamiraua.org.br
+manavrachna.edu.in
 manchester.ac.uk
 mandela.ac.za
 manhattan.edu
@@ -5475,6 +5478,7 @@ reading.edu.my
 reannz.co.nz
 reaseheath.ac.uk
 recherche.gouv.fr
+recia.fr
 redbridge-college.ac.uk
 redclara.net
 redesecti.ba.gov.br
