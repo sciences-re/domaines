@@ -813,6 +813,7 @@ cetem.gov.br
 cetene.gov.br
 ceu.edu
 ceub.br
+cfxy.edu.cn
 cgee.org.br
 cgu.edu
 ch-stbrieuc.fr
@@ -1170,6 +1171,7 @@ cumbria.ac.uk
 cumhuriyet.edu.tr
 cumminscollege.org
 cumt.edu.cn
+cumtb.edu.cn
 cunef.edu
 cuni.cz
 cuo.ac.in
@@ -1329,6 +1331,7 @@ dnsshape.org
 do-johodai.ac.jp
 doba.si
 dobrateta.si
+dokkyo.ac.jp
 dokkyomed.ac.jp
 dolni-bousov.cz
 dom-antonaskale.si
@@ -3929,7 +3932,6 @@ lutonsfc.ac.uk
 lvmontessori.no
 lvs.no
 lybskole.no
-lyit.ie
 lyngdal.kommune.no
 lyngen.kommune.no
 lythamsixth.ac.uk
@@ -5499,6 +5501,7 @@ renater.fr
 rendalen.kommune.no
 rennebu.kommune.no
 rennes-sb.com
+renu.ac.ug
 renyi.hu
 research.gov
 research4life.org
@@ -5844,6 +5847,7 @@ shao.ac.cn
 shbs.no
 shcc.edu.cn
 shcg.ac.uk
+shcmc.edu.cn
 shct.edu.om
 shec.edu.cn
 sheffcol.ac.uk
@@ -6179,6 +6183,7 @@ storfjord.kommune.no
 stourbridge.ac.uk
 stpaul.no
 stpaulgymnas.no
+stpeterandpaul.sc.ug
 stps-trbovlje.si
 stramon.no
 stran.ac.uk
@@ -7895,7 +7900,6 @@ wehi.edu.au
 weizenbaum-institut.de
 weizmann.ac.il
 welingkar.org
-wellcome.ac.uk
 wellcome.org
 wellesley.edu
 wesleyan.edu
