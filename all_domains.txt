@@ -337,6 +337,7 @@ atomwide.com
 atu.edu.tr
 atu.ie
 atyakseedss.sc.ug
+au-plovdiv.bg
 au.dk
 au.edu.pk
 aua.gr
@@ -4315,7 +4316,6 @@ mt.kommune.no
 mta.ca
 mta.hu
 mtc.edu.cn
-mtc.edu.om
 mte.eu
 mtholyoke.edu
 mtsac.edu
@@ -4409,6 +4409,7 @@ naroysund.kommune.no
 narvik.kommune.no
 narvikmontessori.no
 natcen.ac.uk
+natfiz.bg
 nationalarchives.gov.uk
 nationwidechildrens.org
 natur.vgs.no
@@ -5856,6 +5857,7 @@ sc-krsko.si
 sc-nm.si
 sc-s.si
 sc-sezana.si
+sc-sg.si
 sc.edu
 scalda.nl
 scau.edu.cn
@@ -6342,6 +6344,7 @@ stmarysrushoroza.sc.ug
 stmarysssnkozi.sc.ug
 stmathiaskalembass.sc.ug
 stmichaelhighschool.ac.ug
+stmu.ca
 stmugaggass.sc.ug
 stockport.ac.uk
 stockton.ac.uk
@@ -7165,6 +7168,7 @@ uncg.edu
 unche.or.ug
 uncisal.edu.br
 unco.edu
+uncw.edu
 und.edu
 une.edu.au
 uneal.edu.br
@@ -7377,6 +7381,7 @@ unipmn.it
 unipo.sk
 unipr.it
 unipu.hr
+unipune.ac.in
 unipv.it
 unir.br
 unir.net
@@ -7570,6 +7575,7 @@ uow.edu.au
 uow.edu.pk
 uowm.gr
 up.ac.za
+up.edu.br
 up.pt
 upacifico.edu.ec
 upatras.gr
@@ -8208,7 +8214,6 @@ wwsi.edu.pl
 wwu.edu
 wxc.edu.cn
 wyb.ac.lk
-wyke.ac.uk
 wynu.edu.cn
 wzu.edu.cn
 xaau.edu.cn
