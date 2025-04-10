@@ -266,6 +266,7 @@ aquinas.ac.uk
 arcada.fi
 archi.fr
 arcnl.nl
+arcticcollege.ca
 ardahan.edu.tr
 ardal.kommune.no
 arden.ac.uk
@@ -332,6 +333,7 @@ atk.hu
 atlanticomedio.es
 atlas.edu.tr
 atmiyauni.ac.in
+atomki.hu
 atomwide.com
 atu.edu.tr
 atu.ie
@@ -673,6 +675,7 @@ buitms.edu.pk
 bukoolicollege.sc.ug
 bulindiss.sc.ug
 bundeswehr.de
+buniv.edu.in
 bupt.edu.cn
 burg-halle.de
 burlo.trieste.it
@@ -1001,6 +1004,7 @@ comunidadunir.net
 concordia.ab.ca
 concordia.ca
 condorcet.be
+conestogac.on.ca
 confederationcollege.ca
 congreso.es
 conncoll.edu
@@ -1077,6 +1081,7 @@ cqnu.edu.cn
 cqpc.edu.cn
 cqu.edu.cn
 cque.edu.cn
+cqust.edu.cn
 cqut.edu.cn
 cqwu.edu.cn
 cranfield.ac.uk
@@ -1171,6 +1176,7 @@ ctksfc.ac.uk
 ctles.fr
 ctsdonbosco.edu.ec
 cttc.es
+ctuap.ac.in
 cu.edu.tr
 cuanschutz.edu
 cuc.edu.cn
@@ -2047,7 +2053,6 @@ geosphere.at
 geostore.com
 geps.si
 gesis.org
-getinclusive.com
 getty.edu
 gettysburg.edu
 gfcmsu.edu
@@ -2884,6 +2889,7 @@ iiitdmj.ac.in
 iiitkottayam.ac.in
 iiitn.ac.in
 iiitp.ac.in
+iiitsonepat.ac.in
 iima.ac.in
 iimsirmaur.ac.in
 iimv.ac.in
@@ -4697,6 +4703,7 @@ nsf.gov
 nsi.edu.cn
 nsk.hr
 nssc.ac.cn
+nsut.ac.in
 nsz.hr
 nszssh.hr
 ntg.no
@@ -5712,6 +5719,7 @@ riyadh.edu.sa
 rjt.ac.lk
 rkh.se
 rkka.cz
+rm.dk
 rmc.dk
 rncm.ac.uk
 rndc.bg
@@ -6476,6 +6484,7 @@ sykkylven.kommune.no
 sylu.edu.cn
 symplicity.com
 synchrotron-soleil.fr
+synu.edu.cn
 syphu.edu.cn
 syr.edu
 sysu.edu.cn
@@ -7093,6 +7102,7 @@ uludag.edu.tr
 ulusiada.pt
 ulusofona.pt
 ulvik.kommune.no
+um.edu.mo
 um.edu.mt
 um.es
 um.si
@@ -7277,7 +7287,6 @@ unibit.bg
 unibo.it
 unibocconi.it
 unibs.it
-unibuc.ro
 unibw-muenchen.de
 unibw.de
 unibz.it
@@ -7420,7 +7429,6 @@ unist.ac.kr
 unist.hr
 unistra.fr
 unistrapg.it
-unisul.br
 unisza.edu.my
 uniszpa.hu
 unitau.br
