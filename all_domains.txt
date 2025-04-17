@@ -659,6 +659,7 @@ btu.edu.tr
 bu.edu
 bu.edu.sa
 bu.nl
+bua.edu.cn
 buaa.edu.cn
 buas.nl
 bucea.edu.cn
@@ -1042,6 +1043,7 @@ conspaganini.it
 conspv.it
 conssp.it
 constp.it
+construcaopublica.gov.pt
 consvi.it
 consvv.it
 conts.it
@@ -1142,7 +1144,6 @@ csgm.si
 csic.es
 csiic.edu.cn
 csir.co.za
-cslg.edu.cn
 csn.edu
 csod.si
 css.edu.om
@@ -1178,6 +1179,7 @@ ctles.fr
 ctsdonbosco.edu.ec
 cttc.es
 ctuap.ac.in
+cu.ac.bd
 cu.edu.tr
 cuanschutz.edu
 cuc.edu.cn
@@ -1436,7 +1438,6 @@ dumgal.ac.uk
 dundee.ac.uk
 dundeeandangus.ac.uk
 dunstable.ac.uk
-duo.nl
 duq.edu
 dur.ac.uk
 dusanabordona.si
@@ -2004,12 +2005,14 @@ gamleveienskole.no
 gamvik.kommune.no
 gann.no
 gantep.edu.tr
+garnet.edu.gh
 garr.it
 gaslini.org
 gasp.si
 gatech.edu
 gateshead.ac.uk
 gateway.ac.uk
+gauhati.ac.in
 gausdal.kommune.no
 gayazahs.sc.ug
 gbcnv.edu
@@ -2555,6 +2558,7 @@ hochschule-stralsund.de
 hochschule-trier.de
 hof-university.de
 hogent.be
+hokudai.ac.jp
 hol.kommune.no
 holar.is
 holeskolen.no
@@ -2740,6 +2744,7 @@ ias.edu
 ias.si
 iasa.gr
 iastate.edu
+iat.si
 iau.edu.sa
 iave.pt
 iay.org.uk
@@ -3081,7 +3086,6 @@ ipg.pt
 iphy.ac.cn
 ipiaget.org
 ipiaget.pt
-ipipan.waw.pl
 ipk-gatersleben.de
 ipl.pt
 ipleiria.pt
@@ -4751,6 +4755,7 @@ nwhc.ac.uk
 nwipb.ac.cn
 nwkcollege.ac.uk
 nwnu.edu.cn
+nwo-i.nl
 nwo.nl
 nwpu.edu.cn
 nwrc.ac.uk
@@ -5581,6 +5586,7 @@ qdio.ac.cn
 qdu.edu.cn
 qfnu.edu.cn
 qgyhbs.com
+qhit.edu.cn
 qhmu.edu.cn
 qhnu.edu.cn
 qhvu.edu.cn
@@ -5758,6 +5764,7 @@ rsm.nl
 rss-ce.si
 rsu.edu.ng
 rtu.lv
+ru.ac.bd
 ru.ac.za
 ru.is
 ru.nl
@@ -6512,6 +6519,7 @@ sztu.edu.cn
 szu.cz
 szu.edu.cn
 szu.sk
+szut.edu.cn
 tachibana-u.ac.jp
 tacr.cz
 tafensw.edu.au
@@ -6572,6 +6580,7 @@ temple.edu
 tenet.ac.za
 tennessee.edu
 tera.hr
+ternet.or.tz
 tes.edu.ec
 test-arnes.si
 tf.hu
@@ -7432,6 +7441,7 @@ unist.ac.kr
 unist.hr
 unistra.fr
 unistrapg.it
+unisul.br
 unisza.edu.my
 uniszpa.hu
 unitau.br
@@ -7814,7 +7824,6 @@ vanderbilt.edu
 vang.kommune.no
 vangoghmuseum.nl
 vanlodenstein.nl
-vannamo.no
 vanylven.kommune.no
 vardo.kommune.no
 varndean.ac.uk
