@@ -266,7 +266,7 @@ aquinas.ac.uk
 arcada.fi
 archi.fr
 arcnl.nl
-arcticcollege.ca
+arcticcollege.com
 ardahan.edu.tr
 ardal.kommune.no
 arden.ac.uk
@@ -432,6 +432,7 @@ bb.si
 bbau.ac.in
 bbaw.de
 bbc.edu.cn
+bbgu.edu.cn
 bbk.ac.uk
 bbmc.edu.cn
 bbmri-eric.eu
@@ -1424,7 +1425,6 @@ dti.sk
 dtu.dk
 du.ac.in
 du.edu
-du.edu.om
 du.se
 dudleycol.ac.uk
 duf.hu
@@ -1593,7 +1593,6 @@ emse.fr
 emuni.si
 enac.fr
 enap.ca
-enap.gov.br
 enautica.pt
 enc-sorbonne.fr
 enea.it
@@ -2287,6 +2286,7 @@ gzarts.edu.cn
 gzhmu.edu.cn
 gzhu.edu.cn
 gznu.edu.cn
+gztrc.edu.cn
 gzy.edu.cn
 h-brs.de
 h-da.de
@@ -2353,7 +2353,6 @@ havant.ac.uk
 haverford.edu
 havering-college.ac.uk
 havering-sfc.ac.uk
-havust.edu.cn
 haw-hamburg.de
 haw-landshut.de
 hawaii.edu
@@ -2843,7 +2842,6 @@ ifrn.edu.br
 ifro.edu.br
 ifrr.edu.br
 ifrs.edu.br
-ifs.edu.br
 ifs.hr
 ifs.org.uk
 ifsc.edu.br
@@ -3686,6 +3684,7 @@ knou.ac.kr
 knowsleycollege.ac.uk
 knu.ac.kr
 kobacaj.si
+kobepharma-u.ac.jp
 kocaeli.edu.tr
 kochi-ct.ac.jp
 kochi-tech.ac.jp
@@ -6434,6 +6433,7 @@ suro.cz
 surrey.ac.uk
 sus.ac.jp
 sus.edu.cn
+suse.edu.cn
 suss.edu.sg
 sussex.ac.uk
 sust.edu.cn
@@ -6476,6 +6476,7 @@ swufe.edu.cn
 swun.edu.cn
 swupl.edu.cn
 swust.edu.cn
+sxau.edu.cn
 sxdzkj.edu.cn
 sxicc.ac.cn
 sxit.edu.cn
@@ -8230,6 +8231,7 @@ wynu.edu.cn
 wzu.edu.cn
 xaau.edu.cn
 xacxz.edu.cn
+xaipe.edu.cn
 xaiu.edu.cn
 xamk.fi
 xatu.edu.cn
@@ -8297,6 +8299,7 @@ ynau.edu.cn
 ynnu.edu.cn
 ynu.ac.jp
 ynu.edu.cn
+ynucm.edu.cn
 ynufe.edu.cn
 yokohama-cu.ac.jp
 yonago-k.ac.jp
