@@ -789,6 +789,7 @@ cd-cc.si
 cdd.ac.uk
 cdh.org.zm
 cdi-univerzum.si
+cdnu.edu.cn
 cdsu.edu.cn
 cdtn.br
 cdu.edu.cn
@@ -1593,6 +1594,7 @@ emse.fr
 emuni.si
 enac.fr
 enap.ca
+enap.gov.br
 enautica.pt
 enc-sorbonne.fr
 enea.it
@@ -1884,6 +1886,7 @@ fjjxu.edu.cn
 fjmu.edu.cn
 fjnu.edu.cn
 fjord.kommune.no
+fjpsc.edu.cn
 fjs.org.br
 fjsmu.edu.cn
 fjtcm.edu.cn
@@ -2276,6 +2279,7 @@ gxetic.edu.cn
 gxmu.edu.cn
 gxmzu.edu.cn
 gxnu.edu.cn
+gxtcmu.edu.cn
 gxu.edu.cn
 gxufl.edu.cn
 gxust.edu.cn
@@ -2549,6 +2553,7 @@ hnp.edu.cn
 hnskxy.cn
 hnu.edu.cn
 hnuahe.edu.cn
+hnust.edu.cn
 hochschule-bc.de
 hochschule-burgenland.at
 hochschule-rhein-waal.de
@@ -3590,6 +3595,7 @@ kmetijski-zavod.si
 kmh.se
 kmj.si
 kmkg-mrah.be
+kmmu.edu.cn
 kmol.cz
 kmu.edu.pk
 kmu.edu.tr
@@ -3922,6 +3928,7 @@ llgc.org.uk
 llnl.gov
 llqg.ac.cn
 llu.edu
+llu.edu.cn
 lmc.ac.uk
 lmta.lt
 lmu.de
@@ -4007,6 +4014,7 @@ luawms.edu.pk
 luc.edu
 luca-arts.be
 ludvik.si
+luibe.edu.cn
 luiss.it
 luj.si
 lukas.vgs.no
@@ -4079,6 +4087,7 @@ manipuruniv.ac.in
 manjasihs.sc.ug
 mansfield.edu
 mao.si
+maren.ac.mw
 mariamhigh.com
 marijin-vrtec.si
 marin.edu
@@ -4794,6 +4803,7 @@ oasi.en.it
 ob-valdoltra.si
 oba.nl
 obalne-galerije.si
+oberlin.edu
 obhpknin.hr
 obihiro.ac.jp
 obrtnicko-uciliste.hr
@@ -8228,6 +8238,7 @@ wwu.edu
 wxc.edu.cn
 wyb.ac.lk
 wynu.edu.cn
+wzbc.edu.cn
 wzu.edu.cn
 xaau.edu.cn
 xacxz.edu.cn
@@ -8259,7 +8270,6 @@ xju.edu.cn
 xjufe.edu.cn
 xjust.edu.cn
 xjzfu.edu.cn
-xmmc.edu.cn
 xmu.edu.cn
 xmut.edu.cn
 xnai.edu.cn
@@ -8385,7 +8395,9 @@ zrsvn.si
 zs-ajdovscina.si
 zsem.hr
 zstu.edu.cn
+ztbu.edu.cn
 ztm.si
+ztu.edu.cn
 zu.de
 zu.edu.pk
 zua.edu.cn
