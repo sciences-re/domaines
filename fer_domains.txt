@@ -261,6 +261,7 @@ apoz.edu.pl
 appstate.edu
 apsl.edu.pl
 apu.edu
+apwb.pl
 aqnu.edu.cn
 aquinas.ac.uk
 arcada.fi
@@ -434,7 +435,6 @@ bbaw.de
 bbc.edu.cn
 bbgu.edu.cn
 bbk.ac.uk
-bbmc.edu.cn
 bbmri-eric.eu
 bbmu.edu.cn
 bbsrc.ac.uk
@@ -662,6 +662,7 @@ bu.nl
 bua.edu.cn
 buaa.edu.cn
 buas.nl
+buc.edu.om
 bucea.edu.cn
 buckingham.ac.uk
 bucknell.edu
@@ -1203,6 +1204,7 @@ cuit.edu.cn
 cuiwah.edu.pk
 cujammu.ac.in
 cukerala.ac.in
+cuklibrary.ac.in
 cultura.gov.it
 cumbria.ac.uk
 cumhuriyet.edu.tr
@@ -1426,6 +1428,7 @@ dti.sk
 dtu.dk
 du.ac.in
 du.edu
+du.edu.om
 du.se
 dudleycol.ac.uk
 duf.hu
@@ -2365,6 +2368,7 @@ haywardsheath.ac.uk
 hazu.hr
 hb.se
 hbcit.edu.cn
+hbeu.edu.cn
 hbk-bs.de
 hbmu.edu.cn
 hbmzu.edu.cn
@@ -4204,6 +4208,7 @@ mgu.ac.in
 mgu.edu.tr
 mh-freiburg.de
 mh-hannover.de
+mh-luebeck.de
 mhb-fontane.de
 miami.edu
 miamioh.edu
@@ -4339,6 +4344,7 @@ mt.kommune.no
 mta.ca
 mta.hu
 mtc.edu.cn
+mtc.edu.om
 mte.eu
 mtholyoke.edu
 mtsac.edu
@@ -4576,6 +4582,7 @@ niesr.ac.uk
 nifs-k.ac.jp
 nifs.ac.jp
 nift.ac.in
+niftem-t.ac.in
 nifu.no
 nig.ac.jp
 niglas.ac.cn
@@ -4765,7 +4772,6 @@ nwo-i.nl
 nwo.nl
 nwpu.edu.cn
 nwrc.ac.uk
-nwsp.pl
 nwu.ac.za
 nwu.edu.cn
 nwuoas.com
@@ -5526,6 +5532,7 @@ private-hochschulen-deutschland.de
 projekt-atol.si
 prometna.si
 proofidcloud.co.uk
+prsuniv.ac.in
 prva-os-sg.si
 prvagim.si
 prz.edu.pl
@@ -5736,6 +5743,7 @@ rkh.se
 rkka.cz
 rm.dk
 rmc.dk
+rmit.edu.au
 rncm.ac.uk
 rndc.bg
 rnngroup.ac.uk
