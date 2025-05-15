@@ -1080,7 +1080,6 @@ cput.ac.za
 cqcst.edu.cn
 cqctcm.edu.cn
 cqie.edu.cn
-cqjtu.edu.cn
 cqmu.edu.cn
 cqnu.edu.cn
 cqpc.edu.cn
@@ -1356,7 +1355,6 @@ dknm.si
 dkrz.de
 dla-marbach.de
 dlmu.edu.cn
-dlnu.edu.cn
 dlou.edu.cn
 dlr.de
 dlu.edu.cn
@@ -1530,6 +1528,7 @@ eek.ee
 eenet.ee
 efc.ac.uk
 efeo.net
+efljubljana.si
 efos.hr
 efrei.net
 efrome.it
@@ -2027,6 +2026,7 @@ gbv.de
 gcc.si
 gchs.ac.ug
 gcu.ac.uk
+gcu.edu.cn
 gcwuf.edu.pk
 gcwus.edu.pk
 gda.pl
@@ -2836,9 +2836,9 @@ ifj.edu.pl
 ifma.edu.br
 ifmg.edu.br
 ifmif-dones.es
-ifms.edu.br
 ifmt.edu.br
 ifnmg.edu.br
+ifo.de
 ifo.gov.it
 ifpa.edu.br
 ifpb.edu.br
@@ -2851,6 +2851,7 @@ ifrn.edu.br
 ifro.edu.br
 ifrr.edu.br
 ifrs.edu.br
+ifs.edu.br
 ifs.hr
 ifs.org.uk
 ifsc.edu.br
@@ -3063,7 +3064,6 @@ io.kommune.no
 ioa.ac.cn
 iobm.edu.pk
 ioe.ac.cn
-ioe.ac.uk
 ionio.gr
 ior.it
 iosce.si
@@ -3267,7 +3267,6 @@ jaxa.jp
 jazanu.edu.sa
 jcc.ac.uk
 jcga.ac.jp
-jci.edu.cn
 jcu.cz
 jcu.edu.au
 jefferson.edu
@@ -3433,6 +3432,7 @@ kfmc.med.sa
 kfskolen.no
 kfu.edu.sa
 kfueit.edu.pk
+kfupm.edu.sa
 kg.ac.rs
 kg.vgs.no
 kgbl.si
@@ -4079,7 +4079,6 @@ malci-beliceve.si
 malinamalina.si
 malone.edu
 malselv.kommune.no
-maltepe.edu.tr
 malvik.kommune.no
 mamiraua.org.br
 manavrachna.edu.in
@@ -5613,6 +5612,7 @@ qmc.ac.uk
 qmu.ac.uk
 qmu.edu.cn
 qmul.ac.uk
+qqhru.edu.cn
 qu.edu.sa
 quasarinstitute.it
 qub.ac.uk
@@ -6287,7 +6287,6 @@ sru.edu
 sruc.ac.uk
 ss-crnomelj.si
 ss-venopilon.si
-sscc.edu.ec
 ssdomzale.si
 ssfkz.si
 ssgt-mb.si
@@ -6319,6 +6318,7 @@ staffordcoll.ac.uk
 staffs.ac.uk
 stamford.ac.uk
 stamforduniversity.edu.bd
+stami.no
 stampar.hr
 stams.no
 stanford.edu
@@ -6641,6 +6641,7 @@ tingvoll.kommune.no
 tinn.kommune.no
 tio.nl
 tirol-kliniken.at
+tit.edu.cn
 tjarts.edu.cn
 tjau.edu.cn
 tjcu.edu.cn
@@ -6670,6 +6671,7 @@ tmw.at
 tno.nl
 tnpesu.org
 tnuni.sk
+togorer.tg
 toho-u.ac.jp
 tohoku-mpu.ac.jp
 tohoku.ac.jp
@@ -8274,7 +8276,6 @@ xjmu.edu.cn
 xjnu.edu.cn
 xjtlu.edu.cn
 xjtu.edu.cn
-xju.edu.cn
 xjufe.edu.cn
 xjust.edu.cn
 xjzfu.edu.cn
@@ -8314,6 +8315,7 @@ ymu.edu.cn
 ynao.ac.cn
 ynart.edu.cn
 ynau.edu.cn
+ynjgy.edu.cn
 ynnu.edu.cn
 ynu.ac.jp
 ynu.edu.cn
