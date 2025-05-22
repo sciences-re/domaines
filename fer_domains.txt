@@ -109,7 +109,6 @@ act.edu.om
 activatelearning.ac.uk
 actorscentreaustralia.com.au
 adelaide.edu.au
-adiguzel.edu.tr
 adiut.fr
 adiuva.it
 adiyaman.edu.tr
@@ -704,6 +703,7 @@ cadbury.ac.uk
 cadburycollege.ac.uk
 cadcol.ac.uk
 cafa.edu.cn
+cafuc.edu.cn
 caii.edu.cn
 calderdale.ac.uk
 callegari.hr
@@ -942,6 +942,7 @@ clusius.nl
 cmaisonneuve.qc.ca
 cmb.ac.lk
 cmc.edu
+cmc.edu.cn
 cmccd.edu
 cmepius.si
 cmi.no
@@ -1358,6 +1359,7 @@ dlmu.edu.cn
 dlou.edu.cn
 dlr.de
 dlu.edu.cn
+dlufe.edu.cn
 dlufl.edu.cn
 dlut.edu.cn
 dmjx.dk
@@ -1991,6 +1993,7 @@ furness.ac.uk
 fusp-edu.it
 fuwai.com
 fuwaihospital.org
+fv-berlin.de
 fwf.ac.at
 fynu.edu.cn
 fyresdal.kommune.no
@@ -2391,7 +2394,6 @@ hct.ac.uk
 hct.edu.om
 hcu-hamburg.de
 hdbw-hochschule.de
-hdc.edu.cn
 hdh.nl
 hdm-stuttgart.de
 hdu.edu.cn
@@ -2704,6 +2706,7 @@ hull.ac.uk
 humber.ca
 humboldt.edu
 hun-ren.hu
+hunau.edu.cn
 hundeidvik.org
 hunimed.eu
 hunnu.edu.cn
@@ -2836,6 +2839,7 @@ ifj.edu.pl
 ifma.edu.br
 ifmg.edu.br
 ifmif-dones.es
+ifms.edu.br
 ifmt.edu.br
 ifnmg.edu.br
 ifo.de
@@ -3291,8 +3295,8 @@ jive.nl
 jklu.edu.in
 jku.at
 jlab.org
-jlart.edu.cn
 jlau.edu.cn
+jlbtc.edu.cn
 jlnu.edu.cn
 jlsu.edu.cn
 jlu.edu.cn
@@ -3806,6 +3810,7 @@ kvs-lyngdal.no
 kvsvennesla.no
 kvt.vgs.no
 kw1c.nl
+kwansei.ac.jp
 kwrwater.nl
 kyambogocollege.sc.ug
 kyarusoziss.sc.ug
@@ -5302,7 +5307,6 @@ oszk.hu
 oszrece.si
 oszuzemberk.si
 otago.ac.nz
-otc.edu
 otc.edu.om
 oth-aw.de
 oth-regensburg.de
@@ -6037,6 +6041,7 @@ sgul.ac.uk
 sgv.si
 shanghaitech.edu.cn
 shao.ac.cn
+sharda.ac.in
 shbs.no
 shcc.edu.cn
 shcg.ac.uk
@@ -7317,6 +7322,7 @@ unibit.bg
 unibo.it
 unibocconi.it
 unibs.it
+unibuc.ro
 unibw-muenchen.de
 unibw.de
 unibz.it
@@ -7328,7 +7334,6 @@ unicam.it
 unicamp.br
 unicampus.it
 unican.es
-unicap.br
 unicas.it
 unicath.hr
 unicatt.it
@@ -7702,6 +7707,7 @@ usst.edu.cn
 ust.hk
 ustb.edu.cn
 ustc.edu.cn
+usth.edu.cn
 ustl.edu.cn
 usts.edu.cn
 usu.edu
@@ -8246,6 +8252,7 @@ wvu.edu
 wwsi.edu.pl
 wwu.edu
 wxc.edu.cn
+wxu.edu.cn
 wyb.ac.lk
 wynu.edu.cn
 wzbc.edu.cn
