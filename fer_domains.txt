@@ -655,7 +655,6 @@ bsu.edu.cn
 bsz-bw.de
 btc.ac.uk
 bth.se
-btmc.edu.cn
 bts.si
 bttc.edu.cn
 btu.edu.tr
@@ -803,7 +802,6 @@ cea.fr
 cecierj.edu.br
 cedarcrest.edu
 cedia.org.ec
-cefet-rj.br
 cefetmg.br
 cegeptr.qc.ca
 cei.edu
@@ -1290,6 +1288,7 @@ ddvic.si
 de-csv.nl
 deakin.edu.au
 defense.gouv.fr
+defitech.tg
 deic.dk
 delfino-blu.si
 delk.no
@@ -1571,6 +1570,7 @@ einsteinmed.org
 eizg.hr
 ejf.hu
 ek-cer.hu
+eka.edu.lv
 ekke.gr
 eko-konnect.org.ng
 ekonomska-ms.si
@@ -2146,7 +2146,6 @@ glasgowclyde.ac.uk
 glasgowkelvin.ac.uk
 glasir.fo
 glazer.si
-glmc.edu.cn
 gloppen.kommune.no
 glos.ac.uk
 gloscol.ac.uk
@@ -2696,7 +2695,6 @@ huc.edu
 hud.ac.uk
 huddnewcoll.ac.uk
 hudinja.si
-hue.edu.cn
 hueb.edu.cn
 huel.edu.cn
 hufe.edu.cn
@@ -2747,6 +2745,7 @@ iad-arts.be
 iadt.ie
 iae.ac.cn
 iaen.edu.ec
+iai-togo.tg
 iam.si
 iamo.de
 iap-kborn.de
@@ -5786,6 +5785,7 @@ royalmarsdenschool.ac.uk
 royalroads.ca
 royrvik.kommune.no
 rpi.edu
+rsh-duesseldorf.de
 rsm.nl
 rss-ce.si
 rsu.edu.ng
@@ -6341,7 +6341,6 @@ starkstate.edu
 stas-ljubljana.si
 statistics.gov.uk
 statped.no
-statsbiblioteket.dk
 stavanger.kommune.no
 stbrn.ac.uk
 stc-r.nl
@@ -6510,6 +6509,7 @@ swust.edu.cn
 sxau.edu.cn
 sxdzkj.edu.cn
 sxicc.ac.cn
+sxit.edu.cn
 sxmu.edu.cn
 sxnu.edu.cn
 sxu.edu.cn
@@ -6539,7 +6539,6 @@ szks.si
 szn.it
 szpa.hu
 szsce.si
-szsit.edu.cn
 szslj.si
 szsms.si
 sztaki.hu
@@ -6762,6 +6761,7 @@ tu-dortmund.de
 tu-dresden.de
 tu-freiberg.de
 tu-ilmenau.de
+tu-plovdiv.bg
 tu-sofia.bg
 tu.edu.sa
 tuat.ac.jp
@@ -6884,6 +6884,7 @@ ucacue.edu.ec
 ucalgary.ca
 ucam.edu
 ucanr.edu
+ucao-uut.tg
 ucas.ac.cn
 ucass.edu.cn
 ucavila.es
@@ -6956,6 +6957,7 @@ udg.edu
 udima.es
 udir.cloud
 udir.no
+udit.es
 udk-berlin.de
 udl.cat
 udla.edu.ec
@@ -7023,7 +7025,6 @@ ufjf.br
 ufl.edu
 ufla.br
 ufm.dk
-ufma.br
 ufmg.br
 ufms.br
 ufmt.br
@@ -7708,6 +7709,7 @@ usindh.edu.pk
 usj.es
 uskudar.edu.tr
 usm.edu
+usm.md
 usm.my
 usms.ac.ma
 usn.no
@@ -8178,7 +8180,6 @@ weymouth.ac.uk
 wfmc.edu.cn
 wfu.edu
 wfu.edu.cn
-whcm.edu.cn
 whigg.ac.cn
 whiob.ac.cn
 whiov.ac.cn
@@ -8413,7 +8414,6 @@ zlu.si
 zlus.si
 zmst.si
 zmu.edu.cn
-zois-berlin.de
 zone.college
 zonecollege.nl
 zonmw.nl
