@@ -108,6 +108,8 @@ acs.si
 act.edu.om
 activatelearning.ac.uk
 actorscentreaustralia.com.au
+adbk-nuernberg.de
+adbk.de
 adelaide.edu.au
 adiut.fr
 adiuva.it
@@ -322,6 +324,7 @@ astem.or.jp
 aston.ac.uk
 astron.nl
 astrumcollege.nl
+asu.ac.in
 asu.edu
 asu.edu.om
 at-hyogo.ac.jp
@@ -335,6 +338,7 @@ atk.hu
 atlanticomedio.es
 atlas.edu.tr
 atmiyauni.ac.in
+atomix.ac.uk
 atomki.hu
 atomwide.com
 atu.edu.gh
@@ -655,6 +659,7 @@ bsu.edu.cn
 bsz-bw.de
 btc.ac.uk
 bth.se
+btmc.edu.cn
 bts.si
 bttc.edu.cn
 btu.edu.tr
@@ -802,6 +807,7 @@ cea.fr
 cecierj.edu.br
 cedarcrest.edu
 cedia.org.ec
+cefet-rj.br
 cefetmg.br
 cegeptr.qc.ca
 cei.edu
@@ -1984,7 +1990,6 @@ fullerton.edu
 fumec.br
 fun.ac.jp
 fundacaoguama.org.br
-fundacaowilsonpicler.org.br
 fundaciondescubre.es
 fundaj.gov.br
 funep.es
@@ -2376,7 +2381,6 @@ hazu.hr
 hb.se
 hbeu.edu.cn
 hbk-bs.de
-hbmu.edu.cn
 hbmzu.edu.cn
 hbnu.edu.cn
 hbo-academy.nl
@@ -2461,6 +2465,7 @@ hfbk-dresden.de
 hfbk-hamburg.de
 hfbk.net
 hfcas.ac.cn
+hff-muc.de
 hfg-gmuend.de
 hfg-offenbach.de
 hfh.ch
@@ -2802,6 +2807,7 @@ ict.edu.om
 ictp.it
 id.edu.cn
 ide.go.jp
+idealinstitute.edu.in
 identityfor.co.uk
 idi.hr
 idiap.ch
@@ -4093,6 +4099,7 @@ malci-beliceve.si
 malinamalina.si
 malone.edu
 malselv.kommune.no
+maltepe.edu.tr
 malvik.kommune.no
 mamiraua.org.br
 manavrachna.edu.in
@@ -6040,6 +6047,7 @@ sgb.gov.br
 sggos.si
 sggw.edu.pl
 sgh.waw.pl
+sgmc.ac.uk
 sgmtu.edu.cn
 sgou.ac.in
 sgscol.ac.uk
@@ -6308,6 +6316,7 @@ ssgtlj.si
 ssgtr.si
 ssj-jesenice.si
 ssjj.si
+ssmeridionale.it
 ssml.eu
 ssmlcarlobo.it
 ssmlinternazionale.it
@@ -6431,6 +6440,7 @@ stvincent.ac.uk
 su.edu.om
 su.se
 suaslj.si
+suat-sz.edu.cn
 subu.edu.tr
 suc.edu.om
 suda.edu.cn
@@ -7322,6 +7332,7 @@ uni.opole.pl
 unia.es
 uniag.sk
 uniandes.edu.ec
+uniarp.edu.br
 uniarts.fi
 uniarts.se
 uniba.it
@@ -7391,7 +7402,6 @@ unikore.it
 unil.ch
 unila.edu.br
 unilab.edu.br
-unilasalle.edu.br
 unilasalle.fr
 unileoben.ac.at
 unileon.es
