@@ -799,6 +799,7 @@ cd-cc.si
 cdd.ac.uk
 cdh.org.zm
 cdi-univerzum.si
+cdjcc.edu.cn
 cdnu.edu.cn
 cdsu.edu.cn
 cdtn.br
@@ -1355,7 +1356,7 @@ digitrajen.si
 dimm.hr
 dipf.de
 diplomacija.hr
-dit.ie
+direitofranca.br
 djkbf.hr
 djtu.edu.cn
 dkd.hr
@@ -1919,6 +1920,7 @@ fleming.gr
 flesberg.kommune.no
 flinders.edu.au
 florida.es
+floridapoly.edu
 fmach.eu
 fmalgaja.si
 fmc-campos.com.br
@@ -1953,6 +1955,7 @@ forum.nl
 fos-unm.si
 fossumkollektivet.no
 fosu.edu.cn
+fpablovi.org
 fpul-lyon.org
 fpz.hr
 fpzg.hr
@@ -1991,6 +1994,7 @@ fullerton.edu
 fumec.br
 fun.ac.jp
 fundacaoguama.org.br
+fundacaowilsonpicler.org.br
 fundaciondescubre.es
 fundaj.gov.br
 funep.es
@@ -2285,6 +2289,8 @@ gulbenkian.pt
 gulen.kommune.no
 guluarmyss.sc.ug
 guluhigh.ac.ug
+gumed.edu.pl
+gumed.pl
 gumushane.edu.tr
 gutech.edu.om
 gvsu.edu
@@ -4379,6 +4385,7 @@ mubs.ac.ug
 muc.edu.cn
 muet.edu.pk
 muetkhp.edu.pk
+mug.edu.pl
 muhn.edu.cn
 muho-mannheim.de
 muib.no
@@ -4627,6 +4634,7 @@ nimte.ac.cn
 nina.no
 nionett.no
 nioz.nl
+niperrbl.ac.in
 nipos.cz
 nipr.ac.jp
 nipv.nl
@@ -5388,6 +5396,7 @@ pdsu.edu.cn
 pdx.edu
 pearsoncollege.com
 pei.si
+peihua.edu.cn
 peizheng.edu.cn
 pembrokeshire.ac.uk
 perdanauniversity.edu.my
@@ -6883,6 +6892,7 @@ ubalt.edu
 ubb.edu.pl
 ubc.ca
 ube.edu.ec
+ube.fr
 ubi.pt
 ubishops.ca
 ubu.es
@@ -6992,6 +7002,7 @@ uel.br
 uem.br
 uem.edu.in
 uema.br
+uemasul.edu.br
 uemc.es
 uemg.br
 uenf.br
