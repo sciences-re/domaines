@@ -87,6 +87,7 @@ academiamilitar.pt
 academiavss.si
 academicanalytics.com
 academieartemis.nl
+academyofathens.gr
 accademia.firenze.it
 accademiabelleartiba.it
 accademiadellearti.it
@@ -227,6 +228,7 @@ amss.ac.cn
 amsterdamumc.nl
 amtap.md
 amu.cz
+amu.edu.pl
 amue.fr
 anadolu.edu.tr
 anan-nct.ac.jp
@@ -304,6 +306,7 @@ as-skole.no
 asahi-u.ac.jp
 asahikawa-med.ac.jp
 asbu.edu.tr
+asds.edu.om
 aseral.kommune.no
 asfa.gr
 asfc.ac.uk
@@ -536,7 +539,6 @@ bisl.si
 bisla.sk
 bistra.si
 bistu.edu.cn
-bisu.edu.cn
 bit.edu.cn
 bits-goa.ac.in
 bits-hyderabad.ac.in
@@ -1214,6 +1216,7 @@ cuiwah.edu.pk
 cujammu.ac.in
 cukerala.ac.in
 cuklibrary.ac.in
+culr.edu.cn
 cultura.gov.it
 cumbria.ac.uk
 cumhuriyet.edu.tr
@@ -1366,7 +1369,6 @@ dknm.si
 dkrz.de
 dla-marbach.de
 dlmu.edu.cn
-dlou.edu.cn
 dlr.de
 dlu.edu.cn
 dlufe.edu.cn
@@ -1473,6 +1475,7 @@ eamv.dk
 eap.gr
 easj.dk
 eastberks.ac.uk
+eastc.ac.tz
 eastdurham.ac.uk
 eastkent.ac.uk
 eastleigh.ac.uk
@@ -2302,7 +2305,6 @@ gxmzu.edu.cn
 gxnu.edu.cn
 gxtcmu.edu.cn
 gxu.edu.cn
-gxufl.edu.cn
 gxust.edu.cn
 gyc.ac.uk
 gyig.ac.cn
@@ -2387,6 +2389,7 @@ hazu.hr
 hb.se
 hbeu.edu.cn
 hbk-bs.de
+hbmu.edu.cn
 hbmzu.edu.cn
 hbnu.edu.cn
 hbo-academy.nl
@@ -2919,6 +2922,7 @@ iiitdm.ac.in
 iiitdmj.ac.in
 iiitkottayam.ac.in
 iiitn.ac.in
+iiitnr.ac.in
 iiitp.ac.in
 iiitsonepat.ac.in
 iima.ac.in
@@ -3313,7 +3317,6 @@ jlab.org
 jlau.edu.cn
 jlbtc.edu.cn
 jlnu.edu.cn
-jlsu.edu.cn
 jlu.edu.cn
 jmskole.no
 jmu.edu
@@ -3323,6 +3326,7 @@ jnu.ac.in
 jnu.edu.cn
 jnxy.edu.cn
 joginsa.com
+johannelund.nu
 johnruskin.ac.uk
 johnshopkins.edu
 jozmos.si
@@ -3419,6 +3423,7 @@ kcc.ac.uk
 kcesmjc.in
 kcktolmin.si
 kcl.ac.uk
+kclawhsnc.edu.in
 kct.ac.in
 kct.ac.jp
 kdb.hr
@@ -3784,6 +3789,7 @@ ktu.lt
 ktun.edu.tr
 ku-linz.at
 ku.ac.ke
+ku.ac.tz
 ku.de
 ku.dk
 ku.edu
@@ -4306,6 +4312,7 @@ modyuniversity.ac.in
 mohawkcollege.ca
 mohe.ac.lk
 moheri.edu.om
+moheri.gov.om
 mojedete.si
 mojeid.cz
 mokollenskole.no
@@ -4384,6 +4391,7 @@ muc.edu.cn
 muet.edu.pk
 muetkhp.edu.pk
 mug.edu.pl
+muhas.ac.tz
 muhn.edu.cn
 muho-mannheim.de
 muib.no
@@ -4468,6 +4476,7 @@ narvikmontessori.no
 natcen.ac.uk
 natfiz.bg
 nationalarchives.gov.uk
+nationallibrary.gov.in
 nationwidechildrens.org
 natur.vgs.no
 naturalis.nl
@@ -4641,6 +4650,7 @@ nirt.res.in
 nissedal.kommune.no
 nist.gov
 nit.ac.jp
+nit.ac.tz
 nita.ac.in
 nitc.ac.in
 nitdelhi.ac.in
@@ -4682,6 +4692,7 @@ nlg.gr
 nlm.no
 nluo.ac.in
 nlzoh.si
+nm-aist.ac.tz
 nm.cz
 nmbu.no
 nmh.no
@@ -4689,6 +4700,7 @@ nmmu.ac.za
 nms.si
 nmsu.edu
 nmt.edu
+nmu.ac.in
 nmu.edu
 nnfc.re.kr
 nnnu.edu.cn
@@ -4881,6 +4893,7 @@ olvemontessori.no
 ombaci.ac.ug
 omgk.hu
 omnipasskey.com
+omren.om
 omu.edu.tr
 on.br
 oncologico.bari.it
@@ -5300,7 +5313,6 @@ ost.ch
 ostb.si
 osteroy.kommune.no
 ostfalia.de
-ostimteknik.edu.tr
 ostmarkaskole.no
 ostomaz.si
 ostpavcka.si
@@ -5736,7 +5748,6 @@ rhul.ac.uk
 ri.se
 ria.ie
 riam.ie
-ribalon.si
 ric-nm.si
 ric.si
 ricany.cz
@@ -6070,7 +6081,6 @@ sharda.ac.in
 shbs.no
 shcc.edu.cn
 shcg.ac.uk
-shct.edu.om
 shec.edu.cn
 sheffcol.ac.uk
 sheffield.ac.uk
@@ -6737,7 +6747,6 @@ tp.edu.sg
 trafford.ac.uk
 trakya.edu.tr
 trana.kommune.no
-trc.gov.om
 trentu.ca
 tresfjordenspire.no
 tresham.ac.uk
@@ -7450,6 +7459,7 @@ uniovi.es
 unip.br
 unipa.it
 unipampa.edu.br
+unipar.br
 uniparthenope.it
 unipd.it
 unipegaso.it
@@ -8208,7 +8218,6 @@ whlib.ac.cn
 whmc.edu.cn
 who.int
 whoi.edu
-whpu.edu.cn
 whsu.edu.cn
 whu.edu
 whu.edu.cn
@@ -8355,7 +8364,6 @@ ygu.ac.jp
 yic.ac.cn
 yildiz.edu.tr
 ylioppilastutkinto.fi
-ylnu.edu.cn
 ymu.edu.cn
 ynao.ac.cn
 ynart.edu.cn
