@@ -111,6 +111,7 @@ activatelearning.ac.uk
 actorscentreaustralia.com.au
 adbk-nuernberg.de
 adbk.de
+adcoesao.pt
 adelaide.edu.au
 adiut.fr
 adiuva.it
@@ -503,7 +504,6 @@ bht-berlin.de
 bhu.edu.cn
 bhu.edu.in
 bi.no
-bib.de
 biblio.cz
 biblionetgroningen.nl
 bibsys.no
@@ -1058,6 +1058,7 @@ conspv.it
 conssp.it
 constp.it
 construcaopublica.gov.pt
+constructor.university
 consvi.it
 consvv.it
 conts.it
@@ -1714,7 +1715,6 @@ esme.fr
 esmt.org
 esn.ac.lk
 esnm.si
-eso.org
 espam.edu.ec
 espas-estice-icm.fr
 espci.fr
@@ -1832,7 +1832,6 @@ ffzg.hr
 fgcu.edu
 fgg.es
 fh-aachen.de
-fh-biberach.de
 fh-bielefeld.de
 fh-burgenland.at
 fh-campuswien.ac.at
@@ -1881,7 +1880,6 @@ fie.org.uk
 fife.ac.uk
 fiksdalfriskule.no
 film-center.si
-filmakademie.de
 filmoteka.si
 filmovka.cz
 filmuniversitaet.de
@@ -2030,6 +2028,7 @@ gann.no
 gantep.edu.tr
 garnet.edu.gh
 garr.it
+garvan.org.au
 gaslini.org
 gasp.si
 gatech.edu
@@ -2422,6 +2421,7 @@ healingwayafrica.com
 health-and-medical-university.de
 heanet.ie
 hebau.edu.cn
+hebeinu.edu.cn
 hebeu.edu.cn
 hebic.edu.cn
 hebmu.edu.cn
@@ -2576,7 +2576,6 @@ hnskxy.cn
 hnu.edu.cn
 hnuahe.edu.cn
 hnust.edu.cn
-hochschule-bc.de
 hochschule-burgenland.at
 hochschule-rhein-waal.de
 hochschule-stralsund.de
@@ -3180,7 +3179,6 @@ isiafaenza.it
 isiaroma.it
 isikun.edu.tr
 isl.ac.cn
-ism.de
 ism.lt
 ismett.edu
 ismpo.sk
@@ -3267,6 +3265,7 @@ ivw.info
 iwate-u.ac.jp
 iwcollege.ac.uk
 iwm-tuebingen.de
+iwt-bremen.de
 iyte.edu.tr
 izmirekonomi.edu.tr
 izor.hr
@@ -3279,7 +3278,6 @@ iztzg.hr
 izu.edu.tr
 izum.si
 ja.net
-jacobs-university.de
 jade-hs.de
 jaertun.no
 jaist.ac.jp
@@ -3778,12 +3776,15 @@ ksamk.fi
 ksau-hs.edu.sa
 ksbu.edu.tr
 ksh-m.de
+kstu.edu.gh
 ksu.edu
+ksu.edu.cn
 ksu.edu.sa
 ksu.edu.tr
 ktf-split.hr
 kth.se
 kts-trbovlje.si
+ktu.edu.gh
 ktu.edu.tr
 ktu.lt
 ktun.edu.tr
@@ -4356,6 +4357,7 @@ mq.edu.au
 mrc.ac.uk
 mrfylke.no
 mro.si
+mrsptu.ac.in
 mrt.ac.lk
 mru.ac.ug
 mruni.eu
@@ -5768,6 +5770,7 @@ ringerike.kommune.no
 ringling.edu
 ringsaker.kommune.no
 ris-dr.si
+riseba.lv
 risor.kommune.no
 rit.edu
 ritindia.edu
@@ -6396,6 +6399,7 @@ stfx.ca
 stfx.no
 sthelens.ac.uk
 sthenryskitovu.ac.ug
+sti.edu.cn
 stimes.cn
 stin.hr
 stir.ac.uk
@@ -6918,6 +6922,7 @@ ucas.ac.cn
 ucass.edu.cn
 ucavila.es
 ucb.ac.uk
+ucc.edu.gh
 ucc.ie
 ucd.ie
 ucdavis.edu
@@ -6956,7 +6961,6 @@ uco.es
 uco.fr
 uconn.edu
 ucop.edu
-ucp.cz
 ucp.hr
 ucp.pt
 ucq.ac.uk
@@ -7022,6 +7026,7 @@ uerj.br
 uern.br
 uerr.edu.br
 uesc.br
+uesd.edu.gh
 uesmae.edu.ec
 uespi.br
 uestar.edu.ec
@@ -7031,6 +7036,7 @@ uetmardan.edu.pk
 uetpeshawar.edu.pk
 uets.edu.ec
 uevora.pt
+uew.edu.gh
 ufabc.edu.br
 ufac.br
 ufal.br
@@ -7150,6 +7156,7 @@ ujs.sk
 ukcori.org
 ukf.sk
 ukfederation.org.uk
+ukhsa.gov.uk
 ukim.mk
 ukr.de
 ukri.org
@@ -7194,6 +7201,7 @@ umas.hr
 umass.edu
 umassd.edu
 umassmed.edu
+umat.edu.gh
 umb.edu
 umb.edu.pl
 umb.sk
@@ -7222,6 +7230,7 @@ uml.edu
 umlub.pl
 umlv.fr
 umn.edu
+umoncton.ca
 umons.ac.be
 umontpellier.fr
 umontreal.ca
@@ -7668,7 +7677,6 @@ uowm.gr
 up.ac.za
 up.edu.br
 up.pt
-upacifico.edu.ec
 upatras.gr
 upb.ro
 upc.edu
@@ -7910,6 +7918,7 @@ vcm.cz
 vcomsats.edu.pk
 vcu.edu
 vcw.ac.in
+vda.lt
 vdu.lt
 vecchitonelli.it
 vef.hr
