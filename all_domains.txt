@@ -334,6 +334,7 @@ asu.edu.om
 at-hyogo.ac.jp
 at.edu.pl
 atauni.edu.tr
+atb-potsdam.de
 athena-innovation.gr
 athena-institute.net
 athenarc.gr
@@ -376,6 +377,7 @@ austevoll.kommune.no
 austrheim.kommune.no
 aut.ac.nz
 auth.gr
+auw.edu.bd
 auxologico.it
 avans.nl
 aventus.nl
@@ -829,6 +831,7 @@ centenarycollege.ac.ug
 centennialcollege.ca
 center-iris.si
 center-rog.si
+centerarhitekture.si
 centerdata.nl
 centerjanezalevca.si
 centrale-marseille.fr
@@ -854,6 +857,7 @@ cetem.gov.br
 cetene.gov.br
 ceu.edu
 ceub.br
+cfec.edu.cn
 cgee.org.br
 cgie.lu
 cgu.edu
@@ -1163,7 +1167,6 @@ csod.si
 css.edu.om
 cssd.ac.uk
 cstam.org.cn
-cstcloud.net
 csu.ac.cn
 csu.edu.cn
 csub.edu
@@ -1716,6 +1719,7 @@ esme.fr
 esmt.org
 esn.ac.lk
 esnm.si
+eso.org
 espam.edu.ec
 espas-estice-icm.fr
 espci.fr
@@ -2332,6 +2336,7 @@ hafa.gr
 hafu.edu.cn
 haifa.ac.il
 hainanu.edu.cn
+hainaut-ea.be
 hainaut-promsoc.be
 hainnu.edu.cn
 hait.edu.cn
@@ -3044,6 +3049,7 @@ inp-greifswald.de
 inp-toulouse.fr
 inpa.gov.br
 inpe.br
+inpp.gov.br
 inra.fr
 inrae.fr
 inrca.it
@@ -3427,6 +3433,7 @@ kclawhsnc.edu.in
 kct.ac.in
 kct.ac.jp
 kdb.hr
+kdng.si
 kdu.ac.lk
 ke6n.ac.uk
 kea.dk
@@ -4271,6 +4278,7 @@ miracosta.edu
 miroslav-vilhar.si
 mirovni-institut.si
 missouri.edu
+mist.ac.bd
 mit.edu
 miu.ac.ug
 miun.se
@@ -5723,7 +5731,6 @@ reigate.ac.uk
 reisamontessoriskole.no
 reitaku-u.ac.jp
 renam.md
-renata.edu.co
 renater.fr
 rendalen.kommune.no
 rennebu.kommune.no
@@ -7397,6 +7404,7 @@ unice.fr
 unicentro.br
 unich.it
 unichristus.edu.br
+unicid.edu.br
 unicon.net
 unicornuniversity.net
 unict.it
@@ -7816,7 +7824,6 @@ utmb.edu
 utn.de
 utn.edu.ec
 utoronto.ca
-utp.edu.co
 utp.edu.pl
 utpb.edu
 utpl.edu.ec
