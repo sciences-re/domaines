@@ -179,7 +179,6 @@ akdeniz.edu.tr
 akgskole.no
 akita-u.ac.jp
 aksaray.edu.tr
-aku.edu.cn
 aku.edu.tr
 aku.sk
 alagappauniversity.ac.in
@@ -741,6 +740,7 @@ camsfc.ac.uk
 canarie.ca
 canberra.edu.au
 cancer.dk
+candi.ac.uk
 candlelighthigh.sc.ug
 cankaya.edu.tr
 canterbury.ac.nz
@@ -1837,6 +1837,7 @@ ffzg.hr
 fgcu.edu
 fgg.es
 fh-aachen.de
+fh-biberach.de
 fh-bielefeld.de
 fh-burgenland.at
 fh-campuswien.ac.at
@@ -2309,7 +2310,6 @@ gxmzu.edu.cn
 gxnu.edu.cn
 gxtcmu.edu.cn
 gxu.edu.cn
-gxust.edu.cn
 gyc.ac.uk
 gyig.ac.cn
 gynzy-academie.nl
@@ -2337,7 +2337,6 @@ hafu.edu.cn
 haifa.ac.il
 hainanu.edu.cn
 hainaut-ea.be
-hainaut-promsoc.be
 hainnu.edu.cn
 hait.edu.cn
 hakkari.edu.tr
@@ -2401,10 +2400,8 @@ hbo-academy.nl
 hbpu.edu.cn
 hbu.edu.cn
 hbucm.edu.cn
-hbue.edu.cn
 hbut.edu.cn
 hbv.edu.tr
-hbz-nrw.de
 hca.ac.uk
 hceres.fr
 hck.hr
@@ -2414,6 +2411,7 @@ hcpa.edu.br
 hct.ac.uk
 hct.edu.om
 hcu-hamburg.de
+hcw.ac.at
 hdbw-hochschule.de
 hdh.nl
 hdm-stuttgart.de
@@ -2582,6 +2580,7 @@ hnskxy.cn
 hnu.edu.cn
 hnuahe.edu.cn
 hnust.edu.cn
+hochschule-bc.de
 hochschule-burgenland.at
 hochschule-rhein-waal.de
 hochschule-stralsund.de
@@ -2850,7 +2849,6 @@ ifb.edu.br
 ifba.edu.br
 ifbaiano.edu.br
 ifc.edu.br
-ifce.edu.br
 ife.no
 ifes.edu.br
 iff.edu.br
@@ -3631,6 +3629,7 @@ kmj.si
 kmkg-mrah.be
 kmmu.edu.cn
 kmol.cz
+kmu.edu.cn
 kmu.edu.pk
 kmu.edu.tr
 knaw.nl
@@ -5929,6 +5928,7 @@ sau.edu.pk
 sau.int
 sauarfriskole.no
 sauda.kommune.no
+saude.gov.br
 saude.pi.gov.br
 sav.sk
 savonia.fi
@@ -7035,6 +7035,7 @@ uergs.edu.br
 uerj.br
 uern.br
 uerr.edu.br
+uesb.br
 uesc.br
 uesd.edu.gh
 uesmae.edu.ec
@@ -7397,6 +7398,7 @@ unicam.it
 unicamp.br
 unicampus.it
 unican.es
+unicap.br
 unicas.it
 unicath.hr
 unicatt.it
@@ -7897,7 +7899,6 @@ uzh.ch
 v-mavrica.si
 va.gov
 va.lv
-vaalerskolene.no
 vadso.kommune.no
 vaga.kommune.no
 vagan.kommune.no
@@ -7992,6 +7993,7 @@ vindafjord.kommune.no
 vinje.kommune.no
 vinnesfriskule.com
 virginia.edu
+vis.kommune.no
 viskigaj.si
 viskivrtci.si
 visokaskolaarca.hr
@@ -8223,6 +8225,7 @@ westdean.org.uk
 westerdijkinstitute.nl
 westernsydney.edu.au
 westherts.ac.uk
+westking.ac.uk
 westlake.edu.cn
 westlaw.com
 weston.ac.uk
@@ -8320,6 +8323,7 @@ wxc.edu.cn
 wxu.edu.cn
 wyb.ac.lk
 wynu.edu.cn
+wyu.edu.cn
 wzbc.edu.cn
 wzu.edu.cn
 xaau.edu.cn
