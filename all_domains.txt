@@ -238,6 +238,7 @@ andrassyuni.hu
 aneca.es
 angelo.edu
 anglia.ac.uk
+ani.pt
 anits.edu.in
 ankara.edu.tr
 ankaramedipol.edu.tr
@@ -1364,6 +1365,7 @@ dimm.hr
 dipf.de
 diplomacija.hr
 direitofranca.br
+diu.edu.bd
 djkbf.hr
 djtu.edu.cn
 dkd.hr
@@ -2283,6 +2285,7 @@ gszagorje.si
 gszalec.si
 gszy.edu.cn
 gtiit.edu.cn
+gtu.ac.in
 gtu.edu.tr
 gu.edu.pk
 gu.se
@@ -2299,7 +2302,6 @@ guluhigh.ac.ug
 gumed.edu.pl
 gumed.pl
 gumushane.edu.tr
-gutech.edu.om
 gvsu.edu
 gwdg.de
 gwu.edu
@@ -2318,6 +2320,7 @@ gzhmu.edu.cn
 gzhu.edu.cn
 gznu.edu.cn
 gztrc.edu.cn
+gzucm.edu.cn
 gzy.edu.cn
 h-brs.de
 h-da.de
@@ -2548,6 +2551,7 @@ hku.edu.tr
 hku.hk
 hku.nl
 hkust-gz.edu.cn
+hkxy.edu.cn
 hlfbriskeby.no
 hljeu.edu.cn
 hlju.edu.cn
@@ -2849,6 +2853,7 @@ ifb.edu.br
 ifba.edu.br
 ifbaiano.edu.br
 ifc.edu.br
+ifce.edu.br
 ife.no
 ifes.edu.br
 iff.edu.br
@@ -3114,7 +3119,6 @@ ipca.pt
 ipcb.pt
 ipdj.pt
 ipe.ac.cn
-ipen.br
 ipev.fr
 ipg.pt
 iphy.ac.cn
@@ -3172,7 +3176,6 @@ iscom.fr
 iscom.org
 iscte-iul.pt
 iscte.pt
-isd.org.br
 isec.ac.in
 isec.pt
 iseclisboa.pt
@@ -3252,6 +3255,7 @@ iuac.res.in
 iuav.it
 iub.edu.pk
 iuc.edu.tr
+iuc.res.in
 iucaa.in
 iucc.ac.il
 iucte.ac.in
@@ -3442,6 +3446,7 @@ keele.ac.uk
 keene.edu
 kefo.hu
 keio.ac.jp
+kek.jp
 kempel.nl
 kemu.edu.pk
 kendal.ac.uk
@@ -4322,7 +4327,6 @@ modyuniversity.ac.in
 mohawkcollege.ca
 mohe.ac.lk
 moheri.edu.om
-moheri.gov.om
 mojedete.si
 mojeid.cz
 mokollenskole.no
@@ -5425,6 +5429,7 @@ pern.edu.pk
 pes.edu
 pesg.hr
 peterborough.ac.uk
+petermac.org
 peterpan.si
 petka-zavod.si
 petroc.ac.uk
@@ -5480,6 +5485,7 @@ pitt.edu
 pitzer.edu
 pivkaptuj.si
 pjk.edu.my
+pjtau.edu.in
 pk.edu.pl
 pkamk.fi
 pkb.edu.my
@@ -6550,6 +6556,7 @@ swun.edu.cn
 swupl.edu.cn
 swust.edu.cn
 sxau.edu.cn
+sxdtdx.edu.cn
 sxdzkj.edu.cn
 sxicc.ac.cn
 sxit.edu.cn
