@@ -106,7 +106,6 @@ aco.net
 acorn-ns.ca
 acs-schools.com
 acs.si
-act.edu.om
 activatelearning.ac.uk
 actorscentreaustralia.com.au
 adbk-nuernberg.de
@@ -307,7 +306,6 @@ as-skole.no
 asahi-u.ac.jp
 asahikawa-med.ac.jp
 asbu.edu.tr
-asds.edu.om
 aseral.kommune.no
 asfa.gr
 asfc.ac.uk
@@ -330,7 +328,6 @@ astron.nl
 astrumcollege.nl
 asu.ac.in
 asu.edu
-asu.edu.om
 at-hyogo.ac.jp
 at.edu.pl
 atauni.edu.tr
@@ -579,6 +576,7 @@ bme.hu
 bme.org.cn
 bmet.ac.uk
 bmetc.ac.uk
+bmfwf.gv.at
 bmilp.com
 bmnh.org.cn
 bmskole.no
@@ -634,7 +632,6 @@ bridgeport.edu
 bridgewater.edu
 brighton.ac.uk
 bris.ac.uk
-brm-vtc.edu.om
 broadinstitute.org
 brock.ac.uk
 brockport.edu
@@ -674,7 +671,6 @@ bu.nl
 bua.edu.cn
 buaa.edu.cn
 buas.nl
-buc.edu.om
 bucea.edu.cn
 buckingham.ac.uk
 bucknell.edu
@@ -1165,7 +1161,6 @@ csiic.edu.cn
 csir.co.za
 csn.edu
 csod.si
-css.edu.om
 cssd.ac.uk
 cstam.org.cn
 csu.ac.cn
@@ -1447,7 +1442,6 @@ dti.sk
 dtu.dk
 du.ac.in
 du.edu
-du.edu.om
 du.se
 dudleycol.ac.uk
 duf.hu
@@ -1988,7 +1982,6 @@ fryske-akademy.nl
 fsb.hr
 fsm.edu.tr
 fsu.edu
-ftik.edu.om
 ftmc.lt
 ftpo.si
 ftrr.hr
@@ -2183,7 +2176,6 @@ godalming.ac.uk
 gokoseedss.sc.ug
 gol.kommune.no
 gold.ac.uk
-google.com
 gop.edu.tr
 gorenjski-muzej.si
 goriskimuzej.si
@@ -2412,7 +2404,6 @@ hcmr.gr
 hcnu.edu.cn
 hcpa.edu.br
 hct.ac.uk
-hct.edu.om
 hcu-hamburg.de
 hcw.ac.at
 hdbw-hochschule.de
@@ -2791,8 +2782,6 @@ ibestad.kommune.no
 ibet.pt
 ibfd.org
 ibict.br
-ibrict.edu.om
-ibrivtc.edu.om
 ibs-b.hu
 ibs.re.kr
 ibu.edu.tr
@@ -2820,7 +2809,6 @@ icsmaugeri.it
 ict-edu.fr
 ict-toulouse.fr
 ict.ac.cn
-ict.edu.om
 ictp.it
 id.edu.cn
 ide.go.jp
@@ -2977,7 +2965,6 @@ images-et-reseaux.com
 imamu.edu.sa
 imau.edu.cn
 imbcams.com.cn
-imco.edu.om
 imde.ac.cn
 imdea.org
 ime.ac.cn
@@ -3176,6 +3163,7 @@ iscom.fr
 iscom.org
 iscte-iul.pt
 iscte.pt
+isd.org.br
 isec.ac.in
 isec.pt
 iseclisboa.pt
@@ -3188,6 +3176,7 @@ isiafaenza.it
 isiaroma.it
 isikun.edu.tr
 isl.ac.cn
+ism.de
 ism.lt
 ismett.edu
 ismpo.sk
@@ -3344,6 +3333,7 @@ jsnu.edu.cn
 jspi.edu.cn
 jssnu.edu.cn
 jssuni.edu.in
+jssvc.edu.cn
 jsut.edu.cn
 jucc.edu.hk
 juit.ac.in
@@ -4115,7 +4105,6 @@ maher.ac.in
 mahindrauniversity.edu.in
 mail.com
 maine.edu
-majancollege.edu.om
 maju.edu.pk
 mak.ac.ug
 makererecollege.sc.ug
@@ -4203,7 +4192,6 @@ mdsskranj.si
 mdw.ac.at
 mdx.ac.uk
 meap.org.uk
-mec.edu.om
 mec.gov.br
 mec.pt
 medhub.com
@@ -4237,7 +4225,6 @@ mersin.edu.tr
 merthyr.ac.uk
 mesto-klimkovice.cz
 mesto-milovice.cz
-met.gov.om
 met.no
 metfilmschool.ac.uk
 metisutdanning.no
@@ -4326,7 +4313,6 @@ modum.kommune.no
 modyuniversity.ac.in
 mohawkcollege.ca
 mohe.ac.lk
-moheri.edu.om
 mojedete.si
 mojeid.cz
 mokollenskole.no
@@ -4393,14 +4379,15 @@ mt.kommune.no
 mta.ca
 mta.hu
 mtc.edu.cn
-mtc.edu.om
 mte.eu
 mtholyoke.edu
 mtsac.edu
 mtu.edu
 mu-edu.de
 mu-pleven.bg
+mu-sofia.bg
 mu.edu.tr
+mubas.ac.mw
 mubs.ac.ug
 muc.edu.cn
 muet.edu.pk
@@ -4424,8 +4411,6 @@ mup.edu.pl
 murdoch.edu.au
 musashi.ac.jp
 musc.edu
-muscatcollege.edu.om
-muscatuniversity.edu.om
 museogalileo.it
 museon-omniversum.nl
 museon.nl
@@ -4434,6 +4419,7 @@ museum-mb.si
 musikene.eus
 musikkons.dk
 musph.ac.ug
+must.ac.mw
 must.edu.mo
 must.edu.pk
 muza.hr
@@ -4459,6 +4445,7 @@ myresearchid.com
 myuwc.ac.za
 mzk.cz
 mzos.hr
+mzuni.ac.mw
 naalya-schools.com
 naba.it
 nabisunsagirls.ac.ug
@@ -4532,7 +4519,6 @@ ncp.edu.pk
 ncri.ie
 ncstdlc.org
 ncsu.edu
-nct.edu.om
 nctt.ac.cn
 ncu.edu.cn
 ncut.edu.cn
@@ -4541,7 +4527,6 @@ ncwu.edu.cn
 nd.edu
 nda.si
 ndagwesss.sc.ug
-ndc.edu.om
 ndeebass.sc.ug
 ndejjesss.ac.ug
 ndky.edu.cn
@@ -4758,6 +4743,7 @@ nottingham.edu.cn
 nottingham.edu.my
 nottinghamcollege.ac.uk
 nova-uni.si
+nova.edu
 novacollege.nl
 novasbe.pt
 novia.fi
@@ -4792,7 +4778,6 @@ ntua.gr
 ntungamoghs.sc.ug
 ntyneside.ac.uk
 nu.ac.bd
-nu.edu.om
 nu.edu.pk
 nu.edu.sa
 nuaa.edu.cn
@@ -4810,6 +4795,7 @@ nuist.edu.cn
 nulc.ac.uk
 numl.edu.pk
 nup.ac.cy
+nus.edu
 nus.edu.sg
 nust.edu.pk
 nustti.edu.cn
@@ -4908,7 +4894,6 @@ olvemontessori.no
 ombaci.ac.ug
 omgk.hu
 omnipasskey.com
-omren.om
 omu.edu.tr
 on.br
 oncologico.bari.it
@@ -5355,7 +5340,6 @@ oszk.hu
 oszrece.si
 oszuzemberk.si
 otago.ac.nz
-otc.edu.om
 oth-aw.de
 oth-regensburg.de
 otis.edu
@@ -5868,7 +5852,6 @@ sabanciuniv.edu
 sacredheart.edu
 sacyl.es
 saga-u.ac.jp
-sahamvtc.edu.om
 saint.it
 saintlouis.eu
 sairam.edu.in
@@ -5920,7 +5903,6 @@ santosh.ac.in
 saocamilo-sp.br
 sapientia.hu
 sarao.ac.za
-sarh.om
 sari.ac.cn
 sarpsborg.com
 sasebo.ac.jp
@@ -5937,6 +5919,7 @@ sauda.kommune.no
 saude.gov.br
 saude.pi.gov.br
 sav.sk
+saveproject.mw
 savonia.fi
 savs.cz
 saxion.nl
@@ -5999,7 +5982,6 @@ scsi.hr
 scsio.ac.cn
 scsl.si
 scst.hr
-sct.edu.om
 scu.ac.jp
 scu.edu
 scu.edu.cn
@@ -6040,7 +6022,6 @@ sdyu.edu.cn
 seamk.fi
 seatech.fr
 sece.ac.in
-seebvc.edu.om
 seetacoll.sc.ug
 seetahigh.ac.ug
 sehico.ac.ug
@@ -6111,7 +6092,6 @@ shibaura-it.ac.jp
 shiga-med.ac.jp
 shiga-u.ac.jp
 shikoku-u.ac.jp
-shinasvc.edu.om
 ship.edu
 shipley.ac.uk
 shisu.edu.cn
@@ -6329,7 +6309,6 @@ spts.si
 spu.ac.za
 sqnu.edu.cn
 squ.edu.cn
-squ.edu.om
 sqxy.edu.cn
 sr.edu.sa
 src.ac.uk
@@ -6476,12 +6455,10 @@ stud-dom-lj.si
 studielink.nl
 studytafensw.edu.au
 stvincent.ac.uk
-su.edu.om
 su.se
 suaslj.si
 suat-sz.edu.cn
 subu.edu.tr
-suc.edu.om
 suda.edu.cn
 suffolk.ac.uk
 sugiyama-u.ac.jp
@@ -6523,7 +6500,6 @@ suttneruni.at
 suvag.hr
 suzuka-ct.ac.jp
 svako.lt
-svc.edu.om
 sveio.kommune.no
 sveta-ana.si
 svk.no
@@ -7456,6 +7432,7 @@ unileoben.ac.at
 unileon.es
 unilim.fr
 unilu.ch
+unima.ac.mw
 unimaas.nl
 unimarconi.it
 unimas.my
@@ -7637,7 +7614,6 @@ unizar.es
 unizd.hr
 unizg.hr
 unizin.org
-unizwa.edu.om
 unk.edu
 unl.edu
 unl.edu.ec
@@ -7664,7 +7640,6 @@ unthsc.edu
 untsystem.edu
 unyp.cz
 uoa.gr
-uob.edu.om
 uob.edu.pk
 uoc.ac.in
 uoc.cw
