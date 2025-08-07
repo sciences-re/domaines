@@ -106,6 +106,7 @@ aco.net
 acorn-ns.ca
 acs-schools.com
 acs.si
+act.edu.om
 activatelearning.ac.uk
 actorscentreaustralia.com.au
 adbk-nuernberg.de
@@ -178,6 +179,7 @@ akdeniz.edu.tr
 akgskole.no
 akita-u.ac.jp
 aksaray.edu.tr
+aktu.ac.in
 aku.edu.tr
 aku.sk
 alagappauniversity.ac.in
@@ -306,6 +308,7 @@ as-skole.no
 asahi-u.ac.jp
 asahikawa-med.ac.jp
 asbu.edu.tr
+asds.edu.om
 aseral.kommune.no
 asfa.gr
 asfc.ac.uk
@@ -328,6 +331,7 @@ astron.nl
 astrumcollege.nl
 asu.ac.in
 asu.edu
+asu.edu.om
 at-hyogo.ac.jp
 at.edu.pl
 atauni.edu.tr
@@ -631,6 +635,7 @@ bridgeport.edu
 bridgewater.edu
 brighton.ac.uk
 bris.ac.uk
+brm-vtc.edu.om
 broadinstitute.org
 brock.ac.uk
 brockport.edu
@@ -670,6 +675,7 @@ bu.nl
 bua.edu.cn
 buaa.edu.cn
 buas.nl
+buc.edu.om
 bucea.edu.cn
 buckingham.ac.uk
 bucknell.edu
@@ -757,9 +763,11 @@ carleton.edu
 carlowcollege.ie
 carmel.ac.uk
 carnet.hr
+carthage.edu
 cartif.es
 cas.cn
 cas.cz
+casadevelazquez.org
 case.edu
 caseab.ac.cn
 cashq.ac.cn
@@ -1160,6 +1168,7 @@ csiic.edu.cn
 csir.co.za
 csn.edu
 csod.si
+css.edu.om
 cssd.ac.uk
 cstam.org.cn
 csu.ac.cn
@@ -1364,6 +1373,7 @@ djkbf.hr
 djtu.edu.cn
 dkd.hr
 dkdm.dk
+dkea.dk
 dkfz-heidelberg.de
 dkit.ie
 dknm.si
@@ -1441,6 +1451,7 @@ dti.sk
 dtu.dk
 du.ac.in
 du.edu
+du.edu.om
 du.se
 dudleycol.ac.uk
 duf.hu
@@ -1580,6 +1591,7 @@ einsteinmed.org
 eizg.hr
 ejf.hu
 ek-cer.hu
+ek.dk
 eka.edu.lv
 ekke.gr
 eko-konnect.org.ng
@@ -1633,6 +1645,7 @@ ens-paris-saclay.fr
 ens-rennes.fr
 ens.fr
 ens2m.fr
+ensa-bourges.fr
 ensad.fr
 ensae.fr
 ensai.fr
@@ -1939,6 +1952,7 @@ fnusa.cz
 foi.hr
 folkwang-uni.de
 folldal.kommune.no
+fondation-uved.fr
 fondazionebietti.it
 fondazionebiotecnologie.it
 fondazionemilano.eu
@@ -1981,6 +1995,7 @@ fryske-akademy.nl
 fsb.hr
 fsm.edu.tr
 fsu.edu
+ftik.edu.om
 ftmc.lt
 ftpo.si
 ftrr.hr
@@ -2071,6 +2086,7 @@ gench.edu.cn
 genci.fr
 geneseo.edu
 genetics.ac.cn
+genopole.fr
 geo-zs.si
 geof.hr
 geolsoc.org.uk
@@ -2175,6 +2191,7 @@ godalming.ac.uk
 gokoseedss.sc.ug
 gol.kommune.no
 gold.ac.uk
+google.com
 gop.edu.tr
 gorenjski-muzej.si
 goriskimuzej.si
@@ -2392,6 +2409,7 @@ hbmzu.edu.cn
 hbnu.edu.cn
 hbo-academy.nl
 hbpu.edu.cn
+hbtu.ac.in
 hbu.edu.cn
 hbucm.edu.cn
 hbut.edu.cn
@@ -2403,6 +2421,7 @@ hcmr.gr
 hcnu.edu.cn
 hcpa.edu.br
 hct.ac.uk
+hct.edu.om
 hcu-hamburg.de
 hcw.ac.at
 hdbw-hochschule.de
@@ -2781,6 +2800,8 @@ ibestad.kommune.no
 ibet.pt
 ibfd.org
 ibict.br
+ibrict.edu.om
+ibrivtc.edu.om
 ibs-b.hu
 ibs.re.kr
 ibu.edu.tr
@@ -2808,6 +2829,7 @@ icsmaugeri.it
 ict-edu.fr
 ict-toulouse.fr
 ict.ac.cn
+ict.edu.om
 ictp.it
 id.edu.cn
 ide.go.jp
@@ -2964,6 +2986,7 @@ images-et-reseaux.com
 imamu.edu.sa
 imau.edu.cn
 imbcams.com.cn
+imco.edu.om
 imde.ac.cn
 imdea.org
 ime.ac.cn
@@ -3897,6 +3920,7 @@ leedscitycollege.ac.uk
 leedsmet.ac.uk
 leedstrinity.ac.uk
 lehigh.edu
+lei.lt
 leibniz-gemeinschaft.de
 leibniz-lib.de
 leibniz-liv.de
@@ -4103,6 +4127,7 @@ maher.ac.in
 mahindrauniversity.edu.in
 mail.com
 maine.edu
+majancollege.edu.om
 maju.edu.pk
 mak.ac.ug
 makererecollege.sc.ug
@@ -4190,6 +4215,7 @@ mdsskranj.si
 mdw.ac.at
 mdx.ac.uk
 meap.org.uk
+mec.edu.om
 mec.gov.br
 mec.pt
 medhub.com
@@ -4223,6 +4249,7 @@ mersin.edu.tr
 merthyr.ac.uk
 mesto-klimkovice.cz
 mesto-milovice.cz
+met.gov.om
 met.no
 metfilmschool.ac.uk
 metisutdanning.no
@@ -4311,6 +4338,7 @@ modum.kommune.no
 modyuniversity.ac.in
 mohawkcollege.ca
 mohe.ac.lk
+moheri.edu.om
 mojedete.si
 mojeid.cz
 mokollenskole.no
@@ -4377,6 +4405,7 @@ mt.kommune.no
 mta.ca
 mta.hu
 mtc.edu.cn
+mtc.edu.om
 mte.eu
 mtholyoke.edu
 mtsac.edu
@@ -4409,6 +4438,8 @@ mup.edu.pl
 murdoch.edu.au
 musashi.ac.jp
 musc.edu
+muscatcollege.edu.om
+muscatuniversity.edu.om
 museogalileo.it
 museon-omniversum.nl
 museon.nl
@@ -4517,6 +4548,7 @@ ncp.edu.pk
 ncri.ie
 ncstdlc.org
 ncsu.edu
+nct.edu.om
 nctt.ac.cn
 ncu.edu.cn
 ncut.edu.cn
@@ -4525,6 +4557,7 @@ ncwu.edu.cn
 nd.edu
 nda.si
 ndagwesss.sc.ug
+ndc.edu.om
 ndeebass.sc.ug
 ndejjesss.ac.ug
 ndky.edu.cn
@@ -4659,6 +4692,7 @@ nith.ac.in
 nitj.ac.in
 nitjsr.ac.in
 nitk.edu.in
+nitmz.ac.in
 nitrkl.ac.in
 nitt.edu
 nittedal.kommune.no
@@ -4776,6 +4810,7 @@ ntua.gr
 ntungamoghs.sc.ug
 ntyneside.ac.uk
 nu.ac.bd
+nu.edu.om
 nu.edu.pk
 nu.edu.sa
 nuaa.edu.cn
@@ -4828,7 +4863,6 @@ nyist.edu.cn
 nyme.hu
 nynu.edu.cn
 nyp.edu.sg
-nypl.org
 nytud.hu
 nyu.edu
 nyumc.org
@@ -4892,6 +4926,7 @@ olvemontessori.no
 ombaci.ac.ug
 omgk.hu
 omnipasskey.com
+omren.om
 omu.edu.tr
 on.br
 oncologico.bari.it
@@ -5338,6 +5373,7 @@ oszk.hu
 oszrece.si
 oszuzemberk.si
 otago.ac.nz
+otc.edu.om
 oth-aw.de
 oth-regensburg.de
 otis.edu
@@ -5610,6 +5646,7 @@ pucese.edu.ec
 pucesi.edu.ec
 pucesm.edu.ec
 pucgoias.edu.br
+puchd.ac.in
 pucminas.br
 pucpr.br
 pucrs.br
@@ -5850,6 +5887,7 @@ sabanciuniv.edu
 sacredheart.edu
 sacyl.es
 saga-u.ac.jp
+sahamvtc.edu.om
 saint.it
 saintlouis.eu
 sairam.edu.in
@@ -5901,6 +5939,7 @@ santosh.ac.in
 saocamilo-sp.br
 sapientia.hu
 sarao.ac.za
+sarh.om
 sari.ac.cn
 sarpsborg.com
 sasebo.ac.jp
@@ -5979,6 +6018,7 @@ scsi.hr
 scsio.ac.cn
 scsl.si
 scst.hr
+sct.edu.om
 scu.ac.jp
 scu.edu
 scu.edu.cn
@@ -6019,6 +6059,7 @@ sdyu.edu.cn
 seamk.fi
 seatech.fr
 sece.ac.in
+seebvc.edu.om
 seetacoll.sc.ug
 seetahigh.ac.ug
 sehico.ac.ug
@@ -6089,6 +6130,7 @@ shibaura-it.ac.jp
 shiga-med.ac.jp
 shiga-u.ac.jp
 shikoku-u.ac.jp
+shinasvc.edu.om
 ship.edu
 shipley.ac.uk
 shisu.edu.cn
@@ -6306,6 +6348,7 @@ spts.si
 spu.ac.za
 sqnu.edu.cn
 squ.edu.cn
+squ.edu.om
 sqxy.edu.cn
 sr.edu.sa
 src.ac.uk
@@ -6452,10 +6495,12 @@ stud-dom-lj.si
 studielink.nl
 studytafensw.edu.au
 stvincent.ac.uk
+su.edu.om
 su.se
 suaslj.si
 suat-sz.edu.cn
 subu.edu.tr
+suc.edu.om
 suda.edu.cn
 suffolk.ac.uk
 sugiyama-u.ac.jp
@@ -6477,6 +6522,7 @@ sunnfjord.kommune.no
 supagro.fr
 supbiotech.fr
 superior.edu.pk
+supmaritime.fr
 supmeca.fr
 supsi.ch
 surf.nl
@@ -6497,6 +6543,7 @@ suttneruni.at
 suvag.hr
 suzuka-ct.ac.jp
 svako.lt
+svc.edu.om
 sveio.kommune.no
 sveta-ana.si
 svk.no
@@ -7611,6 +7658,7 @@ unizar.es
 unizd.hr
 unizg.hr
 unizin.org
+unizwa.edu.om
 unk.edu
 unl.edu
 unl.edu.ec
@@ -7637,6 +7685,7 @@ unthsc.edu
 untsystem.edu
 unyp.cz
 uoa.gr
+uob.edu.om
 uob.edu.pk
 uoc.ac.in
 uoc.cw
@@ -8235,6 +8284,7 @@ windesheim.nl
 windsor-forest.ac.uk
 wipm.ac.cn
 wisc.edu
+wisconsin.edu
 wistar.org
 wit.edu
 wit.edu.cn
