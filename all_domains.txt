@@ -3230,6 +3230,7 @@ istvidanueva.edu.ec
 isu.edu
 iswc.ac.cn
 it-chiba.ac.jp
+it-u.at
 ita.br
 ita.es
 itacyl.es
@@ -3349,6 +3350,7 @@ joginsa.com
 johannelund.nu
 johnruskin.ac.uk
 johnshopkins.edu
+jotunheimenvgs.no
 jozmos.si
 jsga.edu.tr
 jsmu.edu.pk
@@ -4073,6 +4075,7 @@ lu-trzic.si
 lu-velenje.si
 lu.lv
 lu.se
+luanar.ac.mw
 luas.edu.cn
 luawms.edu.pk
 luc.edu
@@ -4197,6 +4200,7 @@ mbu.asia
 mc-celje.si
 mc-eindhoven.nl
 mc-velenje.si
+mcbu.ac.in
 mcet.in
 mcgill.ca
 mchs.se
@@ -7473,7 +7477,6 @@ unijui.edu.br
 unikore.it
 unil.ch
 unila.edu.br
-unilab.edu.br
 unilasalle.fr
 unileoben.ac.at
 unileon.es
@@ -7633,7 +7636,6 @@ univ-tlse3.fr
 univ-toulouse.fr
 univ-tours.fr
 univ-ubs.fr
-univ-valenciennes.fr
 univale.br
 univali.br
 univap.br
