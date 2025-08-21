@@ -1318,6 +1318,7 @@ demo.es
 demokritos.gr
 dendai.ac.jp
 denieuwstepabo.nl
+denison.edu
 depaul.edu
 depauw.edu
 derby-college.ac.uk
@@ -1590,6 +1591,7 @@ einsteinmed.edu
 einsteinmed.org
 eizg.hr
 ejf.hu
+ejlsonos.in
 ek-cer.hu
 ek.dk
 eka.edu.lv
@@ -2015,7 +2017,6 @@ fundaj.gov.br
 funep.es
 funesa.se.gov.br
 funet.fi
-funpec.br
 furb.br
 furg.br
 furman.edu
@@ -2295,6 +2296,7 @@ gszy.edu.cn
 gtiit.edu.cn
 gtu.ac.in
 gtu.edu.tr
+gu.ac.ug
 gu.edu.pk
 gu.se
 guat.edu.cn
@@ -2943,6 +2945,7 @@ iiitnr.ac.in
 iiitp.ac.in
 iiitsonepat.ac.in
 iima.ac.in
+iimbg.ac.in
 iimsirmaur.ac.in
 iimv.ac.in
 iios-rogaska.si
@@ -7302,6 +7305,7 @@ unb.ca
 unbc.ca
 unc.edu
 unc.nc
+unca.edu
 uncc.edu
 uncg.edu
 unche.or.ug
@@ -7474,6 +7478,7 @@ unijui.edu.br
 unikore.it
 unil.ch
 unila.edu.br
+unilab.edu.br
 unilasalle.fr
 unileoben.ac.at
 unileon.es
@@ -7848,6 +7853,7 @@ uthrad.pl
 uthsc.edu
 uthscsa.edu
 uti.edu.ec
+utibet.edu.cn
 utk.edu
 utm.edu
 utm.edu.ec
@@ -8184,6 +8190,7 @@ vsig.hr
 vsite.hr
 vsm.sk
 vsmu.sk
+vspi.si
 vspj.cz
 vsptuj.si
 vss.hr
