@@ -1948,7 +1948,6 @@ fms.dk
 fmu.ac.jp
 fmu.br
 fnal.gov
-fnde.gov.br
 fno.cz
 fnplzen.cz
 fnusa.cz
@@ -2018,6 +2017,7 @@ fundaj.gov.br
 funep.es
 funesa.se.gov.br
 funet.fi
+funpec.br
 furb.br
 furg.br
 furman.edu
@@ -3117,6 +3117,7 @@ iosce.si
 ioveneto.it
 ioz.ac.cn
 ip-paris.fr
+ipa.ac.tz
 ipa.br
 ipa.ie
 ipabo.nl
@@ -4629,6 +4630,7 @@ nfa.cz
 nfciet.edu.pk
 nfk.no
 nforsk.no
+nfsu.edu.in
 nfts.co.uk
 ng-slo.si
 ngaboacademy.sc.ug
@@ -5455,7 +5457,6 @@ perdanauniversity.edu.my
 pern.edu.pk
 pes.edu
 pesg.hr
-peterborough.ac.uk
 petermac.org
 peterpan.si
 petka-zavod.si
@@ -5764,6 +5765,7 @@ reigate.ac.uk
 reisamontessoriskole.no
 reitaku-u.ac.jp
 renam.md
+renata.edu.co
 renater.fr
 rendalen.kommune.no
 rennebu.kommune.no
@@ -6119,7 +6121,6 @@ sgmc.ac.uk
 sgmtu.edu.cn
 sgou.ac.in
 sgscol.ac.uk
-sgtsr.si
 sgu.ac.jp
 sgul.ac.uk
 sgv.si
@@ -6162,6 +6163,7 @@ siat.ac.cn
 siba.fi
 sibet.ac.cn
 sibs.ac.cn
+sic-rad.si
 sic.ac.cn
 sicau.edu.cn
 siclj.si
@@ -6350,6 +6352,7 @@ sparsholt.ac.uk
 spav.ac.in
 spellman.edu.ec
 spengergasse.at
+spmvv.ac.in
 sport-konjice.si
 sport.si
 sports.gouv.fr
@@ -6405,7 +6408,6 @@ st-davids-coll.ac.uk
 stad.kommune.no
 staffordcoll.ac.uk
 staffs.ac.uk
-stamford.ac.uk
 stamforduniversity.edu.bd
 stami.no
 stampar.hr
@@ -7091,7 +7093,6 @@ ufal.br
 ufam.edu.br
 ufba.br
 ufc.br
-ufca.edu.br
 ufcat.edu.br
 ufcg.edu.br
 ufcspa.edu.br
@@ -7865,6 +7866,7 @@ utmb.edu
 utn.de
 utn.edu.ec
 utoronto.ca
+utp.edu.co
 utp.edu.pl
 utpb.edu
 utpl.edu.ec
