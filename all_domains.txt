@@ -199,6 +199,7 @@ allduniv.ac.in
 allegheny.edu
 alliance.edu.in
 alliancecan.ca
+allsaintsociba.sc.ug
 almamater.si
 alparslan.edu.tr
 alstahaug.kommune.no
@@ -231,6 +232,7 @@ amtap.md
 amu.cz
 amu.edu.pl
 amue.fr
+amuguss.sc.ug
 anadolu.edu.tr
 anan-nct.ac.jp
 andoy.kommune.no
@@ -262,6 +264,7 @@ aos.sk
 aosp.bo.it
 ap.edu.pl
 apacfilesender.asia
+apalass.sc.ug
 apambiente.pt
 apm.ac.cn
 apoz.edu.pl
@@ -889,6 +892,7 @@ chop.edu
 chru-lille.fr
 chu-limoges.fr
 chu-rouen.fr
+chu-toulouse.fr
 chu.edu.cn
 chubu.ac.jp
 chuo-u.ac.jp
@@ -1808,6 +1812,7 @@ farn-ct.ac.uk
 farnboroughsfc.ac.uk
 farsund.kommune.no
 fatebenefratelli.eu
+fatimaaloigirls.sc.ug
 fau.de
 fau.edu
 fauske.kommune.no
@@ -1948,6 +1953,7 @@ fms.dk
 fmu.ac.jp
 fmu.br
 fnal.gov
+fnde.gov.br
 fno.cz
 fnplzen.cz
 fnusa.cz
@@ -3294,6 +3300,7 @@ iwcollege.ac.uk
 iwm-tuebingen.de
 iwt-bremen.de
 iyte.edu.tr
+izm.gov.lv
 izmirekonomi.edu.tr
 izor.hr
 izs-sardegna.it
@@ -3399,6 +3406,7 @@ kakoss.sc.ug
 kalaidos-fh.ch
 kalasalingam.ac.in
 kalingauniversity.ac.in
+kamerukaseed.sc.ug
 kamk.fi
 kamuligirls.sc.ug
 kanazawa-u.ac.jp
@@ -3749,6 +3757,7 @@ knowsleycollege.ac.uk
 knu.ac.kr
 knust.edu.gh
 kobacaj.si
+kobe-cufs.ac.jp
 kobepharma-u.ac.jp
 kocaeli.edu.tr
 kochi-ct.ac.jp
@@ -4330,6 +4339,7 @@ mladi-koper.si
 mladika.si
 mladinski-dom-mb.si
 mladinsko-gl.si
+mladizmaji.si
 mlcderuyter.nl
 mlp.cz
 mmc.nl
@@ -4877,7 +4887,6 @@ nyp.edu.sg
 nytud.hu
 nyu.edu
 nyumc.org
-nyumctest.org
 o-azilb.si
 o-cezanjevci.si
 o-ledina.si
@@ -4900,6 +4909,7 @@ obspm.fr
 oca.eu
 ocad.ca
 ocha.ac.jp
+ocociagirls.sc.ug
 odisee.be
 odu.edu
 odu.edu.tr
@@ -7093,6 +7103,7 @@ ufal.br
 ufam.edu.br
 ufba.br
 ufc.br
+ufca.edu.br
 ufcat.edu.br
 ufcg.edu.br
 ufcspa.edu.br
@@ -7772,6 +7783,7 @@ uqtr.ca
 ur.de
 uran.ua
 urca.br
+urdt.net
 uregina.ca
 uri.edu
 uricer.edu.br
@@ -7901,6 +7913,7 @@ uvigo.es
 uvlf.sk
 uvm.edu
 uvn.cz
+uvri.go.ug
 uvsq.fr
 uvt.nl
 uvt.ro
@@ -8051,6 +8064,7 @@ vjg.si
 vko.no
 vkol.cz
 vlab.ac.ke
+vlerick.com
 vlfk.no
 vliz.be
 vmkvec.ac.in
@@ -8467,6 +8481,7 @@ zastita-prirode-dnz.hr
 zavod-sonce.si
 zavod-znanje.si
 zbc.dk
+zbmed.de
 zbu.edu.cn
 zbw.eu
 zcmu.edu.cn
