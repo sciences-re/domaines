@@ -304,6 +304,7 @@ arts.ac.uk
 artuklu.edu.tr
 artun.ee
 artvin.edu.tr
+aru.ac.tz
 aru.ac.ug
 aruapublic.sc.ug
 aruass.sc.ug
@@ -680,7 +681,6 @@ bua.edu.cn
 buaa.edu.cn
 buas.nl
 buc.edu.om
-bucea.edu.cn
 buckingham.ac.uk
 bucknell.edu
 bucks.ac.uk
@@ -767,7 +767,6 @@ carleton.edu
 carlowcollege.ie
 carmel.ac.uk
 carnet.hr
-carthage.edu
 cartif.es
 cas.cn
 cas.cz
@@ -1127,7 +1126,6 @@ criann.fr
 crick.ac.uk
 crihan.fr
 cristobalcolon.edu.ec
-crkn.ca
 crob.it
 crossasia.org
 crous-aix-marseille.fr
@@ -1729,6 +1727,7 @@ esic.edu
 esic.university
 esiea.fr
 esigelec.fr
+eskemm-numerique.fr
 eskisehir.edu.tr
 esme.fr
 esmt.org
@@ -2412,6 +2411,7 @@ haywardsheath.ac.uk
 hazu.hr
 hb.se
 hbeu.edu.cn
+hbgdys.edu.cn
 hbk-bs.de
 hbmu.edu.cn
 hbmzu.edu.cn
@@ -2784,6 +2784,7 @@ iac.es
 iad-arts.be
 iadt.ie
 iae.ac.cn
+iae.ac.tz
 iaen.edu.ec
 iai-togo.tg
 iam.si
@@ -3840,6 +3841,7 @@ ku.lt
 ku.sk
 kuet.ac.bd
 kug.ac.at
+kuhes.ac.mw
 kuk.ac.in
 kul.pl
 kuleuven.be
@@ -5768,6 +5770,7 @@ redlands.edu
 reed.edu
 ref.ac.uk
 regents.ac.uk
+regieorgaan-sia.nl
 regiocollege.nl
 regionh.dk
 regionsjaelland.dk
@@ -6357,6 +6360,7 @@ southport-college.ac.uk
 southstaffs.ac.uk
 southwestern.edu
 sp.edu.sg
+spa.gov.sa
 spab.ac.in
 sparsholt.ac.uk
 spav.ac.in
@@ -6818,6 +6822,7 @@ tretja.si
 trimbos.nl
 trincoll.edu
 trinity.edu
+trint.org
 tromsfylke.no
 tromso.kommune.no
 trondelagfylke.no
@@ -7770,6 +7775,7 @@ uportu.pt
 upr.edu.pk
 upr.si
 ups.edu.ec
+upsa.es
 upu.ac.ug
 upv.es
 upwr.edu.pl
