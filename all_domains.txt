@@ -692,6 +692,7 @@ bua.edu.cn
 buaa.edu.cn
 buas.nl
 buc.edu.om
+bucea.edu.cn
 buckingham.ac.uk
 bucknell.edu
 bucks.ac.uk
@@ -1617,6 +1618,7 @@ eihp.hr
 eimv.si
 einsteinmed.edu
 einsteinmed.org
+eitech.edu.cn
 eizg.hr
 ejf.hu
 ejlsonos.in
@@ -2355,6 +2357,7 @@ gxmzu.edu.cn
 gxnu.edu.cn
 gxtcmu.edu.cn
 gxu.edu.cn
+gxufe.edu.cn
 gyc.ac.uk
 gyig.ac.cn
 gynzy-academie.nl
@@ -2362,7 +2365,6 @@ gzarts.edu.cn
 gzhmu.edu.cn
 gzhu.edu.cn
 gznu.edu.cn
-gztrc.edu.cn
 gzucm.edu.cn
 gzy.edu.cn
 h-brs.de
@@ -4453,6 +4455,7 @@ mpg.de
 mpi-bremen.de
 mpi-sws.org
 mpi.nl
+mpic.de
 mpifg.de
 mpt-velenje.si
 mpumuddess.sc.ug
@@ -6745,6 +6748,7 @@ tamus.edu
 tamusa.edu
 tana.kommune.no
 tanuvas.ac.in
+tarc.edu.my
 tarleton.edu
 tartini.si
 taru.edu.cn
@@ -6835,6 +6839,7 @@ tilburguniversity.edu
 time.kommune.no
 tingvoll.kommune.no
 tinn.kommune.no
+tinnmontessori.no
 tio.nl
 tirol-kliniken.at
 tit.edu.cn
@@ -7161,7 +7166,6 @@ uec.ac.jp
 uece.br
 uef.fi
 uefs.br
-ueg.br
 uel.ac.uk
 uel.br
 uem.br
@@ -8392,7 +8396,6 @@ whigg.ac.cn
 whiob.ac.cn
 whiov.ac.cn
 whlib.ac.cn
-whmc.edu.cn
 who.int
 whoi.edu
 whsu.edu.cn
@@ -8548,7 +8551,6 @@ ymu.edu.cn
 ynao.ac.cn
 ynart.edu.cn
 ynau.edu.cn
-ynjgy.edu.cn
 ynnu.edu.cn
 ynu.ac.jp
 ynu.edu.cn
@@ -8636,7 +8638,6 @@ zrsvn.si
 zs-ajdovscina.si
 zsem.hr
 zstu.edu.cn
-ztbu.edu.cn
 ztm.si
 ztu.edu.cn
 zu.de
