@@ -259,6 +259,7 @@ antonina.si
 antoniusziekenhuis.nl
 antonov-vrtec.si
 antonukmar.si
+anu.ac.in
 anu.edu.au
 aob.nl
 aoe.ac.cn
@@ -845,8 +846,8 @@ cefetmg.br
 cegeptr.qc.ca
 cei.edu
 ceiia.com
-ceitec-sa.com
 cells.es
+cem.ac.uk
 cemaden.gov.br
 cemb.edu.pk
 cemfi.es
@@ -4922,6 +4923,7 @@ nust.edu.pk
 nustti.edu.cn
 nutech.edu.pk
 nutrisources.com
+nuv.ac.in
 nvu.bg
 nwafu.edu.cn
 nwhc.ac.uk
@@ -6062,6 +6064,7 @@ sazu.si
 sb-celje.si
 sbcc.edu
 sbccd.cc.ca.us
+sbccd.edu
 sbg.ac.at
 sbn.it
 sbs.edu.cn
@@ -7163,6 +7166,7 @@ uec.ac.jp
 uece.br
 uef.fi
 uefs.br
+ueg.br
 uel.ac.uk
 uel.br
 uem.br
@@ -7425,7 +7429,6 @@ uncisal.edu.br
 unco.edu
 uncw.edu
 und.edu
-undf.edu.br
 une.edu.au
 uneal.edu.br
 uneb.ac.ug
