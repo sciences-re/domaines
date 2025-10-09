@@ -32,6 +32,7 @@ aasemontessori.no
 aau.at
 aau.dk
 aauni.edu
+ababo.it
 abadir.net
 abana.it
 abaq.it
@@ -847,6 +848,7 @@ cefetmg.br
 cegeptr.qc.ca
 cei.edu
 ceiia.com
+ceitec.gov.br
 cells.es
 cem.ac.uk
 cemaden.gov.br
@@ -864,7 +866,6 @@ centerarhitekture.si
 centerdata.nl
 centerjanezalevca.si
 centrale-marseille.fr
-centrale-med.fr
 centralelille.fr
 centralesupelec.fr
 centralstmichaels.ac.uk
@@ -1255,6 +1256,7 @@ cukerala.ac.in
 cuklibrary.ac.in
 culr.edu.cn
 cultura.gov.it
+cultureelerfgoed.nl
 cumbria.ac.uk
 cumhuriyet.edu.tr
 cumminscollege.org
@@ -1495,6 +1497,7 @@ dumgal.ac.uk
 dundee.ac.uk
 dundeeandangus.ac.uk
 dunstable.ac.uk
+duo.nl
 duq.edu
 dur.ac.uk
 dusanabordona.si
@@ -2348,6 +2351,7 @@ guluhigh.ac.ug
 gumed.edu.pl
 gumed.pl
 gumushane.edu.tr
+gva.es
 gvsu.edu
 gwdg.de
 gwu.edu
@@ -2969,7 +2973,6 @@ ihes.fr
 ihjj.hr
 ihns.ac.cn
 ihs.ac.at
-ihu.edu.tr
 ihu.gr
 iiasa.ac.at
 iie.ac.cn
@@ -4177,7 +4180,6 @@ lvs.no
 lybskole.no
 lyngdal.kommune.no
 lyngen.kommune.no
-lythamsixth.ac.uk
 lyu.edu.cn
 lyun.edu.cn
 lzb.ac.cn
@@ -7615,7 +7617,6 @@ unimi.it
 unimib.it
 unimn.it
 unimol.it
-unimontes.br
 unimore.it
 unin.hr
 unina.it
