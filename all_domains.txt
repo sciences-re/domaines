@@ -334,6 +334,7 @@ aspete.gr
 aspira.hr
 aspirationtraining.com
 asren.org
+assas-universite.fr
 astem.or.jp
 aston.ac.uk
 astron.nl
@@ -400,7 +401,6 @@ avp-rs.si
 avu.cz
 awi.de
 awkum.edu.pk
-axhu.edu.cn
 aydin.edu.tr
 ayit.edu.cn
 aylesbury.ac.uk
@@ -478,7 +478,6 @@ bcm.edu
 bcmaterials.net
 bcot.ac.uk
 bcsd.sc.ug
-bctb.edu.cn
 bcu.ac.uk
 bdm.no
 bdren.net.bd
@@ -570,7 +569,6 @@ bjkjpress.com
 bjorkly.no
 bjornafjorden.kommune.no
 bjp.org.cn
-bjpc.edu.cn
 bjss.org.cn
 bjsteinfo.ac.cn
 bjstinfo.ac.cn
@@ -825,7 +823,6 @@ ccmu.edu.cn
 ccn.ac.uk
 ccom.edu.cn
 ccpcli.com
-ccrw.edu.cn
 ccsfu.edu.cn
 ccu.edu.cn
 ccut.edu.cn
@@ -887,7 +884,6 @@ cetem.gov.br
 cetene.gov.br
 ceu.edu
 ceub.br
-cfec.edu.cn
 cgee.org.br
 cgie.lu
 cgu.edu
@@ -990,7 +986,6 @@ clusius.nl
 cmaisonneuve.qc.ca
 cmb.ac.lk
 cmc.edu
-cmc.edu.cn
 cmccd.edu
 cmepius.si
 cmi.no
@@ -1001,7 +996,6 @@ cms-gscwu.edu.pk
 cmsr.si
 cmu.edu
 cmu.edu.cn
-cnaes.edu.cn
 cnag.eu
 cnb.cz
 cnc.bc.ca
@@ -1134,7 +1128,6 @@ cqctcm.edu.cn
 cqie.edu.cn
 cqmu.edu.cn
 cqnu.edu.cn
-cqpc.edu.cn
 cqu.edu.cn
 cque.edu.cn
 cqut.edu.cn
@@ -1193,7 +1186,6 @@ cruzeirodosul.edu.br
 csc.fi
 csgm.si
 csic.es
-csiic.edu.cn
 csir.co.za
 csn.edu
 csod.si
@@ -1221,7 +1213,6 @@ csus.edu
 csusb.edu
 csusm.edu
 csustan.edu
-ctbu.edu.cn
 cteguj.in
 cti.gov.br
 cti.gr
@@ -1288,7 +1279,6 @@ cwc.ac.uk
 cwi.nl
 cwnu.edu.cn
 cwu.edu
-cwu.edu.cn
 cybera.ca
 cyberschooltech.co.ug
 cyceron.fr
@@ -1296,7 +1286,6 @@ cyi.ac.cy
 cymoedd.ac.uk
 cynet.ac.cy
 czechglobe.cz
-czmc.edu.cn
 czu.cz
 czu.edu.cn
 czust.edu.cn
@@ -1413,8 +1402,6 @@ dkrz.de
 dla-marbach.de
 dlmu.edu.cn
 dlr.de
-dlu.edu.cn
-dlufe.edu.cn
 dlufl.edu.cn
 dlut.edu.cn
 dmjx.dk
@@ -1509,7 +1496,6 @@ dwp.gov.uk
 dyroy.kommune.no
 dzaipiss.sc.ug
 dzne.de
-dzu.edu.cn
 e-h.kommune.no
 e-kompetencia.si
 e-science.pl
@@ -1948,7 +1934,6 @@ fitjar.kommune.no
 fiu.edu
 fiz-karlsruhe.de
 fjaler.kommune.no
-fjbu.edu.cn
 fjellhaug.no
 fjirsm.ac.cn
 fjjxu.edu.cn
@@ -2099,7 +2084,6 @@ gbv.de
 gcc.si
 gchs.ac.ug
 gcu.ac.uk
-gcu.edu.cn
 gcuc.edu.gh
 gcwuf.edu.pk
 gcwus.edu.pk
@@ -2310,7 +2294,6 @@ gskranj.si
 gslasko-radece.si
 gslitijasmartno.si
 gslogatec.si
-gsmc.edu.cn
 gsmd.ac.uk
 gsmontessori.no
 gsmozecoe.org
@@ -2366,7 +2349,6 @@ gxufe.edu.cn
 gyc.ac.uk
 gyig.ac.cn
 gynzy-academie.nl
-gzarts.edu.cn
 gzhmu.edu.cn
 gzhu.edu.cn
 gznu.edu.cn
@@ -2386,7 +2368,6 @@ hadlow.ac.uk
 hadsel.kommune.no
 haegebostad.kommune.no
 hafa.gr
-hafu.edu.cn
 haifa.ac.il
 hainanu.edu.cn
 hainaut-ea.be
@@ -2444,14 +2425,11 @@ hawk.de
 haywardsheath.ac.uk
 hazu.hr
 hb.se
-hbeu.edu.cn
 hbgdys.edu.cn
 hbk-bs.de
 hbmu.edu.cn
 hbmzu.edu.cn
-hbnu.edu.cn
 hbo-academy.nl
-hbpu.edu.cn
 hbtu.ac.in
 hbu.edu.cn
 hbucm.edu.cn
@@ -2461,7 +2439,6 @@ hca.ac.uk
 hceres.fr
 hck.hr
 hcmr.gr
-hcnu.edu.cn
 hcpa.edu.br
 hct.ac.uk
 hct.edu.om
@@ -2485,7 +2462,6 @@ hebeu.edu.cn
 hebic.edu.cn
 hebmu.edu.cn
 hebtu.edu.cn
-hebuee.edu.cn
 hebust.edu.cn
 hebut.edu.cn
 hec.ca
@@ -2554,7 +2530,6 @@ hfuu.edu.cn
 hfwu.de
 hgb-leipzig.de
 hgi-cgs.hr
-hgnu.edu.cn
 hgu.edu.cn
 hh.se
 hhi.hr
@@ -2567,7 +2542,6 @@ hi.is
 hi.no
 hidrografico.pt
 hidroinstitut.si
-hifa.edu.cn
 hig.se
 highbury.ac.uk
 highlands.ac.uk
@@ -2606,7 +2580,6 @@ hku.nl
 hkust-gz.edu.cn
 hkxy.edu.cn
 hlfbriskeby.no
-hljeu.edu.cn
 hlju.edu.cn
 hljucm.edu.cn
 hlsenteret.no
@@ -2622,7 +2595,9 @@ hmskule.com
 hmt-leipzig.de
 hmt-rostock.de
 hmtm.de
+hmu-duesseldorf-krefeld.de
 hmu-erfurt.de
+hmu-muenchen.de
 hmu-potsdam.de
 hmu.gr
 hmv.org.br
@@ -2632,7 +2607,6 @@ hnee.de
 hnhvgs.no
 hnms.gr
 hnnu.edu.cn
-hnp.edu.cn
 hnskxy.cn
 hnu.edu.cn
 hnuahe.edu.cn
@@ -2674,7 +2648,6 @@ hr.nl
 hrb.ie
 hrbcu.edu.cn
 hrbeu.edu.cn
-hrbfu.edu.cn
 hrbmu.edu.cn
 hrbust.edu.cn
 hrc.ac.uk
@@ -2743,7 +2716,6 @@ hslu.ch
 hsmarnix.nl
 hsr.com.br
 hsrw.org
-hstc.edu.cn
 hsu-hh.de
 hsu.edu.cn
 hswt.de
@@ -2762,9 +2734,7 @@ hu.edu.pk
 hu.nl
 hua.gr
 huaja.org
-huanghuai.edu.cn
 huat.edu.cn
-huayu.edu.cn
 hubrecht.eu
 huc.edu
 hud.ac.uk
@@ -2800,16 +2770,13 @@ hvu.si
 hw.ac.uk
 hwg-lu.de
 hwr-berlin.de
-hxxy.edu.cn
 hyllestad.kommune.no
 hytc.edu.cn
 hz.nl
 hzau.edu.cn
-hzcu.edu.cn
 hzdr.de
 hzjz.hr
 hznu.edu.cn
-hzxy.edu.cn
 i-med.ac.at
 i-u.ac.jp
 i2basque.es
@@ -2876,7 +2843,6 @@ ict-toulouse.fr
 ict.ac.cn
 ict.edu.om
 ictp.it
-id.edu.cn
 ide.go.jp
 idealinstitute.edu.in
 identityfor.co.uk
@@ -3027,7 +2993,6 @@ ill.fr
 illinois.edu
 ilstu.edu
 ilvo.be
-imac.edu.cn
 imamu.edu.sa
 imau.edu.cn
 imbcams.com.cn
@@ -3044,7 +3009,6 @@ imicams.ac.cn
 imin.hr
 imip.org.br
 imm.ac.cn
-immu.edu.cn
 imnu.edu.cn
 imp.ac.at
 impa.br
@@ -3064,7 +3028,6 @@ imtbs-tsp.eu
 imtlucca.it
 imu.edu.cn
 imu.edu.my
-imun.edu.cn
 imust.edu.cn
 imut.edu.cn
 imz.hr
@@ -3073,6 +3036,7 @@ inaf.it
 inalco.fr
 inantro.hr
 inca.gov.br
+incaper.es.gov.br
 inderoy.kommune.no
 indiid.net
 indiraedu.com
@@ -3382,8 +3346,6 @@ jklu.edu.in
 jku.at
 jlab.org
 jlau.edu.cn
-jlbtc.edu.cn
-jlnu.edu.cn
 jlu.edu.cn
 jmskole.no
 jmu.edu
@@ -3401,7 +3363,6 @@ jozmos.si
 jsga.edu.tr
 jsmu.edu.pk
 jsnu.edu.cn
-jspi.edu.cn
 jssnu.edu.cn
 jssuni.edu.in
 jssvc.edu.cn
@@ -3416,14 +3377,10 @@ justis.com
 jusutdanning.no
 jxas.ac.cn
 jxau.edu.cn
-jxnhu.edu.cn
-jxuas.edu.cn
 jxufe.edu.cn
 jxust.edu.cn
 jxutcm.edu.cn
 jyu.fi
-jzmu.edu.cn
-jzun.edu.cn
 k3bohumin.cz
 kaauh.edu.sa
 kabaalesanjesss.sc.ug
@@ -3711,9 +3668,7 @@ kmetijski-zavod.si
 kmh.se
 kmj.si
 kmkg-mrah.be
-kmmu.edu.cn
 kmol.cz
-kmu.edu.cn
 kmu.edu.pk
 kmu.edu.tr
 knaw.nl
@@ -4015,7 +3970,6 @@ lgu.edu.pk
 lhi.is
 lhu.edu.tr
 lhup.edu
-liaodongu.edu.cn
 libertas.hr
 liberty.edu
 liceodesio.edu.it
@@ -4035,7 +3989,6 @@ lincoln.ac.nz
 lincoln.ac.uk
 lincolncollege.ac.uk
 linea.org.br
-lingnan.edu.cn
 lip.pt
 lipa.ac.uk
 liratowncollege.sc.ug
@@ -4063,7 +4016,6 @@ llgc.org.uk
 llnl.gov
 llqg.ac.cn
 llu.edu
-llu.edu.cn
 lmc.ac.uk
 lmta.lt
 lmu.de
@@ -4151,7 +4103,6 @@ luawms.edu.pk
 luc.edu
 luca-arts.be
 ludvik.si
-luibe.edu.cn
 luiss.it
 luj.si
 lukas.vgs.no
@@ -4181,7 +4132,6 @@ lybskole.no
 lyngdal.kommune.no
 lyngen.kommune.no
 lyu.edu.cn
-lyun.edu.cn
 lzb.ac.cn
 lzcu.edu.cn
 lzhit.edu.cn
@@ -4195,6 +4145,7 @@ macalester.edu
 macclesfield.ac.uk
 macewan.ca
 mackaymemorial.sc.ug
+mackenzie.br
 madrid.org
 maeen.sa
 mah.se
@@ -4291,7 +4242,6 @@ mdc-berlin.de
 mdc-berlin.net
 mdh.se
 mdim.ac.in
-mdit.edu.cn
 mdj.si
 mdsskranj.si
 mdw.ac.at
@@ -4566,11 +4516,9 @@ naalya-schools.com
 naba.it
 nabisunsagirls.ac.ug
 nabumalihs.sc.ug
-nacta.edu.cn
 nagalanduniversity.ac.in
 nagaokaut.ac.jp
 nagref-cha.gr
-nai.edu.cn
 naist.jp
 najdihojca.si
 nakanyonyiss.sc.ug
@@ -4613,7 +4561,6 @@ nbcc.ca
 nbcol.ac.uk
 nbdbiblion.nl
 nbi.ac.uk
-nbt.edu.cn
 nbu.bg
 nbu.cz
 nbu.edu.cn
@@ -4629,7 +4576,6 @@ nchlondon.ac.uk
 nchu.edu.cn
 ncirl.ie
 ncist.edu.cn
-ncjti.edu.cn
 ncl-coll.ac.uk
 ncl.ac.uk
 ncl.res.in
@@ -4654,7 +4600,6 @@ ndejjevoc.sc.ug
 ndky.edu.cn
 ndm.si
 ndmskole.no
-ndnu.edu.cn
 ndsu.edu
 ndu.ac.at
 ndu.ac.ug
@@ -4693,7 +4638,6 @@ neu.edu
 neu.edu.cn
 neuq.edu.cn
 neuromed.it
-neusoft.edu.cn
 nevada.edu
 nevadastate.edu
 nevsehir.edu.tr
@@ -4829,7 +4773,6 @@ nmu.ac.in
 nmu.edu
 nnfc.re.kr
 nnnu.edu.cn
-nnutc.edu.cn
 noa.gr
 noc-test.si
 noirlab.edu
@@ -4924,7 +4867,6 @@ nup.ac.cy
 nus.edu
 nus.edu.sg
 nust.edu.pk
-nustti.edu.cn
 nutech.edu.pk
 nutrisources.com
 nuv.ac.in
@@ -4942,7 +4884,6 @@ nwu.ac.za
 nwu.edu.cn
 nwuoas.com
 nwupl.edu.cn
-nxnu.edu.cn
 nxu.edu.cn
 nyahukass.sc.ug
 nyakabangass.sc.ug
@@ -5537,7 +5478,6 @@ pdsu.edu.cn
 pdx.edu
 pearsoncollege.com
 pei.si
-peihua.edu.cn
 peizheng.edu.cn
 pembrokeshire.ac.uk
 perdanauniversity.edu.my
@@ -5767,17 +5707,14 @@ qau.edu.cn
 qau.edu.pk
 qdbhu.edu.cn
 qdhhc.edu.cn
-qdhxu.edu.cn
 qdio.ac.cn
 qdu.edu.cn
 qfnu.edu.cn
 qgyhbs.com
-qhit.edu.cn
 qhmu.edu.cn
 qhnu.edu.cn
 qibebt.ac.cn
 qimrberghofer.edu.au
-qjnu.edu.cn
 qlit.edu.cn
 qlu.edu.cn
 qmc.ac.uk
@@ -6066,6 +6003,7 @@ savs.cz
 saxion.nl
 sazu.si
 sb-celje.si
+sbc.org.br
 sbcc.edu
 sbccd.cc.ca.us
 sbccd.edu
@@ -6137,8 +6075,6 @@ scvz.hr
 sczg.hr
 sd-upr.si
 sd.edu.cn
-sdada.edu.cn
-sdaeu.edu.cn
 sdau.edu.cn
 sdccd.edu
 sdfmu.edu.cn
@@ -6159,9 +6095,6 @@ sdua.edu.cn
 sdust.edu.cn
 sdutcm.edu.cn
 sdwu.edu.cn
-sdxd.edu.cn
-sdxiehe.edu.cn
-sdyu.edu.cn
 seamk.fi
 seatech.fr
 sece.ac.in
@@ -6223,12 +6156,10 @@ shanghaitech.edu.cn
 shao.ac.cn
 sharda.ac.in
 shbs.no
-shcc.edu.cn
 shcg.ac.uk
 shec.edu.cn
 sheffcol.ac.uk
 sheffield.ac.uk
-shengda.edu.cn
 sheridancollege.ca
 sherwood.institute
 shh.se
@@ -6312,9 +6243,7 @@ sjeccd.edu
 sjp.ac.lk
 sjsu.edu
 sjtu.edu.cn
-sju.edu.cn
 sju.edu.in
-sjzc.edu.cn
 sjziam.ac.cn
 sk-oppvekst.no
 skagerak.org
@@ -6378,7 +6307,6 @@ snfcc.org
 snnu.edu.cn
 sns.it
 snspa.ro
-sntcm.edu.cn
 snu.ac.kr
 snu.edu.in
 snut.edu.cn
@@ -6456,7 +6384,6 @@ springfield.edu
 springingstars.ac
 spts.si
 spu.ac.za
-sqnu.edu.cn
 squ.edu.cn
 squ.edu.om
 sqxy.edu.cn
@@ -6547,7 +6474,6 @@ stfx.no
 stgonzagakagoma.sc.ug
 sthelens.ac.uk
 sthenryskitovu.ac.ug
-sti.edu.cn
 stimes.cn
 stin.hr
 stir.ac.uk
@@ -6699,8 +6625,6 @@ swun.edu.cn
 swupl.edu.cn
 swust.edu.cn
 sxau.edu.cn
-sxdtdx.edu.cn
-sxdzkj.edu.cn
 sxicc.ac.cn
 sxit.edu.cn
 sxmu.edu.cn
@@ -6715,7 +6639,6 @@ sykkylven.kommune.no
 sylu.edu.cn
 symplicity.com
 synchrotron-soleil.fr
-synu.edu.cn
 syphu.edu.cn
 syr.edu
 sysu.edu.cn
@@ -6828,7 +6751,6 @@ this.no
 thk.edu.tr
 thl.fi
 thm.de
-thnu.edu.cn
 thomasmore.be
 thomasmorehs.nl
 thomroth.ac.uk
@@ -6847,7 +6769,6 @@ tinn.kommune.no
 tinnmontessori.no
 tio.nl
 tirol-kliniken.at
-tit.edu.cn
 tjarts.edu.cn
 tjau.edu.cn
 tjcu.edu.cn
@@ -6857,7 +6778,6 @@ tjnu.edu.cn
 tju.edu.cn
 tjufe.edu.cn
 tjut.edu.cn
-tjzhic.edu.cn
 tk.hu
 tkbf.hu
 tkmce.ac.in
@@ -7006,7 +6926,6 @@ tyrifjord.org
 tyrifjord.vgs.no
 tysnes.kommune.no
 tysver.kommune.no
-tyu.edu.cn
 tyust.edu.cn
 tyut.edu.cn
 tzc.edu.cn
@@ -7240,6 +7159,7 @@ ufpb.br
 ufpe.br
 ufpel.edu.br
 ufpi.br
+ufpr.br
 ufr.edu.br
 ufra.edu.br
 ufrb.edu.br
@@ -7434,6 +7354,7 @@ uncisal.edu.br
 unco.edu
 uncw.edu
 und.edu
+undf.edu.br
 une.edu.au
 uneal.edu.br
 uneb.ac.ug
@@ -7617,6 +7538,7 @@ unimi.it
 unimib.it
 unimn.it
 unimol.it
+unimontes.br
 unimore.it
 unin.hr
 unina.it
@@ -7633,7 +7555,6 @@ union.edu
 unior.it
 unios.hr
 uniovi.es
-unip.br
 unipa.it
 unipampa.edu.br
 unipar.br
@@ -7820,7 +7741,6 @@ uoc.edu
 uoc.gr
 uoguelph.ca
 uoh.cl
-uoh.edu.cn
 uoh.edu.pk
 uoh.edu.sa
 uoi.gr
@@ -7878,6 +7798,7 @@ ups.edu.ec
 upsa.es
 upu.ac.ug
 upv.es
+upvetuniv.edu.in
 upwr.edu.pl
 uq.edu.au
 uqac.ca
@@ -7930,7 +7851,6 @@ usst.edu.cn
 ust.hk
 ustb.edu.cn
 ustc.edu.cn
-usth.edu.cn
 ustl.edu.cn
 usts.edu.cn
 usu.edu
@@ -8467,7 +8387,6 @@ wst.com.pl
 wst.pl
 wsu.ac.za
 wsu.edu
-wsu.edu.cn
 wsyu.edu.cn
 wszib.edu.pl
 wtu.edu.cn
@@ -8482,18 +8401,11 @@ wuyiu.edu.cn
 wvu.edu
 wwsi.edu.pl
 wwu.edu
-wxc.edu.cn
-wxu.edu.cn
 wyb.ac.lk
 wynu.edu.cn
 wyu.edu.cn
-wzbc.edu.cn
 wzu.edu.cn
 xaau.edu.cn
-xacxz.edu.cn
-xafu.edu.cn
-xaipe.edu.cn
-xaiu.edu.cn
 xamk.fi
 xatu.edu.cn
 xauat.edu.cn
@@ -8511,13 +8423,10 @@ xisu.edu.cn
 xiyi.edu.cn
 xjau.edu.cn
 xjb.ac.cn
-xjie.edu.cn
 xjmu.edu.cn
 xjnu.edu.cn
 xjtlu.edu.cn
 xjtu.edu.cn
-xjufe.edu.cn
-xjust.edu.cn
 xjzfu.edu.cn
 xmu.edu.cn
 xmut.edu.cn
@@ -8553,12 +8462,10 @@ yildiz.edu.tr
 ylioppilastutkinto.fi
 ymu.edu.cn
 ynao.ac.cn
-ynart.edu.cn
 ynau.edu.cn
 ynnu.edu.cn
 ynu.ac.jp
 ynu.edu.cn
-ynucm.edu.cn
 ynufe.edu.cn
 yokohama-cu.ac.jp
 yonago-k.ac.jp
@@ -8568,7 +8475,6 @@ yorkcollege.ac.uk
 yorksj.ac.uk
 yorku.ca
 youid.net
-ypc.edu.cn
 ysu.edu.cn
 ytu.edu.cn
 yukonu.ca
@@ -8643,11 +8549,9 @@ zs-ajdovscina.si
 zsem.hr
 zstu.edu.cn
 ztm.si
-ztu.edu.cn
 zu.de
 zu.edu.pk
 zua.edu.cn
-zueb.edu.cn
 zuel.edu.cn
 zufe.edu.cn
 zupnijski-vrtec.si
@@ -8662,9 +8566,7 @@ zvkds.si
 zvocnazgodba.si
 zvu.hr
 zwu.edu.cn
-zykj.edu.cn
 zyufl.edu.cn
 zzife.edu.cn
-zzjc.edu.cn
 zznu.edu.cn
 zzu.edu.cn
