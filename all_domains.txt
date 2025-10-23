@@ -322,6 +322,7 @@ aseral.kommune.no
 asfa.gr
 asfc.ac.uk
 ash-berlin.eu
+asi.it
 asker.kommune.no
 askerc.si
 askham-bryan.ac.uk
@@ -821,6 +822,7 @@ ccit.edu.cn
 cckk.edu.my
 ccmu.edu.cn
 ccn.ac.uk
+ccnu.edu.cn
 ccom.edu.cn
 ccpcli.com
 ccsfu.edu.cn
@@ -845,7 +847,7 @@ cefetmg.br
 cegeptr.qc.ca
 cei.edu
 ceiia.com
-ceitec.gov.br
+ceitec-sa.com
 cells.es
 cem.ac.uk
 cemaden.gov.br
@@ -1994,6 +1996,7 @@ fos-unm.si
 fossumkollektivet.no
 fosu.edu.cn
 fpablovi.org
+fpp.edu.br
 fpul-lyon.org
 fpz.hr
 fpzg.hr
@@ -3239,6 +3242,7 @@ istvidanueva.edu.ec
 isu.edu
 iswc.ac.cn
 it-chiba.ac.jp
+it-hiroshima.ac.jp
 it-u.at
 ita.br
 ita.es
@@ -3286,6 +3290,7 @@ iufm.fr
 iuhw.ac.jp
 iulm.it
 ium.pt
+iup.ac.rs
 iup.edu
 iusspavia.it
 iv.hr
@@ -5725,6 +5730,7 @@ qqhru.edu.cn
 qu.edu.sa
 quasarinstitute.it
 qub.ac.uk
+queens.ac.uk
 queensu.ca
 queerknihovna.cz
 quest.edu.pk
@@ -6610,6 +6616,7 @@ swan.ac.uk
 swarthmore.edu
 swc.ac.uk
 sweswe-btvet.sc.ug
+swfu.edu.cn
 swin.edu.au
 swissuniversities.ch
 switch.ch
@@ -6678,6 +6685,7 @@ tana.kommune.no
 tanuvas.ac.in
 tarc.edu.my
 tarleton.edu
+tarsus.edu.tr
 tartini.si
 taru.edu.cn
 tasouganda.org
@@ -7010,6 +7018,7 @@ ucc.edu.gh
 ucc.ie
 ucd.ie
 ucdavis.edu
+ucdb.br
 ucdenver.edu
 ucdiakonissen.dk
 uce.edu.ec
@@ -7167,6 +7176,7 @@ ufrgs.br
 ufrj.br
 ufrn.edu.br
 ufrpe.br
+ufrr.br
 ufrrj.br
 ufs.ac.za
 ufs.br
@@ -7547,14 +7557,15 @@ unine.ch
 uninet.edu.sg
 uninett.no
 uninettunouniversity.net
+uninove.br
 uninsubria.it
 unint.eu
-uninta.edu.br
 unioeste.br
 union.edu
 unior.it
 unios.hr
 uniovi.es
+unip.br
 unipa.it
 unipampa.edu.br
 unipar.br
@@ -7750,7 +7761,6 @@ uol.edu.pk
 uom.edu.pk
 uom.edu.sa
 uom.gr
-uom.lk
 uonbi.ac.ke
 uop.gr
 uoradea.ro
