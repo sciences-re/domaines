@@ -789,6 +789,7 @@ carleton.edu
 carlowcollege.ie
 carmel.ac.uk
 carnet.hr
+carrerasresearch.org
 cartif.es
 cas.cn
 cas.cz
@@ -2898,7 +2899,6 @@ ifpe.edu.br
 ifpi.edu.br
 ifpr.edu.br
 ifremer.fr
-ifrj.edu.br
 ifrn.edu.br
 ifro.edu.br
 ifrr.edu.br
@@ -3073,6 +3073,7 @@ inp-greifswald.de
 inp-toulouse.fr
 inpa.gov.br
 inpe.br
+inpo.org.br
 inpp.gov.br
 inra.fr
 inrae.fr
@@ -3181,6 +3182,7 @@ iri-lj.si
 irm-cams.ac.cn
 irma.ac.in
 irmo.hr
+irris.si
 irsn.fr
 irst.emr.it
 irt-systemx.fr
@@ -3280,6 +3282,7 @@ iu.edu
 iuac.res.in
 iuav.it
 iub.edu.pk
+iuc-noord.nl
 iuc.edu.tr
 iuc.res.in
 iucaa.in
@@ -4232,6 +4235,7 @@ mbu.asia
 mc-celje.si
 mc-eindhoven.nl
 mc-velenje.si
+mca.ac.mw
 mcbu.ac.in
 mcet.in
 mcgill.ca
@@ -4473,6 +4477,7 @@ muni.ac.ug
 muni.cz
 munigirls.ac.ug
 munzur.edu.tr
+muoc.ac.in
 muohio.edu
 mup.cz
 mup.edu.pl
@@ -4517,6 +4522,7 @@ myuwc.ac.za
 mzk.cz
 mzos.hr
 mzuni.ac.mw
+mzuzutech.ac.mw
 naalya-schools.com
 naba.it
 nabisunsagirls.ac.ug
@@ -4931,6 +4937,7 @@ oca.eu
 ocad.ca
 ocha.ac.jp
 ocociagirls.sc.ug
+odc-noord.nl
 odisee.be
 odu.edu
 odu.edu.tr
@@ -5775,6 +5782,7 @@ rcplondon.ac.uk
 rcs.ac.uk
 rcseng.ac.uk
 rcsi.ie
+reabilitar.org.br
 reading.ac.uk
 reading.edu.my
 reannz.co.nz
@@ -6246,6 +6254,7 @@ sjbzaruma.edu.ec
 sjcc.edu
 sjec.ac.in
 sjeccd.edu
+sjifh.ac.mw
 sjp.ac.lk
 sjsu.edu
 sjtu.edu.cn
@@ -6423,6 +6432,7 @@ ssmlinternazionale.it
 ssmlnelsonmandela.it
 ssmlto.it
 ssn.edu.in
+sso-noord.nl
 ssof.si
 ssom.si
 sspu.edu.cn
@@ -6726,7 +6736,6 @@ telecom-paris.fr
 telecom-paristech.fr
 telecom-sudparis.eu
 telemarkfylke.no
-teluq.ca
 tem-tsp.eu
 temple.edu
 tenet.ac.za
@@ -7141,7 +7150,6 @@ ufca.edu.br
 ufcat.edu.br
 ufcg.edu.br
 ufcspa.edu.br
-ufdpar.edu.br
 ufersa.edu.br
 ufes.br
 uff.br
@@ -7533,6 +7541,7 @@ unilab.edu.br
 unilasalle.fr
 unileoben.ac.at
 unileon.es
+unilia.ac.mw
 unilim.fr
 unilu.ch
 unima.ac.mw
@@ -7617,6 +7626,7 @@ unist.ac.kr
 unist.hr
 unistra.fr
 unistrapg.it
+unisuam.edu.br
 unisul.br
 unisza.edu.my
 uniszpa.hu
@@ -7862,6 +7872,8 @@ ust.hk
 ustb.edu.cn
 ustc.edu.cn
 ustl.edu.cn
+ustp-students.at
+ustp.at
 usts.edu.cn
 usu.edu
 usv.ro
