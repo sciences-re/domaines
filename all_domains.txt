@@ -669,7 +669,6 @@ bruford.ac.uk
 brunel.ac.uk
 bryggjaskule.no
 brynmawr.edu
-bsb-campus-hamburg.de
 bsb-education.com
 bsc.es
 bsdc.ac.uk
@@ -1393,6 +1392,7 @@ dipf.de
 diplomacija.hr
 direitofranca.br
 diu.edu.bd
+diw.de
 djkbf.hr
 djtu.edu.cn
 dkd.hr
@@ -1830,6 +1830,7 @@ fareham.ac.uk
 farn-ct.ac.uk
 farnboroughsfc.ac.uk
 farsund.kommune.no
+fasec.edu.br
 fatebenefratelli.eu
 fatimaaloigirls.sc.ug
 fau.de
@@ -1998,6 +1999,7 @@ fossumkollektivet.no
 fosu.edu.cn
 fpablovi.org
 fpp.edu.br
+fps.edu.br
 fpul-lyon.org
 fpz.hr
 fpzg.hr
@@ -2423,6 +2425,7 @@ haverford.edu
 havering-college.ac.uk
 havering-sfc.ac.uk
 haw-hamburg.de
+haw-kiel.de
 haw-landshut.de
 hawaii.edu
 hawk.de
@@ -2509,6 +2512,7 @@ hertie-school.org
 herts.ac.uk
 hes-so.ch
 hetperron.nl
+hfa.mil.br
 hfbk-dresden.de
 hfbk-hamburg.de
 hfbk.net
@@ -2595,7 +2599,6 @@ hmcollege.nl
 hmdk-stuttgart.de
 hmlibrary.ac.in
 hmskole.no
-hmskule.com
 hmt-leipzig.de
 hmt-rostock.de
 hmtm.de
@@ -2899,6 +2902,7 @@ ifpe.edu.br
 ifpi.edu.br
 ifpr.edu.br
 ifremer.fr
+ifrj.edu.br
 ifrn.edu.br
 ifro.edu.br
 ifrr.edu.br
@@ -6365,6 +6369,7 @@ sonans.no
 sondre-land.kommune.no
 sonoma.edu
 soonsjoskole.no
+sophia.ac.jp
 soprintendenzaspecialeroma.it
 sor-aurdal.kommune.no
 sor-fron.kommune.no
@@ -7020,6 +7025,7 @@ ucam.edu
 ucanr.edu
 ucao-uut.tg
 ucas.ac.cn
+ucas.edu.cn
 ucass.edu.cn
 ucavila.es
 ucb.ac.uk
@@ -7150,6 +7156,7 @@ ufca.edu.br
 ufcat.edu.br
 ufcg.edu.br
 ufcspa.edu.br
+ufdpar.edu.br
 ufersa.edu.br
 ufes.br
 uff.br
@@ -7704,6 +7711,7 @@ univale.br
 univali.br
 univap.br
 univaq.it
+univas.edu.br
 univasf.edu.br
 univates.br
 univda.it
@@ -8087,6 +8095,7 @@ vignan.ac.in
 vik.kommune.no
 vikeskule.no
 viko.lt
+vikramuniv.ac.in
 viktenskole.no
 villanueva.edu
 vilniustech.lt
