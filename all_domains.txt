@@ -163,6 +163,7 @@ ahu.edu
 ahu.edu.cn
 ahut.edu.cn
 aichi-toho.ac.jp
+aiimsbilaspur.edu.in
 aiit.edu.cn
 aiktclibrary.org
 aims.edu.gh
@@ -1857,6 +1858,7 @@ feesc.org.br
 feevale.br
 feide.no
 feiring.vgs.no
+fenix.org.mx
 fepecs.edu.br
 fer.hr
 fernfh.ac.at
@@ -2853,6 +2855,7 @@ ictp.it
 ide.go.jp
 idealinstitute.edu.in
 identityfor.co.uk
+idi.co.ug
 idi.hr
 idiap.ch
 idp.edu.br
@@ -2959,6 +2962,7 @@ iiitn.ac.in
 iiitnr.ac.in
 iiitp.ac.in
 iiitsonepat.ac.in
+iiitu.ac.in
 iima.ac.in
 iimbg.ac.in
 iimsirmaur.ac.in
@@ -2969,10 +2973,12 @@ iiphg.edu.in
 iir.cz
 iisc.ac.in
 iiserbpr.ac.in
+iislafe.es
 iit.edu
 iit.it
 iitbbs.ac.in
 iitbhilai.ac.in
+iitbhu.ac.in
 iitd.ac.in
 iitdh.ac.in
 iitg.ac.in
@@ -3180,6 +3186,7 @@ irccsdebellis.it
 irccsme.it
 ird.fr
 ird.gov.br
+irdp.ac.tz
 irf.se
 irgo.si
 iri-lj.si
@@ -4428,6 +4435,7 @@ mpumuddess.sc.ug
 mpungwess.sc.ug
 mq.edu.au
 mrc.ac.uk
+mrc.ac.za
 mrfylke.no
 mro.si
 mrsptu.ac.in
@@ -4677,6 +4685,7 @@ ngaboacademy.sc.ug
 ngi.no
 ngoragirlsss.sc.ug
 ngorahigh.sc.ug
+ngu.ac.in
 ngu.no
 nhc.ac.uk
 nhh.no
@@ -4748,6 +4757,7 @@ nitmz.ac.in
 nitrkl.ac.in
 nitt.edu
 nittedal.kommune.no
+nitttrc.ac.in
 nitttrchd.ac.in
 niu.ac.ug
 niu.edu
@@ -4758,6 +4768,7 @@ njit.edu
 njit.edu.cn
 njmu.edu.cn
 njnu.edu.cn
+njtc.edu.cn
 njtech.edu.cn
 njts.edu.cn
 nju.edu.cn
@@ -4845,6 +4856,7 @@ nsf.gov
 nsi.edu.cn
 nsk.hr
 nssc.ac.cn
+nsu.ac.in
 nsut.ac.in
 nsz.hr
 nszssh.hr
@@ -5828,6 +5840,7 @@ rfh-koeln.de
 rfintervention.dk
 rfmlib.hu
 rgn.hr
+rgnau.ac.in
 rgniyd.ac.in
 rgu.ac.in
 rgu.ac.uk
@@ -5969,6 +5982,7 @@ sami.vgs.no
 samisk.vgs.no
 samk.fi
 samnanger.kommune.no
+samrc.ac.za
 samsun.edu.tr
 san.edu.pl
 sandau.edu.cn
@@ -6046,6 +6060,7 @@ scccd.edu
 scfm-smlednik.si
 schlosshofen.at
 scholarin.cn
+sci.am
 scib.ac.cn
 sciences-po.fr
 sciences-po.org
@@ -6110,6 +6125,7 @@ sdu.dk
 sdu.edu.cn
 sdu.edu.tr
 sdua.edu.cn
+sdufe.edu.cn
 sdust.edu.cn
 sdutcm.edu.cn
 sdwu.edu.cn
@@ -7067,6 +7083,7 @@ ucmerced.edu
 ucn.dk
 uco.es
 uco.fr
+ucol.mx
 uconn.edu
 ucop.edu
 ucp.hr
@@ -7095,6 +7112,7 @@ udc.es
 udel.edu
 udesc.br
 udg.edu
+udg.mx
 udima.es
 udir.cloud
 udir.no
@@ -7170,6 +7188,7 @@ ufjf.br
 ufl.edu
 ufla.br
 ufm.dk
+ufma.br
 ufmg.br
 ufms.br
 ufmt.br
@@ -7363,6 +7382,8 @@ unach.edu.ec
 unae.edu.ec
 unaerp.br
 unak.is
+unam.edu
+unam.mx
 unamur.be
 unav.es
 unavarra.es
