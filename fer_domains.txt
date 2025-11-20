@@ -163,6 +163,7 @@ ahu.edu
 ahu.edu.cn
 ahut.edu.cn
 aichi-toho.ac.jp
+aiimsbathinda.edu.in
 aiimsbilaspur.edu.in
 aiit.edu.cn
 aiktclibrary.org
@@ -674,6 +675,7 @@ bsc.es
 bsdc.ac.uk
 bsfc.ac.uk
 bshp.edu
+bsp-campus-hamburg.de
 bstec.net.cn
 bsu.by
 bsu.edu
@@ -804,6 +806,7 @@ cau.edu.cn
 cauc.edu.cn
 caudit.edu.au
 cavc.ac.uk
+cavendish.ac.ug
 caw.ac.uk
 cawthron.org.nz
 cbpf.br
@@ -1405,6 +1408,7 @@ dkrz.de
 dla-marbach.de
 dlmu.edu.cn
 dlr.de
+dlu.edu.cn
 dlufl.edu.cn
 dlut.edu.cn
 dmjx.dk
@@ -1491,6 +1495,8 @@ duo.nl
 duq.edu
 dur.ac.uk
 dusanabordona.si
+dut.ac.za
+dut4life.ac.za
 duth.gr
 duurzaamheidsfabriek.nl
 duzce.edu.tr
@@ -2102,6 +2108,7 @@ gdpu.edu.cn
 gdufe.edu.cn
 gdufs.edu.cn
 gdust.edu.cn
+gdut.edu.cn
 gdynia.pl
 gea-college.si
 geant.org
@@ -2919,7 +2926,6 @@ ifsttar.fr
 ifsudestemg.edu.br
 ifsul.edu.br
 ifsuldeminas.edu.br
-iftm.edu.br
 ifto.edu.br
 ifv.nl
 ifw-dresden.de
@@ -3016,7 +3022,6 @@ imec.be
 imech.ac.cn
 imfm.si
 imi.hr
-imi.ie
 imicams.ac.cn
 imin.hr
 imip.org.br
@@ -3392,6 +3397,7 @@ just.edu.bd
 just.edu.cn
 justis.com
 jusutdanning.no
+jwu.ac.jp
 jxas.ac.cn
 jxau.edu.cn
 jxufe.edu.cn
@@ -4405,6 +4411,7 @@ montefiore.org
 montessori-svet.si
 montessori.no
 montessori.si
+montessorium.si
 montpellier-bs.com
 moredun.ac.uk
 moreskodje.no
@@ -5478,6 +5485,7 @@ palucca.eu
 paneurouni.com
 panoptikum.pl
 panteion.gr
+paqtc.org.br
 par.hr
 paramedicalinstitute.org
 parc.gov.pk
@@ -6419,7 +6427,6 @@ spts.si
 spu.ac.za
 squ.edu.cn
 squ.edu.om
-sqxy.edu.cn
 sr.edu.sa
 src.ac.uk
 srce.hr
@@ -6640,6 +6647,7 @@ svkul.cz
 svnit.ac.in
 svo.nl
 svsgl.si
+svuniversity.edu.in
 swan.ac.uk
 swarthmore.edu
 swc.ac.uk
@@ -7023,6 +7031,7 @@ ubc.ca
 ube.edu.ec
 ube.fr
 ubi.pt
+ubiobio.cl
 ubishops.ca
 ubu.es
 ubuntunet.net
@@ -7123,7 +7132,6 @@ ue.katowice.pl
 uea.ac.uk
 uea.edu.br
 uea.edu.ec
-ueas.edu.ec
 ueb.edu.ec
 uec.ac.jp
 uece.br
@@ -7138,6 +7146,7 @@ uema.br
 uemasul.edu.br
 uemc.es
 uemg.br
+uems.br
 uenf.br
 uenp.edu.br
 uenr.edu.gh
@@ -7151,7 +7160,6 @@ uerr.edu.br
 uesb.br
 uesc.br
 uesd.edu.gh
-uesmae.edu.ec
 uespi.br
 uestar.edu.ec
 uestc.edu.cn
