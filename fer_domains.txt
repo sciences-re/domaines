@@ -123,6 +123,7 @@ adu.edu.tr
 adu.hr
 aeb.gov.br
 aegean.gr
+aer.mil.br
 aeres.nl
 aeresmbo.nl
 aeronomie.be
@@ -678,7 +679,6 @@ bshp.edu
 bsp-campus-hamburg.de
 bstec.net.cn
 bsu.by
-bsu.edu
 bsu.edu.cn
 bsz-bw.de
 btc.ac.uk
@@ -1929,6 +1929,7 @@ fie.org.uk
 fife.ac.uk
 fiksdalfriskule.no
 film-center.si
+filmakademie.de
 filmoteka.si
 filmovka.cz
 filmuniversitaet.de
@@ -2926,6 +2927,7 @@ ifsttar.fr
 ifsudestemg.edu.br
 ifsul.edu.br
 ifsuldeminas.edu.br
+iftm.edu.br
 ifto.edu.br
 ifv.nl
 ifw-dresden.de
@@ -2962,6 +2964,7 @@ iiitb.ac.in
 iiitd.edu.in
 iiitdm.ac.in
 iiitdmj.ac.in
+iiitdwd.ac.in
 iiitkottayam.ac.in
 iiitn.ac.in
 iiitnr.ac.in
@@ -3203,6 +3206,7 @@ irt-systemx.fr
 irta.es
 isa.ac.cn
 isabin.fr
+isae-supaero.fr
 isae-supmeca.fr
 isae.fr
 isara.fr
@@ -3350,6 +3354,7 @@ jefferson.edu
 jennestadms.no
 jevnaker.kommune.no
 jfn.ac.lk
+jfsg.nl
 jgsu.edu.cn
 jgu.edu.in
 jhp.ac.at
@@ -3406,6 +3411,7 @@ jxutcm.edu.cn
 jyu.fi
 k3bohumin.cz
 kaauh.edu.sa
+kab.ac.ug
 kabaalesanjesss.sc.ug
 kabaless.sc.ug
 kabezi.sc.ug
@@ -4766,6 +4772,7 @@ nitttrc.ac.in
 nitttrchd.ac.in
 niu.ac.ug
 niu.edu
+niva.no
 nivel.nl
 njau.edu.cn
 njfu.edu.cn
@@ -5504,6 +5511,7 @@ pb.edu.pl
 pbd.edu.my
 pbf.hr
 pbl.nl
+pbs.edu.pl
 pbu.edu.my
 pct.edu
 pcz.pl
@@ -6042,7 +6050,6 @@ saxion.nl
 sazu.si
 sb-celje.si
 sbc.org.br
-sbcc.edu
 sbccd.cc.ca.us
 sbccd.edu
 sbg.ac.at
@@ -6682,6 +6689,7 @@ sykkylven.kommune.no
 sylu.edu.cn
 symplicity.com
 synchrotron-soleil.fr
+synu.edu.cn
 syphu.edu.cn
 syr.edu
 sysu.edu.cn
@@ -7975,6 +7983,7 @@ utsouthwestern.edu
 utsystem.edu
 utszlib.edu.cn
 utt.fr
+uttara.ac.bd
 uttc.edu
 uttop.fr
 uttyler.edu
