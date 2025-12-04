@@ -530,6 +530,7 @@ bic-lj.si
 biem.com.cn
 bifrost.is
 bift.edu.cn
+bigc.edu.cn
 bihanga.sc.ug
 bihangass.sc.ug
 bil.ac.uk
@@ -680,6 +681,7 @@ bshp.edu
 bsp-campus-hamburg.de
 bstec.net.cn
 bsu.by
+bsu.edu
 bsu.edu.cn
 bsz-bw.de
 btc.ac.uk
@@ -1831,7 +1833,6 @@ fandm.edu
 fanshawec.ca
 fapeal.br
 fapepi.pi.gov.br
-fapes.es.gov.br
 fapesp.br
 fareham.ac.uk
 farn-ct.ac.uk
@@ -2052,7 +2053,6 @@ fundacaowilsonpicler.org.br
 fundaciondescubre.es
 fundaj.gov.br
 funep.es
-funesa.se.gov.br
 funet.fi
 funpec.br
 furb.br
@@ -2063,6 +2063,7 @@ fusp-edu.it
 fuwai.com
 fuwaihospital.org
 fv-berlin.de
+fvsu.edu
 fwf.ac.at
 fynu.edu.cn
 fyresdal.kommune.no
@@ -2352,7 +2353,9 @@ gumed.pl
 gumushane.edu.tr
 gva.es
 gvsu.edu
+gwc.ac.za
 gwdg.de
+gwng.edu.cn
 gwu.edu
 gxau.edu.cn
 gxetic.edu.cn
@@ -2991,6 +2994,7 @@ iitbhu.ac.in
 iitd.ac.in
 iitdh.ac.in
 iitg.ac.in
+iitgn.ac.in
 iitgoa.ac.in
 iith.ac.in
 iitism.ac.in
@@ -3370,6 +3374,7 @@ jinnah.edu
 jisc.ac.uk
 jisu.edu.cn
 jit.ac.in
+jit.edu.cn
 jive.nl
 jklu.edu.in
 jku.at
@@ -3379,6 +3384,7 @@ jlu.edu.cn
 jmskole.no
 jmu.edu
 jmu.edu.cn
+jncu.ac.in
 jnmc.edu.cn
 jnu.ac.in
 jnu.edu.cn
@@ -3484,6 +3490,7 @@ kbfi.ee
 kbo.hr
 kbsd.hr
 kbsplit.hr
+kbvsasun.ac.in
 kcb.ac.ug
 kcc.ac.uk
 kcesmjc.in
@@ -4053,7 +4060,6 @@ lmu.de
 lmu.edu
 ln.edu.hk
 lna.br
-lncc.br
 lnec.pt
 lneg.pt
 lnmiit.ac.in
@@ -4584,6 +4590,7 @@ nationallibrary.gov.in
 nationwidechildrens.org
 natur.vgs.no
 naturalis.nl
+naturalsciences.be
 nau.edu
 nau.edu.cn
 nauss.edu.sa
@@ -6327,6 +6334,7 @@ slodrs.si
 slogi.si
 slomskov-vrtec.si
 slottsfjellet.no
+slowheat.org
 slsp.ch
 sltc.ac.lk
 slu.cz
@@ -6775,6 +6783,7 @@ telecom-sudparis.eu
 telemarkfylke.no
 tem-tsp.eu
 temple.edu
+temu.ac.in
 tenet.ac.za
 tennessee.edu
 tera.hr
@@ -7772,6 +7781,7 @@ unizar.es
 unizd.hr
 unizg.hr
 unizin.org
+unizulu.ac.za
 unizwa.edu.om
 unk.edu
 unl.edu
