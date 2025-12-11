@@ -15,7 +15,6 @@ GildeOpleidingen.nl
 MBS-Education.com
 ROCGilde.nl
 UGent.be
-VUmc.nl
 a-ms.no
 a-star.edu.sg
 a12.nl
@@ -218,7 +217,6 @@ amarilis-sola.si
 amasfriskule.com
 amasya.edu.tr
 ambis.cz
-amc.nl
 american.edu
 amersham.ac.uk
 ameslab.gov
@@ -3082,7 +3080,6 @@ inha.fr
 inholland.nl
 inia.es
 inl.int
-inma.gov.br
 inmetro.gov.br
 inmi.it
 inn.no
@@ -3112,6 +3109,7 @@ insa-strasbourg.fr
 insa-toulouse.fr
 insa.gov.br
 inseamm.fr
+insei.fr
 insel.ch
 inserm-transfert.fr
 inserm.fr
@@ -3443,6 +3441,7 @@ kambuga.sc.ug
 kamerukaseed.sc.ug
 kamk.fi
 kamuligirls.sc.ug
+kanagawa-u.ac.jp
 kanazawa-u.ac.jp
 kangwon.ac.kr
 kannuruniversity.ac.in
@@ -3998,6 +3997,7 @@ lemoyne.edu
 lenart-sik.si
 lennuakadeemia.ee
 lentiz.nl
+lescrous.fr
 lesjaskulane.no
 leuphana.de
 levanger.kommune.no
@@ -4911,6 +4911,7 @@ nuim.ie
 nuist.edu.cn
 nulc.ac.uk
 numl.edu.pk
+nuonet.fr
 nup.ac.cy
 nus.edu
 nus.edu.sg
@@ -5304,6 +5305,7 @@ osgrm.si
 osgusi.si
 oshjh-staritrg.si
 oshorjul.si
+osi.lv
 osic.si
 osicljutomer.si
 osig.si
@@ -7313,6 +7315,7 @@ ukf.sk
 ukfederation.org.uk
 ukhsa.gov.uk
 ukim.mk
+uklo.edu.mk
 ukr.de
 ukri.org
 ukro.ac.uk
@@ -8107,6 +8110,7 @@ veltech.edu.in
 venabygdmontessori.no
 vennesla.kommune.no
 venopilon.si
+venta.lv
 verdal.kommune.no
 verdiravenna.it
 vergerio.si
@@ -8332,7 +8336,6 @@ vu.nl
 vub.be
 vub.hr
 vuka.hr
-vumc.nl
 vumop.cz
 vupp.cz
 vus.hr
@@ -8601,6 +8604,7 @@ zjhu.edu.cn
 zjnu.edu.cn
 zjpc.edu.cn
 zjsru.edu.cn
+zjtie.edu.cn
 zjtu.edu.cn
 zju.edu.cn
 zjut.edu.cn
