@@ -250,6 +250,7 @@ anits.edu.in
 ankara.edu.tr
 ankaramedipol.edu.tr
 anl.gov
+annamalaiuniversity.ac.in
 annauniv.edu
 anrs.fr
 ans.edu.pl
@@ -882,6 +883,7 @@ cerkljeobkrki.si
 cern.ch
 certh.gr
 certia.fi
+ces.ec
 cesar.org.br
 cesga.es
 cesnet.cz
@@ -917,7 +919,6 @@ chop.edu
 chru-lille.fr
 chu-limoges.fr
 chu-rouen.fr
-chu-toulouse.fr
 chu.edu.cn
 chubu.ac.jp
 chuo-u.ac.jp
@@ -1197,6 +1198,7 @@ csn.edu
 csod.si
 css.edu.om
 cssd.ac.uk
+cssscal.org
 cstam.org.cn
 csu.ac.cn
 csu.edu.cn
@@ -2143,6 +2145,7 @@ gfos.hr
 gfp.si
 gfv.hr
 gfz-potsdam.de
+gfz.de
 ggda.ie
 ggrc.si
 ghc.com.br
@@ -2958,6 +2961,7 @@ ihes.fr
 ihjj.hr
 ihns.ac.cn
 ihs.ac.at
+ihu.edu.tr
 ihu.gr
 iiasa.ac.at
 iie.ac.cn
@@ -3273,7 +3277,6 @@ ita.es
 itacyl.es
 itaipuparquetec.org.br
 itb.edu.ec
-itb.ie
 itchen.ac.uk
 itcn.dk
 itecsur.edu.ec
@@ -4060,6 +4063,7 @@ lmu.de
 lmu.edu
 ln.edu.hk
 lna.br
+lncc.br
 lnec.pt
 lneg.pt
 lnmiit.ac.in
@@ -4071,6 +4075,7 @@ lnut.edu.cn
 lockhaven.edu
 lodingen.kommune.no
 lodz.pl
+lofar.eu
 loi.nl
 lokopiohilltech.ac.ug
 lolics.sc.ug
@@ -4913,6 +4918,7 @@ nulc.ac.uk
 numl.edu.pk
 nuonet.fr
 nup.ac.cy
+nure.ua
 nus.edu
 nus.edu.sg
 nust.edu.pk
@@ -6325,6 +6331,7 @@ skolski-sport.hr
 skulen.no
 sl.on.ca
 slander.si
+slau.ac.ug
 slavoj.cz
 slc.ac.uk
 slcollege.ac.uk
@@ -7902,6 +7909,7 @@ us.es
 usaintlouis.be
 usak.edu.tr
 usal.es
+usamvcluj.ro
 usask.ca
 usc.edu
 usc.edu.cn
@@ -8337,7 +8345,6 @@ vub.be
 vub.hr
 vuka.hr
 vumop.cz
-vupp.cz
 vus.hr
 vut.ac.za
 vut.cz
@@ -8608,7 +8615,6 @@ zjtie.edu.cn
 zjtu.edu.cn
 zju.edu.cn
 zjut.edu.cn
-zjweu.edu.cn
 zjxu.edu.cn
 zknu.edu.cn
 zkstm-ravne.si
