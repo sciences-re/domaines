@@ -1417,6 +1417,7 @@ dlut.edu.cn
 dmjx.dk
 dmmh.no
 dmt-lb.de
+dmu.ac.in
 dmu.ac.uk
 dmu.edu.cn
 dnsalbir.com
@@ -1935,7 +1936,6 @@ filmakademie.de
 filmoteka.si
 filmovka.cz
 filmuniversitaet.de
-fine-arts-museum.be
 finep.gov.br
 fini-unm.si
 finnskogenmontessori.no
@@ -2564,6 +2564,7 @@ hi.is
 hi.no
 hidrografico.pt
 hidroinstitut.si
+hifmb.de
 hig.se
 highbury.ac.uk
 highlands.ac.uk
@@ -3307,6 +3308,7 @@ iu.edu
 iuac.res.in
 iuav.it
 iub.edu.pk
+iubat.edu
 iuc-noord.nl
 iuc.edu.tr
 iuc.res.in
@@ -3879,6 +3881,7 @@ ktu.edu.tr
 ktu.lt
 ktun.edu.tr
 ku-linz.at
+ku.ac.bd
 ku.ac.ke
 ku.ac.tz
 ku.de
@@ -3899,6 +3902,7 @@ kultus-mv.de
 kumagaku.ac.jp
 kumamoto-u.ac.jp
 kumc.edu
+kunainital.ac.in
 kunstakademie-duesseldorf.de
 kure-nct.ac.jp
 kurume-it.ac.jp
@@ -4437,6 +4441,7 @@ moreskodje.no
 moreskule.no
 moreuskule.no
 morgan.edu
+morioka-u.ac.jp
 morleycollege.ac.uk
 mors.si
 moskenes.kommune.no
@@ -5507,6 +5512,7 @@ palisass.sc.ug
 palmers.ac.uk
 palucca.eu
 paneurouni.com
+pangaea.de
 panoptikum.pl
 panteion.gr
 paqtc.org.br
@@ -5838,6 +5844,7 @@ recherche.gouv.fr
 recia.fr
 redbridge-college.ac.uk
 redclara.net
+redcross.ac.jp
 redesecti.ba.gov.br
 rediris.es
 redlands.edu
@@ -5936,6 +5943,7 @@ rodoy.kommune.no
 roedu.net
 roehampton.ac.uk
 rogfk.no
+rois.ac.jp
 roje.si
 rokyknih.cz
 rollag.kommune.no
@@ -6087,6 +6095,7 @@ scau.edu.cn
 scca-ljubljana.si
 sccb.ac.uk
 scccd.edu
+sccm.edu.cn
 scfm-smlednik.si
 schlosshofen.at
 scholarin.cn
@@ -6374,6 +6383,7 @@ snfcc.org
 snnu.edu.cn
 sns.it
 snspa.ro
+sntcm.edu.cn
 snu.ac.kr
 snu.edu.in
 snut.edu.cn
@@ -6936,6 +6946,7 @@ tsukuba.ac.jp
 ttamumoslim.sc.ug
 ttf.hr
 tti.lv
+ttig.no
 ttk.hu
 ttu.edu
 ttu.ee
@@ -8376,6 +8387,7 @@ washington.edu
 wat.edu.pl
 wayf.dk
 wayne.edu
+wbgu.de
 wcu.edu
 wcupa.edu
 webbased.co.uk
