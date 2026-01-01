@@ -256,6 +256,7 @@ anrs.fr
 ans.edu.pl
 ans.pila.pl
 ansgarhogskole.no
+ansiss.res.in
 ansp.br
 anstar.edu.pl
 antonina.si
@@ -6626,6 +6627,7 @@ suat-sz.edu.cn
 subu.edu.tr
 suc.edu.om
 suda.edu.cn
+sues.edu.cn
 suffolk.ac.uk
 sugiyama-u.ac.jp
 suibe.edu.cn
@@ -7010,6 +7012,7 @@ tyust.edu.cn
 tyut.edu.cn
 tzc.edu.cn
 tzu.edu.cn
+tzvtc.edu.cn
 u-aizu.ac.jp
 u-bordeaux-montaigne.fr
 u-bordeaux.fr
