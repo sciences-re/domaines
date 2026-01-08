@@ -2526,6 +2526,7 @@ hertie-school.org
 herts.ac.uk
 hes-so.ch
 hetperron.nl
+hevttc.edu.cn
 hfa.mil.br
 hfbk-dresden.de
 hfbk-hamburg.de
@@ -3458,6 +3459,7 @@ karabuk.edu.tr
 karasjok.kommune.no
 karatay.edu.tr
 kari.re.kr
+karlshochschule.de
 karlsoy.kommune.no
 karmoyskolen.no
 karunguseed.sc.ug
@@ -4793,6 +4795,7 @@ niu.edu
 niva.no
 nivel.nl
 njau.edu.cn
+njedge.net
 njfu.edu.cn
 njit.edu
 njit.edu.cn
@@ -4998,7 +5001,6 @@ ogu.edu.tr
 ogyk.hu
 oh-tech.org
 ohio.edu
-ohiolink.edu
 ohlone.edu
 ohsu.edu
 ohu.edu.tr
@@ -5008,6 +5010,7 @@ oit.edu
 okan.edu.tr
 okanagan.bc.ca
 okayama-u.ac.jp
+okinawa-ct.ac.jp
 okinawa-u.ac.jp
 okiu.ac.jp
 okrogar.si
@@ -6301,6 +6304,7 @@ sisekaitse.ee
 sissa.it
 sist.si
 sisu.edu.cn
+sit.edu.cn
 sit.no
 sitp.ac.cn
 sittingbull.edu
@@ -7644,6 +7648,7 @@ uninove.br
 uninsubria.it
 unint.eu
 unioeste.br
+union.ac.uk
 union.edu
 unior.it
 unios.hr
@@ -8100,6 +8105,7 @@ varndean.ac.uk
 varoy.kommune.no
 vassar.edu
 vatneli.no
+vauban.lu
 vbc.ac.at
 vbcf.ac.at
 vbu.ac.in
