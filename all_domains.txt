@@ -812,6 +812,7 @@ cavc.ac.uk
 cavendish.ac.ug
 caw.ac.uk
 cawthron.org.nz
+cbe.ac.tz
 cbpf.br
 cbs.dk
 cbu.ca
@@ -1477,6 +1478,7 @@ dsl.dk
 dsm.museum
 dssax.de
 dssl.si
+dsu.edu
 dsw.edu.pl
 dt-rs.si
 dti.sk
@@ -1937,6 +1939,7 @@ filmakademie.de
 filmoteka.si
 filmovka.cz
 filmuniversitaet.de
+fine-arts-museum.be
 finep.gov.br
 fini-unm.si
 finnskogenmontessori.no
@@ -2510,6 +2513,7 @@ heltberg.no
 hemnes.kommune.no
 hemsedal.kommune.no
 henallux.be
+henau.edu.cn
 henu.edu.cn
 hep-bejune.ch
 hepfr.ch
@@ -2801,6 +2805,7 @@ hzau.edu.cn
 hzdr.de
 hzjz.hr
 hznu.edu.cn
+hzxy.edu.cn
 i-med.ac.at
 i-u.ac.jp
 i2basque.es
@@ -3998,6 +4003,7 @@ leforiseed.sc.ug
 lehigh.edu
 lei.lt
 leibniz-gemeinschaft.de
+leibniz-kis.de
 leibniz-lib.de
 leibniz-liv.de
 leidenuniv.nl
@@ -4408,7 +4414,6 @@ mlp.cz
 mmc.nl
 mmgm.hu
 mmu.ac.uk
-mnhn.fr
 mnnit.ac.in
 mnnu.edu.cn
 mnom.si
@@ -4897,6 +4902,7 @@ nsz.hr
 nszssh.hr
 ntg.no
 nti.nl
+ntit.edu.cn
 ntm.cz
 ntnu.no
 ntsc.ac.cn
@@ -5780,6 +5786,7 @@ qdio.ac.cn
 qdu.edu.cn
 qfnu.edu.cn
 qgyhbs.com
+qhit.edu.cn
 qhmu.edu.cn
 qhnu.edu.cn
 qibebt.ac.cn
@@ -5857,6 +5864,7 @@ ref.ac.uk
 regents.ac.uk
 regieorgaan-sia.nl
 regiocollege.nl
+region-academique-idf.fr
 regionh.dk
 regionsjaelland.dk
 reigate.ac.uk
@@ -5960,6 +5968,7 @@ royalroads.ca
 royrvik.kommune.no
 rpi.edu
 rsh-duesseldorf.de
+rsio.no
 rsm.nl
 rss-ce.si
 rsu.edu.ng
