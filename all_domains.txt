@@ -2402,6 +2402,7 @@ hakodate-ct.ac.jp
 halddemontessori.no
 haldenskole.no
 halesowen.ac.uk
+halic.edu.tr
 hamar-montessoriskole.no
 hamar.kommune.no
 hamaroy.kommune.no
@@ -2788,6 +2789,7 @@ hurdal.kommune.no
 hust.edu.cn
 hustadvika.kommune.no
 huuc.edu.cn
+huvm.org
 hv.se
 hva.nl
 hvaler.kommune.no
@@ -3532,6 +3534,7 @@ kennesaw.edu
 kennisnet.nl
 kent.ac.uk
 kent.edu
+kent.edu.tr
 kenyon.edu
 keralauniversity.ac.in
 kfbk.si
@@ -3810,7 +3813,6 @@ knjiznice.si
 knmi.nl
 knooppunttechniek.nl
 knou.ac.kr
-knowsleycollege.ac.uk
 knu.ac.kr
 knust.edu.gh
 kobacaj.si
@@ -4077,6 +4079,7 @@ lmu.edu
 ln.edu.hk
 lna.br
 lncc.br
+lnds.lu
 lnec.pt
 lneg.pt
 lnmiit.ac.in
@@ -4180,6 +4183,7 @@ lut.edu.cn
 lut.fi
 lutheran.hu
 lutonsfc.ac.uk
+luxsb.lu
 luzirasecondaryschool.com
 lvmontessori.no
 lvs.no
@@ -4187,6 +4191,7 @@ lybskole.no
 lyngdal.kommune.no
 lyngen.kommune.no
 lyu.edu.cn
+lyun.edu.cn
 lzb.ac.cn
 lzcu.edu.cn
 lzhit.edu.cn
@@ -6160,6 +6165,7 @@ scvz.hr
 sczg.hr
 sd-upr.si
 sd.edu.cn
+sdaeu.edu.cn
 sdau.edu.cn
 sdccd.edu
 sdfmu.edu.cn
@@ -6257,6 +6263,7 @@ shinasvc.edu.om
 ship.edu
 shipley.ac.uk
 shisu.edu.cn
+shizuoka.ac.jp
 shmtu.edu.cn
 shnu.edu.cn
 shom.fr
@@ -7260,6 +7267,7 @@ ufopa.edu.br
 ufp.pt
 ufpa.br
 ufpb.br
+ufpcanarias.es
 ufpe.br
 ufpel.edu.br
 ufpi.br
