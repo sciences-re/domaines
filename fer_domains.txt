@@ -523,6 +523,7 @@ bht-berlin.de
 bhu.edu.cn
 bhu.edu.in
 bi.no
+bib.de
 biblio.cz
 biblionetgroningen.nl
 bibsys.no
@@ -1181,6 +1182,7 @@ crous-paris.fr
 crous-poitiers.fr
 crous-reims.fr
 crous-rennes.fr
+crous-reunion-mayotte.fr
 crous-reunion.fr
 crous-reunionmayotte.fr
 crous-rouen.fr
@@ -3175,6 +3177,7 @@ ipcb.pt
 ipdj.pt
 ipe.ac.cn
 ipev.fr
+ipfdd.de
 ipg.pt
 iphy.ac.cn
 ipiaget.org
@@ -3900,7 +3903,6 @@ ku.lt
 ku.sk
 kuet.ac.bd
 kug.ac.at
-kuhes.ac.mw
 kuk.ac.in
 kul.pl
 kuleuven.be
@@ -4077,7 +4079,6 @@ lmu.edu
 ln.edu.hk
 lna.br
 lncc.br
-lnds.lu
 lnec.pt
 lneg.pt
 lnmiit.ac.in
@@ -4181,7 +4182,6 @@ lut.edu.cn
 lut.fi
 lutheran.hu
 lutonsfc.ac.uk
-luxsb.lu
 luzirasecondaryschool.com
 lvmontessori.no
 lvs.no
@@ -4259,6 +4259,7 @@ masindiss.sc.ug
 masoy.kommune.no
 massey.ac.nz
 mast.br
+masu.edu.cn
 matica.hr
 mato.hr
 mau.se
@@ -4309,6 +4310,7 @@ meap.org.uk
 mec.edu.om
 mec.gov.br
 mec.pt
+medeniyet.edu.tr
 medhub.com
 mediatorilinguisticipadova.it
 mediazionelinguistica.it
@@ -4569,7 +4571,6 @@ mydavinci.nl
 mydbs.ie
 mypolycc.edu.my
 myren.net.my
-myresearchid.com
 myuwc.ac.za
 mzk.cz
 mzos.hr
@@ -6007,7 +6008,6 @@ rweikiniro.sc.ug
 rwohoss.sc.ug
 rwth-aachen.de
 s-cheshire.ac.uk
-sab.ac.lk
 sabanciuniv.edu
 sacredheart.edu
 sacyl.es
