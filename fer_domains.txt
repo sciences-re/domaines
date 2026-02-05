@@ -1334,6 +1334,7 @@ ddng.si
 ddp.si
 ddptuj.si
 ddt.si
+ddugu.ac.in
 ddvic.si
 de-csv.nl
 deakin.edu.au
@@ -2270,6 +2271,7 @@ griffith.ie
 grimsby.ac.uk
 grimstad.kommune.no
 grinnell.edu
+grkarelaw.edu.in
 grm-nm.si
 grnet.gr
 gronfjelldalmontessori.no
@@ -2350,6 +2352,7 @@ guet.edu.cn
 gufe.edu.cn
 guglibrary.net
 guildford.ac.uk
+gujaratvidyapith.org
 gulbenkian.pt
 gulen.kommune.no
 guluarmyss.sc.ug
@@ -3176,6 +3179,7 @@ ipca.pt
 ipcb.pt
 ipdj.pt
 ipe.ac.cn
+ipen.br
 ipev.fr
 ipfdd.de
 ipg.pt
@@ -4005,6 +4009,7 @@ leforiseed.sc.ug
 lehigh.edu
 lei.lt
 leibniz-gemeinschaft.de
+leibniz-hbi.de
 leibniz-kis.de
 leibniz-lib.de
 leibniz-liv.de
@@ -4727,6 +4732,7 @@ ngaboacademy.sc.ug
 ngi.no
 ngoragirlsss.sc.ug
 ngorahigh.sc.ug
+ngren.edu.ng
 ngu.ac.in
 ngu.no
 nhc.ac.uk
@@ -5001,6 +5007,7 @@ ocad.ca
 ocha.ac.jp
 ocociagirls.sc.ug
 odc-noord.nl
+odipi.si
 odisee.be
 odu.edu
 odu.edu.tr
@@ -5835,6 +5842,7 @@ ramk.fi
 rana.kommune.no
 randaberg.kommune.no
 rash.al
+rathinamcollege.ac.in
 rauma.kommune.no
 rave.ac.uk
 raziskovanje.si
@@ -5978,6 +5986,7 @@ rss-ce.si
 rsu.edu.ng
 rsu.lv
 rtu.lv
+rtuassam.ac.in
 ru.ac.bd
 ru.ac.za
 ru.is
@@ -6205,6 +6214,7 @@ selvita.hr
 semi.ac.cn
 semmelweis-univ.hu
 semmelweis.hu
+senaicimatec.com.br
 sendai-nct.ac.jp
 senja.kommune.no
 senjamontessoriskole.no
@@ -7087,6 +7097,7 @@ uazuay.edu.ec
 ub.edu
 ubalt.edu
 ubb.edu.pl
+ubbcluj.ro
 ubc.ca
 ube.edu.ec
 ube.fr
@@ -7208,7 +7219,6 @@ uemc.es
 uemg.br
 uems.br
 uenf.br
-uenp.edu.br
 uenr.edu.gh
 uepa.br
 uepb.edu.br
@@ -7220,6 +7230,7 @@ uerr.edu.br
 uesb.br
 uesc.br
 uesd.edu.gh
+uesmae.edu.ec
 uespi.br
 uestar.edu.ec
 uestc.edu.cn
@@ -8173,7 +8184,6 @@ vevu.hr
 vfu.bg
 vfu.cz
 vgs-bled.si
-vgtu.lt
 vguk.hr
 vhir.org
 vhzk.hr
@@ -8537,7 +8547,6 @@ xaufe.edu.cn
 xaut.edu.cn
 xawl.edu.cn
 xcc.edu.cn
-xcu.edu.cn
 xdsisu.edu.cn
 xhcom.edu.cn
 xhu.edu.cn
