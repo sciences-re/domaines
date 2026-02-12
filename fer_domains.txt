@@ -1748,7 +1748,6 @@ escience.cn
 esciencecenter.nl
 escoladisseny.com
 escolanaval.pt
-esd.gov.br
 esec.pt
 esel.pt
 esenf.pt
@@ -1839,6 +1838,7 @@ fandm.edu
 fanshawec.ca
 fapeal.br
 fapepi.pi.gov.br
+fapes.es.gov.br
 fapesp.br
 fareham.ac.uk
 farn-ct.ac.uk
@@ -2252,6 +2252,7 @@ graafschapcollege.nl
 grad.hr
 gradbena.si
 gradst.hr
+graduateinstitute.ch
 gran.kommune.no
 grane.kommune.no
 granite.edu
@@ -2742,12 +2743,12 @@ hsantalucia.it
 hsbi.de
 hsd.nrw
 hsdc.ac.uk
+hse.ie
 hshl.de
 hsin.hr
 hsleiden.nl
 hslu.ch
 hsmarnix.nl
-hsr.com.br
 hsrw.org
 hsu-hh.de
 hsu.edu.cn
@@ -2885,6 +2886,7 @@ idi.co.ug
 idi.hr
 idiap.ch
 idp.edu.br
+idrc.ug
 idrettsungdomsskolen.no
 ids-mannheim.de
 idu.edu.tr
@@ -2945,7 +2947,6 @@ ifsp.edu.br
 ifsttar.fr
 ifsudestemg.edu.br
 ifsul.edu.br
-ifsuldeminas.edu.br
 iftm.edu.br
 ifto.edu.br
 ifv.nl
@@ -3606,6 +3607,7 @@ kit.nl
 kitabiseminary.sc.ug
 kitami-it.ac.jp
 kitantehillschool.com
+kitasato-u.ac.jp
 kitebiss.ac.ug
 kiu.edu.pk
 kiyangavoc.sc.ug
@@ -4086,6 +4088,7 @@ lna.br
 lncc.br
 lnec.pt
 lneg.pt
+lnipe.edu.in
 lnmiit.ac.in
 lnnu.edu.cn
 lnpu.edu.cn
@@ -4805,6 +4808,7 @@ nitmz.ac.in
 nitrkl.ac.in
 nitt.edu
 nittedal.kommune.no
+nitttrbpl.ac.in
 nitttrc.ac.in
 nitttrchd.ac.in
 niu.ac.ug
@@ -6657,6 +6661,7 @@ suat-sz.edu.cn
 subu.edu.tr
 suc.edu.om
 suda.edu.cn
+sudamericano.edu.ec
 sues.edu.cn
 suffolk.ac.uk
 sugiyama-u.ac.jp
@@ -7290,7 +7295,6 @@ ufrpe.br
 ufrr.br
 ufrrj.br
 ufs.ac.za
-ufs.br
 ufsb.edu.br
 ufsc.br
 ufscar.br
@@ -7923,6 +7927,7 @@ upol.cz
 uportu.pt
 upr.edu.pk
 upr.si
+uprtou.ac.in
 ups.edu.ec
 upsa.es
 upu.ac.ug
