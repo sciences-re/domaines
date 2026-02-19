@@ -46,6 +46,7 @@ abingdon-witney.ac.uk
 abk-stuttgart.de
 abo.fi
 abtk.hu
+abu.edu.ng
 ac-aix-marseille.fr
 ac-amiens.fr
 ac-besancon.fr
@@ -710,6 +711,7 @@ buffalo.edu
 bufvc.ac.uk
 bugambi.sc.ug
 buitms.edu.pk
+buk.edu.ng
 bukandulamixedss.sc.ug
 bukhaluseed.sc.ug
 bukoolicollege.sc.ug
@@ -1118,6 +1120,7 @@ cou.fi
 coulsdon.ac.uk
 couperin.org
 courtauld.ac.uk
+covenantuniversity.edu.ng
 coventry.ac.uk
 coventrycollege.ac.uk
 cp2.g12.br
@@ -1318,7 +1321,9 @@ davidson.edu
 davinci.nl
 dawsoncollege.qc.ca
 dbs.ie
+dc-ot.ca
 dc-uoit.ca
+dcmail.ca
 dcpune.ac.in
 dcterra.nl
 dcu.ie
@@ -1503,6 +1508,7 @@ dunstable.ac.uk
 duo.nl
 duq.edu
 dur.ac.uk
+durhamcollege.ca
 dusanabordona.si
 dut.ac.za
 dut4life.ac.za
@@ -1748,6 +1754,7 @@ escience.cn
 esciencecenter.nl
 escoladisseny.com
 escolanaval.pt
+esd.gov.br
 esec.pt
 esel.pt
 esenf.pt
@@ -2522,7 +2529,6 @@ henallux.be
 henau.edu.cn
 henu.edu.cn
 hep-bejune.ch
-hepfr.ch
 hepl.be
 hepl.ch
 hepvs.ch
@@ -3149,6 +3155,7 @@ inter4.hr
 intercollege.ac.cy
 internacional.edu.ec
 internet2.edu
+intradef.gouv.fr
 intravacc.nl
 inv.si
 invictus.hr
@@ -3419,7 +3426,9 @@ jsnu.edu.cn
 jssnu.edu.cn
 jssuni.edu.in
 jssvc.edu.cn
+jsums.edu
 jsut.edu.cn
+ju.edu
 jucc.edu.hk
 juit.ac.in
 junia.com
@@ -3582,6 +3591,7 @@ kigam.re.kr
 kigezihigh.sc.ug
 kiiracollegebutiki.ac.ug
 kiiramotors.com
+kikirpa.be
 kikomekoss.sc.ug
 kilis.edu.tr
 kindai.ac.jp
@@ -3606,6 +3616,7 @@ kit.edu
 kit.nl
 kitabiseminary.sc.ug
 kitami-it.ac.jp
+kitano-hp.or.jp
 kitantehillschool.com
 kitasato-u.ac.jp
 kitebiss.ac.ug
@@ -4086,6 +4097,7 @@ lmu.edu
 ln.edu.hk
 lna.br
 lncc.br
+lnds.lu
 lnec.pt
 lneg.pt
 lnipe.edu.in
@@ -4190,6 +4202,7 @@ lut.edu.cn
 lut.fi
 lutheran.hu
 lutonsfc.ac.uk
+luxsb.lu
 luzirasecondaryschool.com
 lvmontessori.no
 lvs.no
@@ -4780,6 +4793,7 @@ nikhef.nl
 niku.no
 nilu.no
 nimeto.nl
+nimhans.ac.in
 nimte.ac.cn
 nina.no
 nionett.no
@@ -4840,6 +4854,7 @@ nlda.nl
 nlg.gr
 nlm.no
 nluo.ac.in
+nlutripura.ac.in
 nlzoh.si
 nm-aist.ac.tz
 nm.cz
@@ -4933,6 +4948,7 @@ nu.edu.pk
 nu.edu.sa
 nuaa.edu.cn
 nubu.no
+nuc.edu.ng
 nuca.ac.uk
 nudt.edu.cn
 nudz.cz
@@ -4997,6 +5013,7 @@ oamk.fi
 oan.es
 oasenskole.no
 oasi.en.it
+oauife.edu.ng
 ob-valdoltra.si
 oba.nl
 obalne-galerije.si
@@ -5060,6 +5077,8 @@ onisep.fr
 onko-i.si
 onmicrosoft.com
 onos.gov.in
+ontariotechu.ca
+ontariotechu.net
 opbg.net
 opdol.com
 open.ac.uk
@@ -7224,6 +7243,7 @@ uemc.es
 uemg.br
 uems.br
 uenf.br
+uenp.edu.br
 uenr.edu.gh
 uepa.br
 uepb.edu.br
@@ -7331,6 +7351,7 @@ uhrs.edu.cn
 uhs.edu.pk
 uhsbagalkot.edu.in
 uhu.es
+ui.edu.ng
 ui1.es
 uia.no
 uiahms.ac.ug
@@ -7648,6 +7669,7 @@ unikore.it
 unil.ch
 unila.edu.br
 unilab.edu.br
+unilag.edu.ng
 unilasalle.fr
 unileoben.ac.at
 unileon.es
