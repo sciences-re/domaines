@@ -714,6 +714,7 @@ buitms.edu.pk
 buk.edu.ng
 bukandulamixedss.sc.ug
 bukhaluseed.sc.ug
+bukkyo-u.ac.jp
 bukoolicollege.sc.ug
 bulindiss.sc.ug
 buluchekess.sc.ug
@@ -2953,6 +2954,7 @@ ifsp.edu.br
 ifsttar.fr
 ifsudestemg.edu.br
 ifsul.edu.br
+ifsuldeminas.edu.br
 iftm.edu.br
 ifto.edu.br
 ifv.nl
@@ -3368,6 +3370,7 @@ iztzg.hr
 izu.edu.tr
 izum.si
 ja.net
+jacksonville.edu
 jade-hs.de
 jaertun.no
 jaist.ac.jp
@@ -3499,6 +3502,7 @@ kastamonu.edu.tr
 kat-inst.si
 kat.ac.za
 katho-nrw.de
+kau.in
 kau.se
 kauko.lt
 kaust.edu.sa
@@ -3529,6 +3533,7 @@ kclawhsnc.edu.in
 kct.ac.in
 kct.ac.jp
 kdb.hr
+kdc.si
 kdng.si
 kdu.ac.lk
 ke6n.ac.uk
@@ -3657,6 +3662,7 @@ kkgri.edu.my
 kkh.se
 kkhl.edu.my
 kkhse.edu.my
+kkhsou.ac.in
 kkjel.edu.my
 kkjerai.edu.my
 kkjerantut.edu.my
@@ -4298,6 +4304,7 @@ mbl.edu
 mbms.no
 mboamersfoort.nl
 mbolifesciences.nl
+mboraad.nl
 mborijnland.nl
 mboutrecht.nl
 mbro.ac.uk
@@ -5586,6 +5593,7 @@ pdn.ac.lk
 pdsu.edu.cn
 pdx.edu
 pearsoncollege.com
+pec.edu.in
 pei.si
 peizheng.edu.cn
 pembrokeshire.ac.uk
@@ -6115,6 +6123,7 @@ sauarfriskole.no
 sauda.kommune.no
 saude.gov.br
 saude.pi.gov.br
+saut.ac.tz
 sav.sk
 saveproject.mw
 savonia.fi
@@ -7315,6 +7324,7 @@ ufrpe.br
 ufrr.br
 ufrrj.br
 ufs.ac.za
+ufs.br
 ufsb.edu.br
 ufsc.br
 ufscar.br
@@ -8287,6 +8297,7 @@ vrtec-dominik.si
 vrtec-domzale.si
 vrtec-francepreseren.si
 vrtec-galjevica.si
+vrtec-hs.si
 vrtec-idrija.si
 vrtec-ig.si
 vrtec-igorica.si
