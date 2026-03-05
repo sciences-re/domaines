@@ -327,6 +327,7 @@ asfa.gr
 asfc.ac.uk
 ash-berlin.eu
 asi.it
+asiera.ie
 asker.kommune.no
 askerc.si
 askham-bryan.ac.uk
@@ -1110,6 +1111,7 @@ consvv.it
 conts.it
 cordillera.edu.ec
 coreen.or.kr
+corila.eu
 cornell.edu
 cornerstoneschoolsafrica.org
 cornwall.ac.uk
@@ -1849,6 +1851,7 @@ fapeal.br
 fapepi.pi.gov.br
 fapes.es.gov.br
 fapesp.br
+fapeu.org.br
 fareham.ac.uk
 farn-ct.ac.uk
 farnboroughsfc.ac.uk
@@ -2475,6 +2478,7 @@ hbu.edu.cn
 hbucm.edu.cn
 hbut.edu.cn
 hbv.edu.tr
+hbz-nrw.de
 hca.ac.uk
 hceres.fr
 hck.hr
@@ -7766,6 +7770,7 @@ unisi.ch
 unisi.it
 unisinos.br
 uniso.br
+unisob.na.it
 unisr.it
 uniss.it
 unist.ac.kr
@@ -8710,6 +8715,7 @@ zlu.si
 zlus.si
 zmst.si
 zmu.edu.cn
+zois-berlin.de
 zone.college
 zonecollege.nl
 zonmw.nl
