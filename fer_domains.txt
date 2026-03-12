@@ -875,6 +875,7 @@ center-rog.si
 centerarhitekture.si
 centerdata.nl
 centerjanezalevca.si
+central.edu.gh
 centrale-marseille.fr
 centralelille.fr
 centralesupelec.fr
@@ -1110,7 +1111,6 @@ consvv.it
 conts.it
 cordillera.edu.ec
 coreen.or.kr
-corila.eu
 cornell.edu
 cornerstoneschoolsafrica.org
 cornwall.ac.uk
@@ -1230,6 +1230,7 @@ csus.edu
 csusb.edu
 csusm.edu
 csustan.edu
+cta-observatory.org
 cteguj.in
 cti.gov.br
 cti.gr
@@ -1953,7 +1954,6 @@ filmoteka.si
 filmovka.cz
 filmuniversitaet.de
 fine-arts-museum.be
-finep.gov.br
 fini-unm.si
 finnskogenmontessori.no
 fiocruz.br
@@ -1989,6 +1989,7 @@ flesberg.kommune.no
 flinders.edu.au
 florida.es
 floridapoly.edu
+fmabc.br
 fmach.eu
 fmalgaja.si
 fmc-campos.com.br
@@ -2196,6 +2197,7 @@ gimnazija-skofjaloka.si
 gimng.si
 gimnm.si
 gimoste.si
+gimpa.edu.gh
 gimptuj.si
 gimsen.si
 gimtol.si
@@ -2255,6 +2257,7 @@ gop.edu.tr
 gorenjski-muzej.si
 goriskimuzej.si
 goscloud.net
+goshen.edu
 gouwe-academie.nl
 gowercollegeswansea.ac.uk
 gozdis.si
@@ -2486,6 +2489,7 @@ hcpa.edu.br
 hct.ac.uk
 hct.edu.om
 hcu-hamburg.de
+hcuge.ch
 hcw.ac.at
 hdbw-hochschule.de
 hdh.nl
@@ -2994,6 +2998,7 @@ iiasa.ac.at
 iie.ac.cn
 iiests.ac.in
 iiitb.ac.in
+iiitbhopal.ac.in
 iiitd.edu.in
 iiitdm.ac.in
 iiitdmj.ac.in
@@ -3981,6 +3986,7 @@ kyutech.ac.jp
 lab.fi
 laba.edu
 lacatholille.fr
+laccd.edu
 lacoccinella.si
 laerdal.kommune.no
 lafayette.edu
@@ -4008,6 +4014,7 @@ lbhi.is
 lbl.gov
 lboro.ac.uk
 lbs.ac.at
+lbtu.lv
 lcb.ac.uk
 lcm.ac.uk
 lcu.edu.cn
@@ -4033,6 +4040,7 @@ lehigh.edu
 lei.lt
 leibniz-gemeinschaft.de
 leibniz-hbi.de
+leibniz-iom.de
 leibniz-kis.de
 leibniz-lib.de
 leibniz-liv.de
@@ -4112,6 +4120,7 @@ lnec.pt
 lneg.pt
 lnipe.edu.in
 lnmiit.ac.in
+lnmu.ac.in
 lnnu.edu.cn
 lnpu.edu.cn
 lnu.edu.cn
@@ -4387,6 +4396,7 @@ mf.no
 mfdps.si
 mg-lj.si
 mglc-lj.si
+mgml.si
 mgu.ac.in
 mgu.edu.tr
 mh-freiburg.de
@@ -4556,6 +4566,7 @@ muho-mannheim.de
 muib.no
 mukisafoundation.org
 multimedica.it
+multitech.ac.ug
 mumc.nl
 mumsahigh.sc.ug
 mun.ca
@@ -4582,6 +4593,7 @@ musikene.eus
 musikkons.dk
 musph.ac.ug
 must.ac.mw
+must.ac.ug
 must.edu.mo
 must.edu.pk
 muza.hr
@@ -5322,7 +5334,6 @@ osbicevje.si
 osbistricaobsotli.si
 osbizeljsko.si
 osbj.si
-osblanca.si
 osbogojina.si
 osbohinj.si
 osborovnica.si
@@ -5744,6 +5755,7 @@ poznan.pl
 ppdi.com
 pphf.hu
 ppke.hu
+ppup.ac.in
 pravo.hr
 pravos.hr
 pravst.hr
@@ -7154,6 +7166,7 @@ ucalgary.ca
 ucam.edu
 ucanr.edu
 ucao-uut.tg
+ucar.edu
 ucas.ac.cn
 ucas.edu.cn
 ucass.edu.cn
@@ -7865,6 +7878,7 @@ universidadviu.com
 universitasxxi.com
 universite-lyon.fr
 universite-paris-saclay.fr
+university.lv
 univet.hu
 univie.ac.at
 univille.br
@@ -7966,6 +7980,7 @@ upr.edu.pk
 upr.si
 uprtou.ac.in
 ups.edu.ec
+upsa.edu.gh
 upsa.es
 upu.ac.ug
 upv.es
@@ -8735,6 +8750,7 @@ zupnijski-vrtec.si
 zust.edu.cn
 zut.edu.cn
 zut.edu.pl
+zuwe.edu.cn
 zuyd.nl
 zveza-gns.si
 zveza-slepih.si
