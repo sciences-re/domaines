@@ -165,6 +165,7 @@ ahu.edu.cn
 ahut.edu.cn
 aichi-toho.ac.jp
 aiimsbathinda.edu.in
+aiimsbhopal.edu.in
 aiimsbilaspur.edu.in
 aiit.edu.cn
 aiktclibrary.org
@@ -184,6 +185,7 @@ akbild.ac.at
 akdeniz.edu.tr
 akgskole.no
 akita-u.ac.jp
+aknu.edu.in
 aksaray.edu.tr
 aktu.ac.in
 aku.edu.tr
@@ -699,6 +701,7 @@ bu.nl
 bua.edu.cn
 buaa.edu.cn
 buas.nl
+buat.edu.in
 buc.edu.om
 bucea.edu.cn
 buckingham.ac.uk
@@ -829,6 +832,7 @@ cccd.edu
 cccm.gov.pt
 cccmypath.org
 cchmc.org
+ccia.org.au
 ccibe.edu.cn
 ccit.edu.cn
 cckk.edu.my
@@ -1836,7 +1840,6 @@ facape.br
 facka.si
 facoltavaldese.org
 faculdadesantacasabh.org.br
-faculdadesoberana.com.br
 faerder.kommune.no
 fafo.no
 fafu.edu.cn
@@ -1877,7 +1880,6 @@ fd.si
 fdcnet.ac.jp
 fdmz.hr
 fdu.edu
-federation.ke
 fedgw.com
 fedje.kommune.no
 feesc.org.br
@@ -1891,7 +1893,6 @@ fernfh.ac.at
 fernuni-hagen.de
 fernuni.ch
 fesb.hr
-fesfsus.ba.gov.br
 ffhs.ch
 ffk.no
 ffos.hr
@@ -3434,6 +3435,7 @@ johnruskin.ac.uk
 johnshopkins.edu
 jotunheimenvgs.no
 jozmos.si
+jpv.ac.in
 jsga.edu.tr
 jsmu.edu.pk
 jsnu.edu.cn
@@ -3541,6 +3543,7 @@ kcesmjc.in
 kcktolmin.si
 kcl.ac.uk
 kclawhsnc.edu.in
+kcmcu.ac.tz
 kct.ac.in
 kct.ac.jp
 kdb.hr
@@ -3560,7 +3563,6 @@ kek.jp
 kempel.nl
 kemu.edu.pk
 kendal.ac.uk
-kenet.or.ke
 kennesaw.edu
 kennisnet.nl
 kent.ac.uk
@@ -3585,6 +3587,7 @@ kgmc.edu.pk
 kgtrebic.cz
 kh-freiburg.de
 khas.edu.tr
+khby.de
 khio.no
 khm.at
 khm.de
@@ -3848,6 +3851,7 @@ knjiznice.si
 knmi.nl
 knooppunttechniek.nl
 knou.ac.kr
+kntb.cz
 knu.ac.kr
 knust.edu.gh
 kobacaj.si
@@ -3953,7 +3957,6 @@ kurume-it.ac.jp
 kurume-nct.ac.jp
 kust.edu.cn
 kust.edu.pk
-kutztown.edu
 kva.se
 kvafjord.kommune.no
 kvalavag.no
@@ -4305,6 +4308,7 @@ masu.edu.cn
 matica.hr
 mato.hr
 mau.se
+maxrubner.de
 maxweberstiftung.de
 mayo.edu
 mba.ac.uk
@@ -4397,6 +4401,7 @@ mev.hr
 mf.no
 mfdps.si
 mg-lj.si
+mgkvp.ac.in
 mglc-lj.si
 mgml.si
 mgu.ac.in
@@ -4476,6 +4481,7 @@ modyuniversity.ac.in
 mohawkcollege.ca
 mohe.ac.lk
 moheri.edu.om
+moi.ac.tz
 mojedete.si
 mojeid.cz
 mokollenskole.no
@@ -4618,6 +4624,7 @@ mydbs.ie
 mypolycc.edu.my
 myren.net.my
 myuwc.ac.za
+mywsu.ac.za
 mzk.cz
 mzos.hr
 mzuni.ac.mw
@@ -5025,6 +5032,7 @@ nyist.edu.cn
 nyme.hu
 nynu.edu.cn
 nyp.edu.sg
+nypl.org
 nytud.hu
 nyu.edu
 nyumc.org
@@ -5907,6 +5915,7 @@ rcplondon.ac.uk
 rcs.ac.uk
 rcseng.ac.uk
 rcsi.ie
+rcub.ac.in
 reabilitar.org.br
 reading.ac.uk
 reading.edu.my
@@ -6619,6 +6628,7 @@ steinerskolen.fredrikstad.no
 steinerskolenmoss.no
 steinkjer-montessori.no
 steinkjer.kommune.no
+stella-musikhochschule.ac.at
 stenden.com
 stepi.re.kr
 stettefriskule.no
@@ -6649,6 +6659,7 @@ stmarknaminya.sc.ug
 stmarknursing.ac.ug
 stmarkskammengo.sc.ug
 stmarysblackburn.ac.uk
+stmaryscollegekisubi.sc.ug
 stmaryscollegelacor.sc.ug
 stmarysrushoroza.sc.ug
 stmarysssnkozi.sc.ug
@@ -6948,6 +6959,7 @@ tktk.ee
 tlu.edu.cn
 tlu.ee
 tm.edu
+tmbuniv.ac.in
 tmc.edu
 tmcc.edu
 tmcg.co.ug
@@ -7518,6 +7530,7 @@ unak.is
 unam.edu
 unam.mx
 unamur.be
+unatc.ro
 unav.es
 unavarra.es
 unb.br
@@ -8284,7 +8297,6 @@ vizvisnjagora.si
 vjg.si
 vko.no
 vkol.cz
-vlab.ac.ke
 vlerick.com
 vlfk.no
 vliz.be
