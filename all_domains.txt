@@ -125,7 +125,6 @@ aeb.gov.br
 aegean.gr
 aer.mil.br
 aeres.nl
-aeresmbo.nl
 aeronomie.be
 afjord.kommune.no
 afk.no
@@ -1956,6 +1955,7 @@ filmoteka.si
 filmovka.cz
 filmuniversitaet.de
 fine-arts-museum.be
+finep.gov.br
 fini-unm.si
 finnskogenmontessori.no
 fiocruz.br
@@ -2060,13 +2060,13 @@ ftmc.lt
 ftpo.si
 ftrr.hr
 fu-berlin.de
-fucape.br
 fudan.edu.cn
 fuds.si
 fui.edu.pk
 fukuyama-u.ac.jp
 fullerton.edu
 fumec.br
+fun-edu.fr
 fun.ac.jp
 fundacaoguama.org.br
 fundacaowilsonpicler.org.br
@@ -2367,7 +2367,7 @@ guat.edu.cn
 gudgk.edu.pk
 guet.edu.cn
 gufe.edu.cn
-guglibrary.net
+gug.ac.in
 guildford.ac.uk
 gujaratvidyapith.org
 gulbenkian.pt
@@ -2902,6 +2902,7 @@ identityfor.co.uk
 idi.co.ug
 idi.hr
 idiap.ch
+idor.org
 idp.edu.br
 idrc.ug
 idrettsungdomsskolen.no
@@ -2951,7 +2952,6 @@ ifpi.edu.br
 ifpr.edu.br
 ifremer.fr
 ifrj.edu.br
-ifrn.edu.br
 ifro.edu.br
 ifrr.edu.br
 ifrs.edu.br
@@ -2975,6 +2975,7 @@ igakuken.or.jp
 igangahigh.sc.ug
 igangass.ac.ug
 igb-berlin.de
+igdir.edu.tr
 igepn.edu.ec
 igesr.gouv.fr
 iggcas.ac.cn
@@ -3453,6 +3454,7 @@ just.edu.bd
 just.edu.cn
 justis.com
 jusutdanning.no
+jvlma.lv
 jwu.ac.jp
 jxas.ac.cn
 jxau.edu.cn
@@ -3603,7 +3605,6 @@ kidokoss.sc.ug
 kielce.pl
 kienict.nl
 kif.hr
-kif.kg
 kifos.hr
 kifst.hr
 kigam.re.kr
@@ -3940,6 +3941,7 @@ ku.edu.tr
 ku.lt
 ku.sk
 kuet.ac.bd
+kufos.ac.in
 kug.ac.at
 kuk.ac.in
 kul.pl
@@ -4230,6 +4232,7 @@ luxsb.lu
 luzirasecondaryschool.com
 lvmontessori.no
 lvs.no
+lyantondekasambya.sc.ug
 lybskole.no
 lyngdal.kommune.no
 lyngen.kommune.no
@@ -4286,6 +4289,7 @@ maren.ac.mw
 mariamhigh.com
 marijin-vrtec.si
 marin.edu
+marin.nl
 marine.ie
 marist.edu
 marjon.ac.uk
@@ -4322,7 +4326,6 @@ mbiriiziseed.sc.ug
 mbl.edu
 mbms.no
 mboamersfoort.nl
-mbolifesciences.nl
 mboraad.nl
 mborijnland.nl
 mboutrecht.nl
@@ -4722,6 +4725,7 @@ ndsu.edu
 ndu.ac.at
 ndu.ac.ug
 ndu.edu.pk
+ndvsu.org
 neau.edu.cn
 nebraska.edu
 nebrija.es
@@ -4902,6 +4906,7 @@ nnfc.re.kr
 nnnu.edu.cn
 noa.gr
 noc-test.si
+nofima.no
 noirlab.edu
 nome.kommune.no
 noorderpoort.nl
@@ -5341,7 +5346,6 @@ osbeltinci.si
 osbezigrad.si
 osbi.si
 osbicevje.si
-osbistricaobsotli.si
 osbizeljsko.si
 osbj.si
 osbogojina.si
@@ -5578,6 +5582,7 @@ ozal.edu.tr
 ozyegin.edu.tr
 p-ng.si
 pa-ng.si
+pa.edu.tr
 paavai.edu.in
 pace.edu
 pacificu.edu
@@ -5967,6 +5972,7 @@ rgu.ac.uk
 rhoworld.com
 rhs-u.ac.jp
 rhsp.org
+rhspregion.org
 rhul.ac.uk
 ri.se
 ria.ie
@@ -6057,6 +6063,7 @@ ruforum.ac.ug
 rug.nl
 rugandocollege.sc.ug
 ruh.ac.lk
+ruhindass.sc.ug
 ruhr-uni-bochum.de
 rumeli.edu.tr
 runshaw.ac.uk
@@ -6547,7 +6554,7 @@ sport-konjice.si
 sport.si
 sports.gouv.fr
 springfield.edu
-springingstars.ac
+springingstars.ac.ug
 spts.si
 spu.ac.za
 squ.edu.cn
@@ -7248,6 +7255,7 @@ uct.ac.za
 ucu.ac.ug
 ucuenca.edu.ec
 ucv.es
+ucv.ro
 ucy.ac.cy
 udayton.edu
 udc.es
@@ -7773,6 +7781,7 @@ uniri.hr
 unirio.br
 unirioja.es
 uniritter.edu.br
+unirn.edu.br
 uniroma1.it
 uniroma2.eu
 uniroma2.it
