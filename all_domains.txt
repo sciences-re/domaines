@@ -261,6 +261,7 @@ ansgarhogskole.no
 ansiss.res.in
 ansp.br
 anstar.edu.pl
+antalya.edu.tr
 antonina.si
 antoniusziekenhuis.nl
 antonov-vrtec.si
@@ -730,6 +731,7 @@ buniv.edu.in
 bupt.edu.cn
 burg-halle.de
 burlo.trieste.it
+burmanu.ca
 burnley.ac.uk
 burycollege.ac.uk
 busiass.sc.ug
@@ -1118,6 +1120,7 @@ consvv.it
 conts.it
 cordillera.edu.ec
 coreen.or.kr
+corila.eu
 cornell.edu
 cornerstoneschoolsafrica.org
 cornwall.ac.uk
@@ -2073,6 +2076,7 @@ fullerton.edu
 fumec.br
 fun-edu.fr
 fun.ac.jp
+fundacaoguama.org.br
 fundacaowilsonpicler.org.br
 fundaciondescubre.es
 fundaj.gov.br
@@ -2283,6 +2287,7 @@ gratangen.kommune.no
 gre.ac.uk
 greatplains.net
 green.ac.bd
+greenhillacademy.ac.ug
 greenwich.edu.pk
 greenwich.university
 greenwichglobal.institute
@@ -2667,6 +2672,7 @@ hnnu.edu.cn
 hnskxy.cn
 hnu.edu.cn
 hnuahe.edu.cn
+hnucm.edu.cn
 hnust.edu.cn
 hochschule-bc.de
 hochschule-burgenland.at
@@ -2798,6 +2804,7 @@ huc.edu
 hud.ac.uk
 huddnewcoll.ac.uk
 hudinja.si
+hue.ac.jp
 hueb.edu.cn
 huel.edu.cn
 hufe.edu.cn
@@ -3487,6 +3494,7 @@ kadk.dk
 kafjord.kommune.no
 kafkas.edu.tr
 kaggulwess.sc.ug
+kagoshima-ct.ac.jp
 kagungaseed.sc.ug
 kagwaraseedss.sc.ug
 kaist.ac.kr
@@ -3610,6 +3618,7 @@ khsb-berlin.de
 ki.se
 ki.si
 kib.ac.cn
+kibaaless.sc.ug
 kibogaparents.sc.ug
 kibuliss.sc.ug
 kidderminster.ac.uk
@@ -3617,7 +3626,6 @@ kidokoss.sc.ug
 kielce.pl
 kienict.nl
 kif.hr
-kif.kg
 kifos.hr
 kifst.hr
 kigam.re.kr
@@ -3769,6 +3777,7 @@ kln.ac.lk
 klu.edu.tr
 kma.nl
 kmc.ac.uk
+kmclu.ac.in
 kmetijski-zavod.si
 kmh.se
 kmj.si
@@ -4595,6 +4604,7 @@ multitech.ac.ug
 mumc.nl
 mumsahigh.sc.ug
 mun.ca
+mungeruniversity.ac.in
 muni.ac.ug
 muni.cz
 munigirls.ac.ug
@@ -6462,7 +6472,6 @@ slcollege.ac.uk
 slcs.ac.uk
 sliet.ac.in
 slivnica.si
-slmandic.edu.br
 slodrs.si
 slogi.si
 slomskov-vrtec.si
@@ -6615,6 +6624,7 @@ ssom.si
 sspu.edu.cn
 sssb.si
 sssihl.edu.in
+sssu.ac.in
 sssup.it
 sstd.si
 ssts.si
@@ -6852,7 +6862,6 @@ szcu.edu.cn
 sze.hu
 szfe.hu
 szfki.hu
-szie.hu
 szks.si
 szn.it
 szpa.hu
@@ -8270,6 +8279,7 @@ venabygdmontessori.no
 vennesla.kommune.no
 venopilon.si
 venta.lv
+venturus.org.br
 verdal.kommune.no
 verdiravenna.it
 vergerio.si
@@ -8330,6 +8340,7 @@ vizvisnjagora.si
 vjg.si
 vko.no
 vkol.cz
+vksu.ac.in
 vlerick.com
 vlfk.no
 vliz.be
