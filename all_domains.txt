@@ -166,6 +166,7 @@ aichi-toho.ac.jp
 aiimsbathinda.edu.in
 aiimsbhopal.edu.in
 aiimsbilaspur.edu.in
+aiish.ac.in
 aiit.edu.cn
 aiktclibrary.org
 aims.edu.gh
@@ -247,6 +248,7 @@ andrassyuni.hu
 aneca.es
 angelo.edu
 anglia.ac.uk
+angrau.ac.in
 ani.pt
 anits.edu.in
 ankara.edu.tr
@@ -848,6 +850,7 @@ ccpcli.com
 ccsfu.edu.cn
 ccu.edu.cn
 ccut.edu.cn
+cczu.edu.cn
 cd-cc.si
 cdd.ac.uk
 cdh.org.zm
@@ -1031,6 +1034,7 @@ cnic.ac.cn
 cnic.es
 cnilas.org
 cnio.es
+cnlesr.fr
 cnous.fr
 cnpem.br
 cnpq.br
@@ -1219,6 +1223,7 @@ css.edu.om
 cssd.ac.uk
 cssscal.org
 cstam.org.cn
+cstcloud.cn
 csu.ac.cn
 csu.edu.cn
 csub.edu
@@ -2975,7 +2980,7 @@ ifs.edu.br
 ifs.hr
 ifs.org.uk
 ifsc.edu.br
-ifsertao-pe.edu.br
+ifsertaope.edu.br
 ifsp.edu.br
 ifsttar.fr
 ifsudestemg.edu.br
@@ -3784,7 +3789,6 @@ kmj.si
 kmkg-mrah.be
 kmol.cz
 kmu.edu.pk
-kmu.edu.tr
 knaw.nl
 knih-ck.cz
 knih-havirov.cz
@@ -4275,6 +4279,7 @@ macclesfield.ac.uk
 macewan.ca
 mackaymemorial.sc.ug
 mackenzie.br
+madhabdevuniversity.ac.in
 madrid.org
 maeen.sa
 mah.se
@@ -5853,6 +5858,7 @@ ptu.edu.cn
 pu.edu.pk
 pub.ro
 public.hr
+puc-campinas.edu.br
 puc-rio.br
 puce.edu.ec
 pucesa.edu.ec
@@ -6472,6 +6478,7 @@ slcollege.ac.uk
 slcs.ac.uk
 sliet.ac.in
 slivnica.si
+slmandic.edu.br
 slodrs.si
 slogi.si
 slomskov-vrtec.si
@@ -6627,6 +6634,7 @@ sssihl.edu.in
 sssu.ac.in
 sssup.it
 sstd.si
+sstf.hu
 ssts.si
 ssus.ac.in
 sszagorje.si
@@ -7932,6 +7940,7 @@ univen.ac.za
 univern.hr
 universcience.fr
 universidadeuropea.es
+universidadunie.com
 universidadviu.com
 universitasxxi.com
 universite-lyon.fr
