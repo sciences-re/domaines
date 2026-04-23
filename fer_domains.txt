@@ -1164,7 +1164,6 @@ cranfield.ac.uk
 craven-college.ac.uk
 crawley.ac.uk
 create.no
-creighton.edu
 crescent.education
 cresica.nc
 cresnjevec.si
@@ -3629,6 +3628,7 @@ kidokoss.sc.ug
 kielce.pl
 kienict.nl
 kif.hr
+kif.kg
 kifos.hr
 kifst.hr
 kigam.re.kr
@@ -3652,6 +3652,7 @@ kiost.ac.kr
 kirkleescollege.ac.uk
 kis.si
 kisaana.sc.ug
+kisarazu.ac.jp
 kisowerass.sc.ug
 kisti.re.kr
 kisubischools.org
@@ -3870,6 +3871,7 @@ knjiznica-trzic.si
 knjiznica-velenje.si
 knjiznica-zalec.si
 knjiznicagro.si
+knjiznicaivg.si
 knjiznicasnt.si
 knjiznicazagorje.si
 knjiznice.si
@@ -4430,6 +4432,7 @@ mev.hr
 mf.no
 mfdps.si
 mg-lj.si
+mgcub.ac.in
 mgkvp.ac.in
 mglc-lj.si
 mgml.si
@@ -4481,7 +4484,6 @@ mkk.si
 mkkl.cz
 mklj.si
 mkmt.cz
-mkolegija.lt
 mkostrov.cz
 mktrutnov.cz
 mku.edu.tr
@@ -4497,6 +4499,7 @@ mlp.cz
 mmc.nl
 mmgm.hu
 mmu.ac.uk
+mnma.ac.tz
 mnnit.ac.in
 mnnu.edu.cn
 mnom.si
@@ -4834,6 +4837,7 @@ nicabilonino.ac.ug
 nid.ac.in
 nid.edu
 nidelvenskole.no
+nidh.ac.in
 nie.ac.lk
 nieer.ac.cn
 niesr.ac.uk
@@ -6172,6 +6176,7 @@ sanskriti.edu.in
 santacasa.pa.gov.br
 santannapisa.it
 santosh.ac.in
+sanu.ac.rs
 saocamilo-sp.br
 sapientia.hu
 sarao.ac.za
@@ -6867,6 +6872,7 @@ szcu.edu.cn
 sze.hu
 szfe.hu
 szfki.hu
+szie.hu
 szks.si
 szn.it
 szpa.hu
@@ -7521,7 +7527,6 @@ umas.hr
 umass.edu
 umassd.edu
 umassmed.edu
-umat.edu.gh
 umb.edu
 umb.edu.pl
 umb.sk
