@@ -4341,6 +4341,7 @@ mast.br
 masu.edu.cn
 matica.hr
 mato.hr
+matsue-ct.ac.jp
 mau.se
 maxrubner.de
 maxweberstiftung.de
@@ -6776,6 +6777,7 @@ sues.edu.cn
 suffolk.ac.uk
 sugiyama-u.ac.jp
 suibe.edu.cn
+suit-sz.edu.cn
 sula.kommune.no
 suldal.kommune.no
 sulross.edu
@@ -7530,6 +7532,7 @@ umas.hr
 umass.edu
 umassd.edu
 umassmed.edu
+umat.edu.gh
 umb.edu
 umb.edu.pl
 umb.sk
@@ -7868,6 +7871,7 @@ unite.it
 unitelmasapienza.it
 unithe.hu
 unitins.br
+unitir.edu.al
 unitn.it
 unito.it
 units.it
