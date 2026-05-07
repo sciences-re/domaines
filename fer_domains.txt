@@ -904,6 +904,7 @@ certia.fi
 ces.ec
 cesar.org.br
 cesga.es
+cesi.fr
 cesnet.cz
 cespu.pt
 cetem.gov.br
@@ -3969,6 +3970,7 @@ ku.sk
 kuet.ac.bd
 kufos.ac.in
 kug.ac.at
+kuhs.ac.in
 kuk.ac.in
 kul.pl
 kuleuven.be
@@ -5007,6 +5009,7 @@ ntit.edu.cn
 ntm.cz
 ntnu.no
 ntsc.ac.cn
+ntt-east.co.jp
 ntu.ac.uk
 ntu.edu.cn
 ntu.edu.pk
@@ -5794,6 +5797,7 @@ pommuz-pi.si
 pomona.edu
 pomurski-muzej.si
 ponikva.si
+poornima.edu.in
 porsanger.kommune.no
 porsgrunn.kommune.no
 port.ac.uk
@@ -7358,6 +7362,7 @@ uetpeshawar.edu.pk
 uets.edu.ec
 uevora.pt
 uew.edu.gh
+uf3ceu.es
 ufabc.edu.br
 ufac.br
 ufal.br
@@ -7499,7 +7504,6 @@ ulapland.fi
 ulaval.ca
 ulb.be
 ulbsibiu.ro
-uleam.edu.ec
 uleth.ca
 uliege.be
 ulisboa.pt
@@ -7876,6 +7880,7 @@ unitus.it
 uniube.br
 uniud.it
 uniuma.it
+uniupo.it
 uniurb.it
 univ-amu.fr
 univ-angers.fr
