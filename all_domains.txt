@@ -761,7 +761,6 @@ cadburycollege.ac.uk
 cadcol.ac.uk
 cafa.edu.cn
 cafuc.edu.cn
-caii.edu.cn
 calderdale.ac.uk
 callegari.hr
 calpoly.edu
@@ -873,7 +872,6 @@ ceiia.com
 ceitec-sa.com
 cells.es
 cem.ac.uk
-cemaden.gov.br
 cemb.edu.pk
 cemfi.es
 cemps.ac.cn
@@ -912,6 +910,7 @@ cetem.gov.br
 cetene.gov.br
 ceu.edu
 ceub.br
+cfau.edu.cn
 cgee.org.br
 cgie.lu
 cgu.edu
@@ -3115,6 +3114,7 @@ imust.edu.cn
 imut.edu.cn
 imz.hr
 in2p3.fr
+in2p3.fr
 inaf.it
 inalco.fr
 inantro.hr
@@ -3377,6 +3377,7 @@ iucte.ac.in
 iue.ac.cn
 iufm.fr
 iuhw.ac.jp
+iuk.ac.jp
 iulm.it
 ium.pt
 iup.ac.rs
@@ -4086,7 +4087,6 @@ leirfjord.kommune.no
 leka.kommune.no
 lemoyne.edu
 lenart-sik.si
-lennuakadeemia.ee
 lentiz.nl
 lescrous.fr
 lesjaskulane.no
@@ -4837,7 +4837,6 @@ niaot.ac.cn
 nib.si
 nibio.no
 nic.bc.ca
-nic.edu
 nicabilonino.ac.ug
 nid.ac.in
 nid.edu
@@ -6402,6 +6401,7 @@ siat.ac.cn
 siba.fi
 sibet.ac.cn
 sibs.ac.cn
+sibsagaruniversity.ac.in
 sic-rad.si
 sic.ac.cn
 sicau.edu.cn
@@ -7805,6 +7805,7 @@ uninettunouniversity.net
 uninove.br
 uninsubria.it
 unint.eu
+uninta.edu.br
 unioeste.br
 union.ac.uk
 union.edu
@@ -8085,6 +8086,7 @@ urjc.es
 urk.edu.pl
 url.edu
 ursiv.si
+urszr.si
 urv.cat
 us.edu.pl
 us.es
