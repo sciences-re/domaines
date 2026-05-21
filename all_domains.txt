@@ -99,7 +99,6 @@ accademianazionaledanza.it
 accademiavenezia.it
 accamargo.org.br
 access-ci.org
-accmt.ac.lk
 ace.ac.ug
 achucarro.org
 acibadem.edu.tr
@@ -349,6 +348,7 @@ astem.or.jp
 aston.ac.uk
 astron.nl
 astrumcollege.nl
+asturias.es
 asu.ac.in
 asu.edu
 asu.edu.om
@@ -872,6 +872,7 @@ ceiia.com
 ceitec-sa.com
 cells.es
 cem.ac.uk
+cemaden.gov.br
 cemb.edu.pk
 cemfi.es
 cemps.ac.cn
@@ -1630,7 +1631,9 @@ egms.no
 ego-gw.it
 egss.si
 eh-berlin.de
+eh-darmstadt.de
 eh-freiburg.de
+eh-hessen.de
 ehb-schweiz.ch
 ehesp.fr
 ehess.fr
@@ -1717,7 +1720,6 @@ ensai.fr
 ensait.fr
 ensam.eu
 ensc-rennes.fr
-ensci.com
 enscm.fr
 ensea.fr
 enseignementsup.gouv.fr
@@ -1810,6 +1812,8 @@ essec.edu
 essec.fr
 essex.ac.uk
 essingtoncc.co.uk
+estaca.eu
+estaca.fr
 estescoimbra.pt
 esu.edu
 etfos.hr
@@ -2126,6 +2130,7 @@ gausdal.kommune.no
 gayazahs.sc.ug
 gbcnv.edu
 gbmc.ac.uk
+gbpuat.ac.in
 gbu.ac.in
 gbu.edu.in
 gbv.de
@@ -2884,7 +2889,6 @@ ibet.pt
 ibfd.org
 ibict.br
 ibrict.edu.om
-ibrivtc.edu.om
 ibs-b.hu
 ibs.re.kr
 ibu.edu.tr
@@ -3373,6 +3377,7 @@ iuc.edu.tr
 iuc.res.in
 iucaa.in
 iucc.ac.il
+iucea.org
 iucte.ac.in
 iue.ac.cn
 iufm.fr
@@ -4077,6 +4082,7 @@ leforiseed.sc.ug
 lehigh.edu
 lei.lt
 leibniz-gemeinschaft.de
+leibniz-gwzo.de
 leibniz-hbi.de
 leibniz-iom.de
 leibniz-kis.de
@@ -4517,7 +4523,6 @@ modum.kommune.no
 modyuniversity.ac.in
 mohawkcollege.ca
 mohe.ac.lk
-moheri.edu.om
 moi.ac.tz
 mojedete.si
 mojeid.cz
@@ -5669,6 +5674,7 @@ pec.edu.in
 pei.si
 peizheng.edu.cn
 pembrokeshire.ac.uk
+pensedireito.com.br
 perdanauniversity.edu.my
 pern.edu.pk
 pes.edu
@@ -6129,7 +6135,6 @@ sabanciuniv.edu
 sacredheart.edu
 sacyl.es
 saga-u.ac.jp
-sahamvtc.edu.om
 saint.it
 saintlouis.eu
 sairam.edu.in
@@ -6186,7 +6191,6 @@ sanu.ac.rs
 saocamilo-sp.br
 sapientia.hu
 sarao.ac.za
-sarh.om
 sari.ac.cn
 sarpsborg.com
 sasebo.ac.jp
@@ -6333,6 +6337,7 @@ senjamontessoriskole.no
 seps-kp.si
 serc.ac.uk
 sergas.es
+serida.org
 sers.si
 ses-mb.si
 sesemegirlsss.sc.ug
@@ -6774,7 +6779,6 @@ su.se
 suaslj.si
 suat-sz.edu.cn
 subu.edu.tr
-suc.edu.om
 suda.edu.cn
 sudamericano.edu.ec
 sues.edu.cn
@@ -6820,7 +6824,6 @@ suttneruni.at
 suvag.hr
 suzuka-ct.ac.jp
 svako.lt
-svc.edu.om
 sveio.kommune.no
 sveta-ana.si
 svk.no
