@@ -533,8 +533,10 @@ bi.no
 bib.de
 biblio.cz
 biblionetgroningen.nl
+bibliotheekoosterschelde.nl
 bibsys.no
 bic-lj.si
+biebzvl.nl
 biem.com.cn
 bifrost.is
 bift.edu.cn
@@ -582,6 +584,7 @@ bjkjpress.com
 bjorkly.no
 bjornafjorden.kommune.no
 bjp.org.cn
+bjpc.edu.cn
 bjss.org.cn
 bjsteinfo.ac.cn
 bjstinfo.ac.cn
@@ -741,6 +744,7 @@ busuulwamemorial.sc.ug
 butare.sc.ug
 buu.edu.cn
 buwamboseed.sc.ug
+bvk.lv
 bvmengineering.ac.in
 bwl.de
 bwongyeragirls.sc.ug
@@ -903,7 +907,6 @@ certia.fi
 ces.ec
 cesar.org.br
 cesga.es
-cesi.fr
 cesnet.cz
 cespu.pt
 cetem.gov.br
@@ -1615,6 +1618,7 @@ eduserv.fr
 eduteams.org
 eek.ee
 eenet.ee
+efa.gr
 efc.ac.uk
 efeo.net
 efljubljana.si
@@ -1630,7 +1634,6 @@ egms.no
 ego-gw.it
 egss.si
 eh-berlin.de
-eh-darmstadt.de
 eh-freiburg.de
 eh-hessen.de
 ehb-schweiz.ch
@@ -2941,6 +2944,7 @@ ieg.ac.uk
 ien.gov.br
 ieo.it
 ier.si
+ierr.edu.br
 ieseg.fr
 ifac.edu.br
 ifae.es
@@ -4100,6 +4104,7 @@ leyton.ac.uk
 lfze.hu
 lgl.si
 lgu.edu.pk
+lhei.lv
 lhi.is
 lhu.edu.tr
 lhup.edu
@@ -6309,7 +6314,6 @@ sdwu.edu.cn
 seamk.fi
 seatech.fr
 sece.ac.in
-seebvc.edu.om
 seetacoll.sc.ug
 seetahigh.ac.ug
 sehico.ac.ug
@@ -7155,6 +7159,7 @@ twu.edu
 txstate.edu
 tydal.kommune.no
 tyndall.ie
+tynecoast.ac.uk
 tynset.kommune.no
 tyrifjord.org
 tyrifjord.vgs.no
@@ -8329,6 +8334,7 @@ vguk.hr
 vhir.org
 vhzk.hr
 viaa.nl
+viacesi.fr
 viauc.dk
 vib.be
 vibafilm.si
