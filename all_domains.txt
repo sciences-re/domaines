@@ -97,7 +97,6 @@ accademiadipalermo.it
 accademialigustica.it
 accademianazionaledanza.it
 accademiavenezia.it
-accamargo.org.br
 access-ci.org
 ace.ac.ug
 achucarro.org
@@ -534,7 +533,6 @@ bib.de
 biblio.cz
 biblionetgroningen.nl
 bibliotheekoosterschelde.nl
-bibsys.no
 bic-lj.si
 biebzvl.nl
 biem.com.cn
@@ -652,6 +650,7 @@ bpvgs.no
 brabu.ac.in
 brad.ac.uk
 bradfordcollege.ac.uk
+brandalfriskule.no
 brandeis.edu
 brandysnl.cz
 braou.ac.in
@@ -667,7 +666,6 @@ bridgeport.edu
 bridgewater.edu
 brighton.ac.uk
 bris.ac.uk
-brm-vtc.edu.om
 broadinstitute.org
 brock.ac.uk
 brockport.edu
@@ -1911,6 +1909,7 @@ fernuni-hagen.de
 fernuni.ch
 fesb.hr
 ffhs.ch
+ffi.no
 ffk.no
 ffos.hr
 ffrz.hr
@@ -2073,7 +2072,6 @@ fryske-akademy.nl
 fsb.hr
 fsm.edu.tr
 fsu.edu
-ftik.edu.om
 ftmc.lt
 ftpo.si
 ftrr.hr
@@ -4438,6 +4436,7 @@ mesto-klimkovice.cz
 mesto-milovice.cz
 met.gov.om
 met.no
+metaalwerkzeeland.nl
 metfilmschool.ac.uk
 metisutdanning.no
 metropolia.fi
@@ -6184,6 +6183,7 @@ sanita.fvg.it
 sanjosemanta.edu.ec
 sanko.edu.tr
 sankt-georgen.de
+sanlic.ac.za
 sanpietroamajella.it
 sanraffaele.it
 sanren.ac.za
@@ -6387,7 +6387,6 @@ shibaura-it.ac.jp
 shiga-med.ac.jp
 shiga-u.ac.jp
 shikoku-u.ac.jp
-shinasvc.edu.om
 ship.edu
 shipley.ac.uk
 shisu.edu.cn
