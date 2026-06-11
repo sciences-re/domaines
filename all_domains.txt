@@ -97,6 +97,7 @@ accademiadipalermo.it
 accademialigustica.it
 accademianazionaledanza.it
 accademiavenezia.it
+accamargo.org.br
 access-ci.org
 ace.ac.ug
 achucarro.org
@@ -687,7 +688,9 @@ bsc.es
 bsdc.ac.uk
 bsfc.ac.uk
 bshp.edu
+bsp-campus-duesseldorf.de
 bsp-campus-hamburg.de
+bsp-campus-muenchen.de
 bstec.net.cn
 bsu.ac.ug
 bsu.by
@@ -2585,6 +2588,7 @@ hff-muc.de
 hfg-gmuend.de
 hfg-offenbach.de
 hfh.ch
+hfit.edu.cn
 hfk-bremen.de
 hfm-nuernberg.de
 hfm-weimar.de
@@ -3116,6 +3120,7 @@ imtbs-tsp.eu
 imtlucca.it
 imu.edu.cn
 imu.edu.my
+imufe.edu.cn
 imust.edu.cn
 imut.edu.cn
 imz.hr
@@ -4777,6 +4782,7 @@ nebraska.edu
 nebrija.es
 nec.edu.in
 neduet.edu.pk
+neepu.edu.cn
 nefu.edu.cn
 neigae.ac.cn
 neigaehrb.ac.cn
@@ -5889,7 +5895,6 @@ puchd.ac.in
 pucminas.br
 pucpr.br
 pucrs.br
-pucsp.br
 pugetsound.edu
 pulsalys.fr
 pum.edu.pl
@@ -7856,7 +7861,6 @@ unisa.edu.au
 unisa.it
 unisalento.it
 unisannio.it
-unisanta.br
 unisantos.br
 unisb.hr
 unisc.br
