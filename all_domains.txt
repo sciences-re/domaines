@@ -189,6 +189,7 @@ aksaray.edu.tr
 aktu.ac.in
 aku.edu.tr
 aku.sk
+akubihar.ac.in
 alagappauniversity.ac.in
 alanya.edu.tr
 alaska.edu
@@ -620,6 +621,7 @@ bne.es
 bnf.fr
 bnfc.sc.ug
 bnl.gov
+bnmu.ac.in
 bnu.edu.cn
 bnu.fr
 bodalenfriskole.no
@@ -659,7 +661,6 @@ brc.ac.cn
 brc.hu
 brcra.com
 bremanger.kommune.no
-brest-bs.com
 brgm.fr
 briccialditerni.it
 bridgend.ac.uk
@@ -909,6 +910,7 @@ certia.fi
 ces.ec
 cesar.org.br
 cesga.es
+cesi.fr
 cesnet.cz
 cespu.pt
 cetem.gov.br
@@ -1217,6 +1219,7 @@ crous34.fr
 croydon.ac.uk
 crs4.it
 cruzeirodosul.edu.br
+csauk.ac.in
 csc.fi
 csgm.si
 csic.es
@@ -1249,7 +1252,9 @@ csus.edu
 csusb.edu
 csusm.edu
 csustan.edu
+cta-consortium.org
 cta-observatory.org
+ctao.org
 cteguj.in
 cti.gov.br
 cti.gr
@@ -3537,6 +3542,7 @@ kapekeseed.sc.ug
 karabuk.edu.tr
 karasjok.kommune.no
 karatay.edu.tr
+karatekin.edu.tr
 kari.re.kr
 karlshochschule.de
 karlsoy.kommune.no
@@ -3626,6 +3632,7 @@ kgi.edu
 kgmc.edu.pk
 kgtrebic.cz
 kh-freiburg.de
+kh-mz.de
 khas.edu.tr
 khby.de
 khio.no
@@ -4119,6 +4126,7 @@ liceodesio.edu.it
 lier.kommune.no
 lierne.kommune.no
 lifbi.de
+lightbridges.es
 ligo-india.in
 ligo.org
 lih.lu
@@ -4538,6 +4546,7 @@ mojeid.cz
 mokollenskole.no
 molde.kommune.no
 moldefriskole.no
+molit.eu
 mollebakkenskole.no
 mome.hu
 monash.edu.au
@@ -4548,6 +4557,7 @@ montefiore.org
 montessori-svet.si
 montessori.no
 montessori.si
+montessoriprimorska.si
 montessorium.si
 montpellier-bs.com
 moredun.ac.uk
@@ -4686,6 +4696,7 @@ naba.it
 nabisunsagirls.ac.ug
 nabumalihs.sc.ug
 nagalanduniversity.ac.in
+nagano.ac.jp
 nagaokaut.ac.jp
 nagref-cha.gr
 naist.jp
@@ -4914,6 +4925,7 @@ nittedal.kommune.no
 nitttrbpl.ac.in
 nitttrc.ac.in
 nitttrchd.ac.in
+nitttrkol.ac.in
 niu.ac.ug
 niu.edu
 niva.no
@@ -5782,6 +5794,7 @@ pmtg.edu.my
 pmu.ac.at
 pmu.edu.my
 pmulibrary.org
+pnnl.gov
 podgoro.si
 pokarh-mb.si
 pokmuz-ce.si
@@ -5895,6 +5908,7 @@ puchd.ac.in
 pucminas.br
 pucpr.br
 pucrs.br
+pucsp.br
 pugetsound.edu
 pulsalys.fr
 pum.edu.pl
@@ -5960,6 +5974,7 @@ ram.ac.uk
 ramapo.edu
 ramk.fi
 rana.kommune.no
+ranchiuniversity.ac.in
 randaberg.kommune.no
 rash.al
 rathinamcollege.ac.in
@@ -6510,6 +6525,7 @@ slowheat.org
 slsp.ch
 sltc.ac.lk
 slu.cz
+slu.edu
 slu.se
 slub-dresden.de
 smartlearning.dk
@@ -6806,6 +6822,7 @@ sun.ac.za
 sunderland.ac.uk
 sunet.se
 suni.se
+suniv.ac.in
 sunndal.kommune.no
 sunnfjord.kommune.no
 supagro.fr
@@ -6914,6 +6931,7 @@ tamaso.jp
 tameside.ac.uk
 tamu.edu
 tamucc.edu
+tamuk.edu
 tamus.edu
 tamusa.edu
 tana.kommune.no
@@ -7861,6 +7879,7 @@ unisa.edu.au
 unisa.it
 unisalento.it
 unisannio.it
+unisanta.br
 unisantos.br
 unisb.hr
 unisc.br
@@ -7988,6 +8007,7 @@ unizwa.edu.om
 unk.edu
 unl.edu
 unl.edu.ec
+unl.nl
 unl.pt
 unlv.edu
 unm.edu
@@ -8629,7 +8649,6 @@ wipm.ac.cn
 wisc.edu
 wisconsin.edu
 wistar.org
-wit.edu
 wit.edu.cn
 wit.ie
 witeno.de
