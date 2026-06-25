@@ -128,6 +128,7 @@ aeronomie.be
 afjord.kommune.no
 afk.no
 afnic.fr
+africamuseum.be
 africanchildrenschoir.com
 africhild.or.ug
 afru.ac.ug
@@ -317,7 +318,6 @@ arts.ac.uk
 artuklu.edu.tr
 artun.ee
 artvin.edu.tr
-aru.ac.tz
 aru.ac.ug
 aruapublic.sc.ug
 aruass.sc.ug
@@ -390,6 +390,8 @@ augsburg.edu
 augstskola.lv
 augusta.edu
 aukra.kommune.no
+aup.edu
+aup.fr
 aure.kommune.no
 aurland.kommune.no
 aus.ac.in
@@ -831,7 +833,6 @@ cavc.ac.uk
 cavendish.ac.ug
 caw.ac.uk
 cawthron.org.nz
-cbe.ac.tz
 cbpf.br
 cbs.dk
 cbu.ca
@@ -1015,6 +1016,7 @@ clas.ac.cn
 clce.ac.zm
 clemson.edu
 clpu.es
+clujammu.ac.in
 clusius.nl
 cmaisonneuve.qc.ca
 cmb.ac.lk
@@ -1441,6 +1443,8 @@ djtu.edu.cn
 dkd.hr
 dkdm.dk
 dkea.dk
+dkf.hu
+dkfkft.hu
 dkfz-heidelberg.de
 dkit.ie
 dknm.si
@@ -1559,7 +1563,6 @@ eap.gr
 earthsciences.nz
 easj.dk
 eastberks.ac.uk
-eastc.ac.tz
 eastdurham.ac.uk
 eastkent.ac.uk
 eastleigh.ac.uk
@@ -2818,6 +2821,7 @@ hu.nl
 hua.gr
 huaja.org
 huat.edu.cn
+hubrasil.gov.br
 hubrecht.eu
 huc.edu
 hud.ac.uk
@@ -2872,7 +2876,6 @@ iac.es
 iad-arts.be
 iadt.ie
 iae.ac.cn
-iae.ac.tz
 iaen.edu.ec
 iai-togo.tg
 iam.si
@@ -3223,7 +3226,6 @@ iosce.si
 ioveneto.it
 ioz.ac.cn
 ip-paris.fr
-ipa.ac.tz
 ipa.br
 ipa.ie
 ipabo.nl
@@ -3275,7 +3277,6 @@ irccsdebellis.it
 irccsme.it
 ird.fr
 ird.gov.br
-irdp.ac.tz
 irf.se
 irgo.si
 iri-lj.si
@@ -3588,7 +3589,6 @@ kcesmjc.in
 kcktolmin.si
 kcl.ac.uk
 kclawhsnc.edu.in
-kcmcu.ac.tz
 kct.ac.in
 kct.ac.jp
 kcu.ac.ug
@@ -3982,7 +3982,6 @@ ktun.edu.tr
 ku-linz.at
 ku.ac.bd
 ku.ac.ke
-ku.ac.tz
 ku.de
 ku.dk
 ku.edu
@@ -4524,10 +4523,10 @@ mladinsko-gl.si
 mladizmaji.si
 mlcderuyter.nl
 mlp.cz
+mlritm.ac.in
 mmc.nl
 mmgm.hu
 mmu.ac.uk
-mnma.ac.tz
 mnnit.ac.in
 mnnu.edu.cn
 mnom.si
@@ -4540,7 +4539,6 @@ modum.kommune.no
 modyuniversity.ac.in
 mohawkcollege.ca
 mohe.ac.lk
-moi.ac.tz
 mojedete.si
 mojeid.cz
 mokollenskole.no
@@ -4629,7 +4627,6 @@ muc.edu.cn
 muet.edu.pk
 muetkhp.edu.pk
 mug.edu.pl
-muhas.ac.tz
 muhn.edu.cn
 muho-mannheim.de
 muib.no
@@ -4907,7 +4904,6 @@ nirt.res.in
 nissedal.kommune.no
 nist.gov
 nit.ac.jp
-nit.ac.tz
 nita.ac.in
 nitc.ac.in
 nitdelhi.ac.in
@@ -4957,7 +4953,6 @@ nlm.no
 nluo.ac.in
 nlutripura.ac.in
 nlzoh.si
-nm-aist.ac.tz
 nm.cz
 nmbu.no
 nmh.no
@@ -6231,7 +6226,6 @@ sauarfriskole.no
 sauda.kommune.no
 saude.gov.br
 saude.pi.gov.br
-saut.ac.tz
 sav.sk
 saveproject.mw
 savonia.fi
@@ -6284,6 +6278,7 @@ scng.si
 scnr.si
 scnu.edu.cn
 scoms-lj.si
+scoms-nm.si
 scp.nl
 scpet.si
 scpo.si
@@ -6985,7 +6980,6 @@ temu.ac.in
 tenet.ac.za
 tennessee.edu
 tera.hr
-ternet.or.tz
 tes.edu.ec
 test-arnes.si
 tf.hu
