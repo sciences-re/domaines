@@ -240,7 +240,6 @@ amtap.md
 amu.cz
 amu.edu.pl
 amue.fr
-amuguss.sc.ug
 anadolu.edu.tr
 anan-nct.ac.jp
 andoy.kommune.no
@@ -422,6 +421,7 @@ ayrshire.ac.uk
 azm-lu.si
 azoo.hr
 azsciencenet.az
+aztu.edu.az
 azvo.hr
 b-com.com
 b-tu.de
@@ -566,7 +566,6 @@ biruni.edu.tr
 bishopb-college.ac.uk
 bishopg.ac.uk
 bishopgirls.ac.ug
-bishoprobertss.sc.ug
 bishopss.com
 bishopwilligers.sc.ug
 bisl.si
@@ -936,6 +935,7 @@ chelmsford.ac.uk
 chester.ac.uk
 chesterfield.ac.uk
 chi.ac.uk
+chiba-u.jp
 chichester.ac.uk
 chigroup.ac.uk
 chimie-paristech.fr
@@ -1212,7 +1212,6 @@ crous-reims.fr
 crous-rennes.fr
 crous-reunion-mayotte.fr
 crous-reunion.fr
-crous-reunionmayotte.fr
 crous-rouen.fr
 crous-strasbourg.fr
 crous-toulouse.fr
@@ -1565,7 +1564,6 @@ easj.dk
 eastberks.ac.uk
 eastdurham.ac.uk
 eastkent.ac.uk
-eastleigh.ac.uk
 eastridingcollege.ac.uk
 easv.dk
 eawag.ch
@@ -1882,13 +1880,11 @@ fapepi.pi.gov.br
 fapes.es.gov.br
 fapesp.br
 fapeu.org.br
-fareham.ac.uk
 farn-ct.ac.uk
 farnboroughsfc.ac.uk
 farsund.kommune.no
 fasec.edu.br
 fatebenefratelli.eu
-fatimaaloigirls.sc.ug
 fau.de
 fau.edu
 fauske.kommune.no
@@ -3527,7 +3523,6 @@ kakoss.sc.ug
 kalaidos-fh.ch
 kalasalingam.ac.in
 kalingauniversity.ac.in
-kambuga.sc.ug
 kamerukaseed.sc.ug
 kamk.fi
 kamuligirls.sc.ug
@@ -3564,6 +3559,7 @@ katho-nrw.de
 kau.in
 kau.se
 kauko.lt
+kaushalyaskilluniversity.ac.in
 kaust.edu.sa
 kautokeino.kommune.no
 kavi.fi
@@ -3659,7 +3655,6 @@ kigezihigh.sc.ug
 kiiracollegebutiki.ac.ug
 kiiramotors.com
 kikirpa.be
-kikomekoss.sc.ug
 kilis.edu.tr
 kindai.ac.jp
 kingsolomonss.sc.ug
@@ -3674,7 +3669,6 @@ kiom.re.kr
 kiost.ac.kr
 kirkleescollege.ac.uk
 kis.si
-kisaana.sc.ug
 kisarazu.ac.jp
 kisowerass.sc.ug
 kisti.re.kr
@@ -3914,7 +3908,6 @@ kochi-tech.ac.jp
 kochi-u.ac.jp
 kodolanyi.hu
 kohacloud.in
-kojjass.sc.ug
 koki.hu
 kolbeinsvikmontessori.no
 koncar-institut.hr
@@ -5084,7 +5077,6 @@ nwu.edu.cn
 nwuoas.com
 nwupl.edu.cn
 nxu.edu.cn
-nyahukass.sc.ug
 nyakabangass.sc.ug
 nyakaglobal.org
 nyamirembe.sc.ug
@@ -6279,6 +6271,7 @@ scnr.si
 scnu.edu.cn
 scoms-lj.si
 scoms-nm.si
+scot.nhs.uk
 scp.nl
 scpet.si
 scpo.si
@@ -6606,7 +6599,6 @@ sorsamisk.no
 sortland.kommune.no
 soton.ac.uk
 soup.si
-southampton-city.ac.uk
 southdevon.ac.uk
 southend.ac.uk
 southport-college.ac.uk
@@ -6695,7 +6687,6 @@ statped.no
 stavanger.kommune.no
 stbrn.ac.uk
 stc-r.nl
-stc.ac.uk
 stcg.ac.uk
 stcharles.ac.uk
 stcharlesbukerere.sc.ug
@@ -6740,10 +6731,8 @@ stmarknaminya.sc.ug
 stmarknursing.ac.ug
 stmarkskammengo.sc.ug
 stmarysblackburn.ac.uk
-stmaryscollegekisubi.sc.ug
 stmaryscollegelacor.sc.ug
 stmarysrushoroza.sc.ug
-stmarysssnkozi.sc.ug
 stmathiaskalembass.sc.ug
 stmatiamulumba.sc.ug
 stmichaelhighschool.ac.ug
@@ -7364,7 +7353,6 @@ uem.edu.in
 uema.br
 uemasul.edu.br
 uemc.es
-uemg.br
 uems.br
 uenf.br
 uenp.edu.br
@@ -7596,6 +7584,7 @@ umontreal.ca
 ump.ac.za
 ump.edu.my
 ump.edu.pl
+umpsa.edu.my
 ums.ac.ug
 ums.edu.my
 umsl.edu
@@ -8202,7 +8191,6 @@ utn.de
 utn.edu.ec
 utoronto.ca
 utp.edu.co
-utp.edu.pl
 utpb.edu
 utpl.edu.ec
 utrgv.edu
