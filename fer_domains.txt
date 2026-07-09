@@ -166,6 +166,7 @@ aichi-toho.ac.jp
 aiimsbathinda.edu.in
 aiimsbhopal.edu.in
 aiimsbilaspur.edu.in
+aiimsguwahati.ac.in
 aiish.ac.in
 aiit.edu.cn
 aiktclibrary.org
@@ -240,6 +241,7 @@ amtap.md
 amu.cz
 amu.edu.pl
 amue.fr
+amuguss.sc.ug
 anadolu.edu.tr
 anan-nct.ac.jp
 andoy.kommune.no
@@ -566,6 +568,7 @@ biruni.edu.tr
 bishopb-college.ac.uk
 bishopg.ac.uk
 bishopgirls.ac.ug
+bishoprobertss.sc.ug
 bishopss.com
 bishopwilligers.sc.ug
 bisl.si
@@ -1215,7 +1218,6 @@ crous-rouen.fr
 crous-strasbourg.fr
 crous-toulouse.fr
 crous-versailles.fr
-crous34.fr
 croydon.ac.uk
 crs4.it
 cruzeirodosul.edu.br
@@ -1431,6 +1433,7 @@ differ.nl
 digitalnasola.si
 digitrajen.si
 dimm.hr
+dimst.ac.cn
 dipf.de
 diplomacija.hr
 direitofranca.br
@@ -1884,6 +1887,7 @@ farnboroughsfc.ac.uk
 farsund.kommune.no
 fasec.edu.br
 fatebenefratelli.eu
+fatimaaloigirls.sc.ug
 fau.de
 fau.edu
 fauske.kommune.no
@@ -2078,6 +2082,7 @@ fryske-akademy.nl
 fsb.hr
 fsm.edu.tr
 fsu.edu
+fti.ac.ug
 ftmc.lt
 ftpo.si
 ftrr.hr
@@ -3033,6 +3038,7 @@ ihu.gr
 iiasa.ac.at
 iie.ac.cn
 iiests.ac.in
+iiita.ac.in
 iiitb.ac.in
 iiitbhopal.ac.in
 iiitd.edu.in
@@ -3143,6 +3149,7 @@ indusvalley.edu.pk
 ined.fr
 ineris.fr
 ines.gov.br
+inesc-id.pt
 inesctec.pt
 inflibnet.ac.in
 infn.it
@@ -3521,6 +3528,7 @@ kakoss.sc.ug
 kalaidos-fh.ch
 kalasalingam.ac.in
 kalingauniversity.ac.in
+kambuga.sc.ug
 kamerukaseed.sc.ug
 kamk.fi
 kamuligirls.sc.ug
@@ -3653,6 +3661,7 @@ kigezihigh.sc.ug
 kiiracollegebutiki.ac.ug
 kiiramotors.com
 kikirpa.be
+kikomekoss.sc.ug
 kilis.edu.tr
 kindai.ac.jp
 kingsolomonss.sc.ug
@@ -3667,6 +3676,7 @@ kiom.re.kr
 kiost.ac.kr
 kirkleescollege.ac.uk
 kis.si
+kisaana.sc.ug
 kisarazu.ac.jp
 kisowerass.sc.ug
 kisti.re.kr
@@ -3906,6 +3916,7 @@ kochi-tech.ac.jp
 kochi-u.ac.jp
 kodolanyi.hu
 kohacloud.in
+kojjass.sc.ug
 koki.hu
 kolbeinsvikmontessori.no
 koncar-institut.hr
@@ -4143,6 +4154,7 @@ liu.se
 liuc.it
 liv-coll.ac.uk
 liv.ac.uk
+livingstone.ac.ug
 lixin.edu.cn
 ljmu.ac.uk
 ljudmila.si
@@ -4163,6 +4175,7 @@ lmu.de
 lmu.edu
 ln.edu.hk
 lna.br
+lnb.lv
 lncc.br
 lnds.lu
 lnec.pt
@@ -4298,6 +4311,7 @@ mackenzie.br
 madhabdevuniversity.ac.in
 madrid.org
 maeen.sa
+magadhuniversity.ac.in
 mah.se
 mahangoseed.sc.ug
 maher.ac.in
@@ -4488,6 +4502,7 @@ mirovni-institut.si
 missouri.edu
 mist.ac.bd
 mit.edu
+mityanass.sc.ug
 miu.ac.ug
 miun.se
 mizzou.edu
@@ -4518,6 +4533,7 @@ mlritm.ac.in
 mmc.nl
 mmgm.hu
 mmu.ac.uk
+mnhn.fr
 mnnit.ac.in
 mnnu.edu.cn
 mnom.si
@@ -5075,6 +5091,7 @@ nwu.edu.cn
 nwuoas.com
 nwupl.edu.cn
 nxu.edu.cn
+nyahukass.sc.ug
 nyakabangass.sc.ug
 nyakaglobal.org
 nyamirembe.sc.ug
@@ -5965,6 +5982,7 @@ rash.al
 rathinamcollege.ac.in
 rauma.kommune.no
 rave.ac.uk
+raysofgrace.ac.ug
 raziskovanje.si
 rca.ac.uk
 rcb.ac.in
@@ -6129,6 +6147,7 @@ ruralis.no
 ruraluniv.ac.in
 rush.edu
 rush.sc.ug
+rushorozahospital.org
 ruskin.ac.uk
 rutc.ac.uk
 rutgers.edu
@@ -6667,6 +6686,7 @@ stad.kommune.no
 staffordcoll.ac.uk
 staffs.ac.uk
 stagnesgirls.sc.ug
+staloysiusnyapea.sc.ug
 stamforduniversity.edu.bd
 stami.no
 stampar.hr
@@ -6728,10 +6748,13 @@ stmarknaminya.sc.ug
 stmarknursing.ac.ug
 stmarkskammengo.sc.ug
 stmarysblackburn.ac.uk
+stmaryscollegekisubi.sc.ug
 stmaryscollegelacor.sc.ug
 stmarysrushoroza.sc.ug
+stmarysssnkozi.sc.ug
 stmathiaskalembass.sc.ug
 stmatiamulumba.sc.ug
+stmbaagaseminary.ac.ug
 stmichaelhighschool.ac.ug
 stmu.ca
 stmugaggass.sc.ug
@@ -6806,6 +6829,7 @@ suni.se
 suniv.ac.in
 sunndal.kommune.no
 sunnfjord.kommune.no
+sunrisess.sc.ug
 supagro.fr
 supbiotech.fr
 superior.edu.pk
@@ -7792,6 +7816,7 @@ unilim.fr
 unilu.ch
 unima.ac.mw
 unimaas.nl
+unimar.br
 unimarconi.it
 unimas.my
 unimc.it
@@ -7882,6 +7907,7 @@ unisza.edu.my
 uniszpa.hu
 unitau.br
 unitbv.ro
+unite.ac.ug
 unite.it
 unitelmasapienza.it
 unithe.hu
@@ -8178,7 +8204,6 @@ uthrad.pl
 uthsc.edu
 uthscsa.edu
 uti.edu.ec
-utibet.edu.cn
 utk.edu
 utm.edu
 utm.edu.ec
