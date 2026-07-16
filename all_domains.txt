@@ -702,6 +702,7 @@ bsu.by
 bsu.edu
 bsu.edu.cn
 bsz-bw.de
+btbu.edu.cn
 btc.ac.uk
 bth.se
 btmc.edu.cn
@@ -855,6 +856,7 @@ ccn.ac.uk
 ccnu.edu.cn
 ccom.edu.cn
 ccpcli.com
+ccrum.res.in
 ccsfu.edu.cn
 ccu.edu.cn
 ccut.edu.cn
@@ -998,6 +1000,7 @@ cisug.gal
 cit.edu.in
 cit.ie
 cita-aragon.es
+citadel.edu
 cito.nl
 citruscollege.edu
 city.ac.uk
@@ -1160,7 +1163,6 @@ cpi.si
 cpp.edu
 cppu.edu.cn
 cpqd.com.br
-cpsp.edu.pk
 cpu.edu.cn
 cpu.fr
 cput.ac.za
@@ -1229,6 +1231,7 @@ csic.es
 csir.co.za
 csn.edu
 csod.si
+csr.res.in
 css.edu.om
 cssd.ac.uk
 cssscal.org
@@ -1570,7 +1573,6 @@ eastkent.ac.uk
 eastridingcollege.ac.uk
 easv.dk
 eawag.ch
-eb.br
 ebenezerschools.ac.ug
 ebi.ac.uk
 ebs.ee
@@ -2427,6 +2429,7 @@ gxufe.edu.cn
 gyc.ac.uk
 gyig.ac.cn
 gynzy-academie.nl
+gzarts.edu.cn
 gzhmu.edu.cn
 gzhu.edu.cn
 gznu.edu.cn
@@ -3054,6 +3057,7 @@ iiitsonepat.ac.in
 iiitu.ac.in
 iima.ac.in
 iimbg.ac.in
+iimg.ac.in
 iimsirmaur.ac.in
 iimv.ac.in
 iios-rogaska.si
@@ -3097,7 +3101,6 @@ illinois.edu
 ilstu.edu
 ilvo.be
 imamu.edu.sa
-imau.edu.cn
 imbcams.com.cn
 imco.edu.om
 imde.ac.cn
@@ -3168,6 +3171,7 @@ inn.no
 innfjorden.no
 innlandetfylke.no
 innorenew.si
+inoc.it
 inocar.mil.ec
 inonu.edu.tr
 inp-greifswald.de
@@ -3274,7 +3278,6 @@ iqra.edu.pk
 ir-rs.si
 iram.es
 irb.hr
-ircc.it
 irccs-stellamaris.it
 irccsdebellis.it
 irccsme.it
@@ -3495,6 +3498,7 @@ jucc.edu.hk
 juit.ac.in
 junia.com
 juniv.edu
+juntaex.es
 just.edu.bd
 just.edu.cn
 justis.com
@@ -3806,6 +3810,7 @@ klepp.kommune.no
 klinika-golnik.si
 kln.ac.lk
 klu.edu.tr
+klyuniv.ac.in
 kma.nl
 kmc.ac.uk
 kmclu.ac.in
@@ -4482,6 +4487,7 @@ mica.edu
 microsate.com
 midchesh.ac.uk
 midkent.ac.uk
+mids.ac.in
 midtre-gauldal.kommune.no
 mie.ie
 mihs.ac.ug
@@ -4591,6 +4597,7 @@ mpi.nl
 mpic.de
 mpifg.de
 mpt-velenje.si
+mpu.mp.br
 mpumuddess.sc.ug
 mpungwess.sc.ug
 mq.edu.au
@@ -4924,6 +4931,7 @@ nitj.ac.in
 nitjsr.ac.in
 nitk.edu.in
 nitmz.ac.in
+nitpy.ac.in
 nitrkl.ac.in
 nitt.edu
 nittedal.kommune.no
@@ -5918,6 +5926,7 @@ pulsalys.fr
 pum.edu.pl
 pumc.edu.cn
 pumch.cn
+punjabiuniversity.ac.in
 puo.edu.my
 purdue.edu
 purpan.fr
@@ -6942,6 +6951,7 @@ tamucc.edu
 tamuk.edu
 tamus.edu
 tamusa.edu
+tamut.edu
 tana.kommune.no
 tanuvas.ac.in
 tarc.edu.my
@@ -7249,6 +7259,7 @@ uaos.hr
 uapp.cz
 uark.edu
 uartes.edu.ec
+uasd.edu
 uatlantica.pt
 uaw.edu.ec
 uax.es
@@ -7377,6 +7388,7 @@ uem.edu.in
 uema.br
 uemasul.edu.br
 uemc.es
+uemg.br
 uems.br
 uenf.br
 uenp.edu.br
