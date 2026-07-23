@@ -167,6 +167,7 @@ aiimsbathinda.edu.in
 aiimsbhopal.edu.in
 aiimsbilaspur.edu.in
 aiimsguwahati.ac.in
+aiimsraipur.edu.in
 aiish.ac.in
 aiit.edu.cn
 aiktclibrary.org
@@ -319,6 +320,7 @@ arts.ac.uk
 artuklu.edu.tr
 artun.ee
 artvin.edu.tr
+aru.ac.tz
 aru.ac.ug
 aruapublic.sc.ug
 aruass.sc.ug
@@ -340,6 +342,7 @@ askoy.kommune.no
 askvoll.kommune.no
 asnes.kommune.no
 asnet.am
+asnr.fr
 asoo.hr
 aspete.gr
 aspira.hr
@@ -606,6 +609,7 @@ blackpoolsixth.ac.uk
 blakors.no
 blarc.com.cn
 blb-karlsruhe.de
+blcu.edu.cn
 blessedparents.sc.ug
 blessedseedss.sc.ug
 blki.hu
@@ -835,6 +839,7 @@ cavc.ac.uk
 cavendish.ac.ug
 caw.ac.uk
 cawthron.org.nz
+cbe.ac.tz
 cbpf.br
 cbs.dk
 cbu.ca
@@ -855,6 +860,7 @@ ccn.ac.uk
 ccnu.edu.cn
 ccom.edu.cn
 ccpcli.com
+ccras.org.in
 ccrum.res.in
 ccsfu.edu.cn
 ccu.edu.cn
@@ -1567,6 +1573,7 @@ eap.gr
 earthsciences.nz
 easj.dk
 eastberks.ac.uk
+eastc.ac.tz
 eastdurham.ac.uk
 eastkent.ac.uk
 eastridingcollege.ac.uk
@@ -1872,7 +1879,6 @@ faerder.kommune.no
 fafo.no
 fafu.edu.cn
 fagerhaugoppvekst.no
-fairfield.edu
 fak.dk
 falmouth.ac.uk
 famerp.br
@@ -2601,6 +2607,7 @@ hfg-offenbach.de
 hfh.ch
 hfit.edu.cn
 hfk-bremen.de
+hfm-detmold.de
 hfm-nuernberg.de
 hfm-weimar.de
 hfm-wuerzburg.de
@@ -2879,6 +2886,7 @@ iac.es
 iad-arts.be
 iadt.ie
 iae.ac.cn
+iae.ac.tz
 iaen.edu.ec
 iai-togo.tg
 iam.si
@@ -2940,6 +2948,7 @@ idealinstitute.edu.in
 identityfor.co.uk
 idi.co.ug
 idi.hr
+idi.it
 idiap.ch
 idor.org
 idp.edu.br
@@ -3231,8 +3240,10 @@ iosce.si
 ioveneto.it
 ioz.ac.cn
 ip-paris.fr
+ipa.ac.tz
 ipa.br
 ipa.ie
+ipa.sp.gov.br
 ipabo.nl
 ipac.edu.ec
 ipb-halle.de
@@ -3281,6 +3292,7 @@ irccsdebellis.it
 irccsme.it
 ird.fr
 ird.gov.br
+irdp.ac.tz
 irf.se
 irgo.si
 iri-lj.si
@@ -3595,6 +3607,7 @@ kcesmjc.in
 kcktolmin.si
 kcl.ac.uk
 kclawhsnc.edu.in
+kcmcu.ac.tz
 kct.ac.in
 kct.ac.jp
 kcu.ac.ug
@@ -3989,6 +4002,7 @@ ktun.edu.tr
 ku-linz.at
 ku.ac.bd
 ku.ac.ke
+ku.ac.tz
 ku.de
 ku.dk
 ku.edu
@@ -4263,6 +4277,7 @@ lu.se
 luanar.ac.mw
 luas.edu.cn
 luawms.edu.pk
+lubagahospital.org
 lubirihighbuloba.ac.ug
 luc.edu
 luca-arts.be
@@ -4540,6 +4555,7 @@ mmc.nl
 mmgm.hu
 mmu.ac.uk
 mnhn.fr
+mnma.ac.tz
 mnnit.ac.in
 mnnu.edu.cn
 mnom.si
@@ -4552,6 +4568,7 @@ modum.kommune.no
 modyuniversity.ac.in
 mohawkcollege.ca
 mohe.ac.lk
+moi.ac.tz
 mojedete.si
 mojeid.cz
 mokollenskole.no
@@ -4630,6 +4647,7 @@ mtc.edu.om
 mte.eu
 mtholyoke.edu
 mtsac.edu
+mtu.ac.in
 mtu.edu
 mu-edu.de
 mu-pleven.bg
@@ -4641,6 +4659,7 @@ muc.edu.cn
 muet.edu.pk
 muetkhp.edu.pk
 mug.edu.pl
+muhas.ac.tz
 muhn.edu.cn
 muho-mannheim.de
 muib.no
@@ -4918,6 +4937,7 @@ nirt.res.in
 nissedal.kommune.no
 nist.gov
 nit.ac.jp
+nit.ac.tz
 nita.ac.in
 nitc.ac.in
 nitdelhi.ac.in
@@ -4968,6 +4988,7 @@ nlm.no
 nluo.ac.in
 nlutripura.ac.in
 nlzoh.si
+nm-aist.ac.tz
 nm.cz
 nmbu.no
 nmh.no
@@ -6244,6 +6265,8 @@ sauarfriskole.no
 sauda.kommune.no
 saude.gov.br
 saude.pi.gov.br
+saurashtrauniversity.ac.in
+saut.ac.tz
 sav.sk
 saveproject.mw
 savonia.fi
@@ -7000,6 +7023,7 @@ temu.ac.in
 tenet.ac.za
 tennessee.edu
 tera.hr
+ternet.or.tz
 tes.edu.ec
 test-arnes.si
 tf.hu
@@ -7296,6 +7320,7 @@ ucd.ie
 ucdavis.edu
 ucdb.br
 ucdenver.edu
+ucdg.ac.uk
 ucdiakonissen.dk
 uce.edu.ec
 ucf.edu
@@ -7508,7 +7533,6 @@ uib.no
 uibe.edu.cn
 uibk.ac.at
 uic.edu
-uic.edu.cn
 uic.es
 uidaho.edu
 uie.edu
@@ -8009,6 +8033,7 @@ universitasxxi.com
 universite-lyon.fr
 universite-paris-saclay.fr
 university.lv
+univesp.br
 univet.hu
 univie.ac.at
 univille.br
