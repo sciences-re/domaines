@@ -705,6 +705,7 @@ bsu.ac.ug
 bsu.by
 bsu.edu
 bsu.edu.cn
+bsum.edu.ng
 bsz-bw.de
 btbu.edu.cn
 btc.ac.uk
@@ -1357,6 +1358,7 @@ darlington.ac.uk
 dartmouth.edu
 data-archive.ac.uk
 dauphine.fr
+davangereuniversity.ac.in
 davidson.edu
 davinci.nl
 dawsoncollege.qc.ca
@@ -1580,6 +1582,7 @@ eastkent.ac.uk
 eastridingcollege.ac.uk
 easv.dk
 eawag.ch
+eb.br
 ebenezerschools.ac.ug
 ebi.ac.uk
 ebs.ee
@@ -1615,6 +1618,7 @@ ediofegirls.ac.ug
 edu-istc.fr
 edu-kw1c.nl
 educacion.gob.es
+educadventista.org
 educagri.fr
 education.fr
 education.go.ug
@@ -2064,6 +2068,7 @@ fos-unm.si
 fossumkollektivet.no
 fosu.edu.cn
 fpablovi.org
+fpno.edu.ng
 fpp.edu.br
 fps.edu.br
 fpul-lyon.org
@@ -2096,6 +2101,7 @@ ftmc.lt
 ftpo.si
 ftrr.hr
 fu-berlin.de
+fuask.edu.ng
 fucape.br
 fudan.edu.cn
 fuds.si
@@ -2112,11 +2118,13 @@ fundaj.gov.br
 funep.es
 funet.fi
 funpec.br
+fuoye.edu.ng
 furb.br
 furg.br
 furman.edu
 furness.ac.uk
 fusp-edu.it
+futo.edu.ng
 fuwai.com
 fuwaihospital.org
 fv-berlin.de
@@ -2918,6 +2926,7 @@ ibs-b.hu
 ibs.re.kr
 ibu.edu.tr
 icam.fr
+icar.org.in
 iccas.ac.cn
 iccs.gr
 icep-berlin.de
@@ -3110,6 +3119,7 @@ illinois.edu
 ilstu.edu
 ilvo.be
 imamu.edu.sa
+imap.edu.ng
 imbcams.com.cn
 imco.edu.om
 imde.ac.cn
@@ -3555,6 +3565,7 @@ kanazawa-u.ac.jp
 kangwon.ac.kr
 kannuruniversity.ac.in
 kanoniss.sc.ug
+kanopoly.edu.ng
 kans.pl
 kansangaseedsecschool.com
 kapeekass.sc.ug
@@ -4031,6 +4042,7 @@ kurume-it.ac.jp
 kurume-nct.ac.jp
 kust.edu.cn
 kust.edu.pk
+kustwudil.edu.ng
 kva.se
 kvafjord.kommune.no
 kvalavag.no
@@ -4051,6 +4063,7 @@ kvsvennesla.no
 kvt.vgs.no
 kw1c.nl
 kwansei.ac.jp
+kwarastatepolytechnic.edu.ng
 kworus.sc.ug
 kwrwater.nl
 kyambogocollege.sc.ug
@@ -4555,6 +4568,7 @@ mlp.cz
 mlritm.ac.in
 mmc.nl
 mmgm.hu
+mmhapu.ac.in
 mmu.ac.uk
 mnhn.fr
 mnma.ac.tz
@@ -5061,6 +5075,7 @@ nsi.edu.cn
 nsk.hr
 nssc.ac.cn
 nsu.ac.in
+nsuk.edu.ng
 nsut.ac.in
 nsz.hr
 nszssh.hr
@@ -5219,6 +5234,7 @@ onmicrosoft.com
 onos.gov.in
 ontariotechu.ca
 ontariotechu.net
+oouagoiwoye.edu.ng
 opbg.net
 opdol.com
 open.ac.uk
@@ -5850,7 +5866,6 @@ politawau.edu.my
 politieacademie.nl
 polito.it
 poljinos.hr
-pollub.edu.pl
 pollub.pl
 polsl.pl
 polymtl.ca
@@ -5913,6 +5928,7 @@ psl.eu
 psmza.edu.my
 psp.edu.my
 pss.edu.my
+pssou.ac.in
 psu.edu
 psu.edu.sa
 psych.ac.cn
@@ -5949,6 +5965,7 @@ pumc.edu.cn
 pumch.cn
 punjabiuniversity.ac.in
 puo.edu.my
+pup.ac.in
 purdue.edu
 purpan.fr
 pusan.ac.kr
@@ -6028,6 +6045,7 @@ rcplondon.ac.uk
 rcs.ac.uk
 rcseng.ac.uk
 rcsi.ie
+rctohoku.ac.jp
 rcub.ac.in
 reabilitar.org.br
 reading.ac.uk
@@ -7164,6 +7182,7 @@ tsinghua.edu.cn
 tsnu.edu.cn
 tsu.edu.cn
 tsukuba.ac.jp
+tsuniversity.edu.ng
 ttamumoslim.sc.ug
 ttf.hr
 tti.lv
@@ -7264,6 +7283,7 @@ uab.edu
 uab.es
 uab.pt
 uac.pt
+uacg.bg
 uad.ac.uk
 uaf.edu.pk
 uah.edu
@@ -7395,6 +7415,7 @@ udk-berlin.de
 udl.cat
 udla.edu.ec
 udmercy.edu
+udusok.edu.ng
 ue-varna.bg
 ue.katowice.pl
 uea.ac.uk
@@ -7655,6 +7676,7 @@ umu.ac.ug
 umu.se
 umw.edu.pl
 umwelt-campus.de
+umyu.edu.ng
 un-ihe.org
 unach.edu.ec
 unae.edu.ec
@@ -7772,6 +7794,7 @@ uni.li
 uni.lu
 uni.opole.pl
 unia.es
+uniabuja.edu.ng
 uniag.sk
 uniandes.edu.ec
 uniarp.edu.br
@@ -7795,6 +7818,7 @@ unibz.it
 unic.ac.cy
 unica.it
 unicaen.fr
+unical.edu.ng
 unical.it
 unicam.it
 unicamp.br
@@ -7841,6 +7865,7 @@ unigoa.ac.in
 unigranrio.edu.br
 unii.ac.jp
 unijorge.edu.br
+unijos.edu.ng
 unijui.edu.br
 unikore.it
 unil.ch
@@ -7852,6 +7877,7 @@ unileoben.ac.at
 unileon.es
 unilia.ac.mw
 unilim.fr
+unilorin.edu.ng
 unilu.ch
 unima.ac.mw
 unimaas.nl
@@ -8047,6 +8073,7 @@ uniza.sk
 unizar.es
 unizd.hr
 unizg.hr
+unizik.edu.ng
 unizin.org
 unizulu.ac.za
 unizwa.edu.om
@@ -8360,6 +8387,7 @@ vcu.edu
 vcw.ac.in
 vda.lt
 vdu.lt
+vecc.gov.in
 vecchitonelli.it
 vef.hr
 vefsn.kommune.no
@@ -8794,6 +8822,7 @@ xxmu.edu.cn
 xxu.edu.cn
 xzit.edu.cn
 xzmu.edu.cn
+xzu.edu.cn
 y-gakugei.ac.jp
 yachaytech.edu.ec
 yale.edu
