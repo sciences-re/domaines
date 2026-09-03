@@ -30,6 +30,7 @@ aaschool.ac.uk
 aasemontessori.no
 aau.at
 aau.dk
+aau.in
 aauni.edu
 ababo.it
 abadir.net
@@ -184,6 +185,7 @@ aip.de
 aircas.ac.cn
 aircentre.org
 aitech.ac.jp
+aithyra.ac.at
 aiu.ac.jp
 akademiapz.sk
 akademiaslaska.pl
@@ -320,6 +322,7 @@ arhiv.hr
 aris-rs.si
 arizona.edu
 armada.mil.ec
+arn.dz
 arnes.si
 aromovoc.sc.ug
 arrs.si
@@ -1068,6 +1071,7 @@ cmb.ac.lk
 cmc.edu
 cmccd.edu
 cmepius.si
+cmfri.org.in
 cmi.no
 cmich.edu
 cmr.edu.in
@@ -1310,6 +1314,7 @@ ctuap.ac.in
 cu.ac.bd
 cu.edu.tr
 cuanschutz.edu
+cuap.ac.in
 cuc.edu.cn
 cudv-dobrna.si
 cudv-ml.si
@@ -1726,6 +1731,7 @@ ek-cer.hu
 ek.dk
 eka.edu.lv
 ekke.gr
+eko-konnect.org.ng
 ekonomska-ms.si
 ekrehagen.no
 eksu.edu.ng
@@ -1920,6 +1926,7 @@ facape.br
 facka.si
 facoltavaldese.org
 faculdadesantacasabh.org.br
+fae.br
 faerder.kommune.no
 fafo.no
 fafu.edu.cn
@@ -1966,7 +1973,6 @@ feesc.org.br
 feevale.br
 feide.no
 feiring.vgs.no
-fenix.org.mx
 fepecs.edu.br
 fer.hr
 fernfh.ac.at
@@ -2208,6 +2214,7 @@ gbcnv.edu
 gbmc.ac.uk
 gbpuat.ac.in
 gbu.ac.in
+gbu.edu.cn
 gbu.edu.in
 gbv.de
 gcc.si
@@ -3043,7 +3050,6 @@ ifes.edu.br
 iff.edu.br
 iffarroupilha.edu.br
 ifg.edu.br
-ifgoiano.edu.br
 ifj.edu.pl
 ifma.edu.br
 ifmg.edu.br
@@ -3573,6 +3579,7 @@ jucc.edu.hk
 juit.ac.in
 junia.com
 juniv.edu
+juntadeandalucia.es
 juntaex.es
 just.edu.bd
 just.edu.cn
@@ -4394,6 +4401,7 @@ lums.si
 lumsa.it
 lund.kommune.no
 lung.si
+lunguluseedss.sc.ug
 luniverza.si
 lunner.kommune.no
 luroy.kommune.no
@@ -5145,6 +5153,7 @@ nordre-land.kommune.no
 nordrefollo.no
 nordreisa.kommune.no
 nordu.net
+nordvestoasen.no
 nore-og-uvdal.kommune.no
 norid.no
 normandie-univ.fr
@@ -7527,7 +7536,6 @@ ucmerced.edu
 ucn.dk
 uco.es
 uco.fr
-ucol.mx
 uconn.edu
 ucop.edu
 ucp.hr
@@ -7557,7 +7565,6 @@ udc.es
 udel.edu
 udesc.br
 udg.edu
-udg.mx
 udima.es
 udir.cloud
 udir.no
@@ -7836,8 +7843,6 @@ unach.edu.ec
 unae.edu.ec
 unaerp.br
 unak.is
-unam.edu
-unam.mx
 unamur.be
 unatc.ro
 unav.es
@@ -8246,6 +8251,7 @@ unn.edu.cn
 unob.cz
 unochapeco.edu.br
 unoesc.edu.br
+unoeste.br
 unom.ac.in
 unomaha.edu
 unp.br
@@ -8590,6 +8596,7 @@ viacesi.fr
 viauc.dk
 vib.be
 vibafilm.si
+victorchang.edu.au
 victoriahigh.sc.ug
 vid.no
 vidyasagar.ac.in
@@ -8802,6 +8809,7 @@ w-hs.de
 wab.edu.pl
 wacren.net
 waikato.ac.nz
+wakayama-u.ac.jp
 wakefield.ac.uk
 waldorf-maribor.si
 waldorf.si
@@ -8962,6 +8970,7 @@ xjmu.edu.cn
 xjnu.edu.cn
 xjtlu.edu.cn
 xjtu.edu.cn
+xjut.edu.cn
 xjzfu.edu.cn
 xmu.edu.cn
 xmut.edu.cn
