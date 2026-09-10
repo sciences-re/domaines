@@ -290,6 +290,7 @@ aos.sk
 aosp.bo.it
 ap.edu.pl
 apacfilesender.asia
+apacseed.sc.ug
 apalass.sc.ug
 apambiente.pt
 apm.ac.cn
@@ -536,6 +537,7 @@ beun.edu.tr
 beuth-hochschule.de
 bexhillcollege.ac.uk
 bezmialem.edu.tr
+bezzaal-hijjiss.sc.ug
 bfarm.de
 bfh.ch
 bfk.no
@@ -641,6 +643,7 @@ bmnh.org.cn
 bmskole.no
 bmu.edu.in
 bmwf.gv.at
+bnbu.edu.cn
 bne.es
 bnfc.sc.ug
 bnl.gov
@@ -703,6 +706,7 @@ brookes.ac.uk
 brooklands.ac.uk
 brooksbymelton.ac.uk
 brown.edu
+brsk.no
 brsljin.si
 bruckneruni.at
 bruford.ac.uk
@@ -932,6 +936,7 @@ cene-stupar.si
 cenieh.es
 centenarycollege.ac.ug
 centennialcollege.ca
+center-db.si
 center-iris.si
 center-rog.si
 centerarhitekture.si
@@ -952,7 +957,6 @@ cerkljeobkrki.si
 cern.ch
 certh.gr
 certia.fi
-ces.ec
 cesar.org.br
 cesga.es
 cesi.fr
@@ -1236,7 +1240,6 @@ crous-amiens.fr
 crous-antillesguyane.fr
 crous-bfc.fr
 crous-bordeaux.fr
-crous-caen.fr
 crous-clermont.fr
 crous-corse.fr
 crous-creteil.fr
@@ -1258,7 +1261,6 @@ crous-reims.fr
 crous-rennes.fr
 crous-reunion-mayotte.fr
 crous-reunion.fr
-crous-rouen.fr
 crous-strasbourg.fr
 crous-toulouse.fr
 crous-versailles.fr
@@ -1958,6 +1960,7 @@ fbn-dummerstorf.de
 fbu.edu.tr
 fccn.pt
 fccollege.edu.pk
+fceilawe.edu.ng
 fcetakoka.edu.ng
 fcmsantacasasp.edu.br
 fcsc.es
@@ -1966,12 +1969,14 @@ fd.si
 fdcnet.ac.jp
 fdmz.hr
 fdu.edu
+federalpolyoko.edu.ng
 fedgw.com
 fedje.kommune.no
 feesc.org.br
 feevale.br
 feide.no
 feiring.vgs.no
+fenix.org.mx
 fepecs.edu.br
 fer.hr
 fernfh.ac.at
@@ -2115,6 +2120,7 @@ fossumkollektivet.no
 fosu.edu.cn
 fpablovi.org
 fpno.edu.ng
+fpnu.edu.cn
 fpp.edu.br
 fps.edu.br
 fpul-lyon.org
@@ -2167,6 +2173,7 @@ fundaj.gov.br
 funep.es
 funet.fi
 funpec.br
+fuotuoke.edu.ng
 fuoye.edu.ng
 furb.br
 furg.br
@@ -2796,6 +2803,7 @@ horten.kommune.no
 hortenmontessori.no
 hosanger.no
 hoshi.ac.jp
+hotelschool.nl
 howcollege.ac.uk
 howest.be
 hoyanger.kommune.no
@@ -3049,6 +3057,7 @@ ifes.edu.br
 iff.edu.br
 iffarroupilha.edu.br
 ifg.edu.br
+ifgoiano.edu.br
 ifj.edu.pl
 ifma.edu.br
 ifmg.edu.br
@@ -3100,6 +3109,7 @@ igntu.ac.in
 igsnrr.ac.cn
 igtf.net
 iguka.ac.ug
+iguligirlsss.sc.ug
 ihandirovocationalss.sc.ug
 ihb.ac.cn
 ihcams.ac.cn
@@ -3177,6 +3187,7 @@ ilstu.edu
 ilvo.be
 imamu.edu.sa
 imap.edu.ng
+imau.edu.cn
 imbcams.com.cn
 imco.edu.om
 imde.ac.cn
@@ -3746,8 +3757,10 @@ ki.si
 kib.ac.cn
 kibaaless.sc.ug
 kibanzangahigh.sc.ug
+kibatsihighschool.ac.ug
 kibogaparents.sc.ug
 kibuliss.sc.ug
+kicwambass.sc.ug
 kidderminster.ac.uk
 kidokoss.sc.ug
 kielce.pl
@@ -4170,6 +4183,7 @@ lagwaisss.sc.ug
 laife.lv
 lakealbertsda.sc.ug
 lakeheadu.ca
+lakwanaseedss.sc.ug
 lambeth.ac.uk
 lancaster.ac.uk
 landspitali.is
@@ -4894,6 +4908,7 @@ nau.edu.cn
 nauss.edu.sa
 naval-acad.bg
 navarra.es
+nawandalass.sc.ug
 nawanyingiss.sc.ug
 naz.edu
 nazaret.si
@@ -4942,6 +4957,7 @@ ndejjevoc.sc.ug
 ndky.edu.cn
 ndm.si
 ndmskole.no
+ndnu.edu.cn
 ndsu.edu
 ndu.ac.at
 ndu.ac.ug
@@ -5171,7 +5187,6 @@ nottingham.ac.uk
 nottingham.edu.cn
 nottingham.edu.my
 nottinghamcollege.ac.uk
-nou.edu.ng
 nova-uni.si
 nova.edu
 novacollege.nl
@@ -5308,6 +5323,7 @@ odu.edu
 odu.edu.tr
 oeaw.ac.at
 ofk.no
+ogendahighss.sc.ug
 ogorseed.sc.ug
 ogs.it
 ogt013.nl
@@ -5827,6 +5843,7 @@ paavai.edu.in
 pace.edu
 pacificu.edu
 padeznik-mojasola.si
+padibeseedss.sc.ug
 padrombuseed.sc.ug
 paidhass.sc.ug
 pak.hr
@@ -5848,6 +5865,7 @@ parisdescartes.fr
 parisnanterre.fr
 parliament.uk
 parnassys-academie.nl
+paroketoss.sc.ug
 partners.org
 passhe.edu
 pasteur.fr
@@ -6004,6 +6022,7 @@ pomona.edu
 pomurski-muzej.si
 ponikva.si
 poornima.edu.in
+popepaulvissanaka.sc.ug
 porsanger.kommune.no
 porsgrunn.kommune.no
 port.ac.uk
@@ -6924,6 +6943,7 @@ stevens.edu
 stevenson.edu
 steystein.no
 stfc.ac.uk
+stfranciscagirlsss.sc.ug
 stfx.ca
 stfx.no
 stgeraldsnyak.sc.ug
@@ -7533,6 +7553,7 @@ ucmerced.edu
 ucn.dk
 uco.es
 uco.fr
+ucol.mx
 uconn.edu
 ucop.edu
 ucp.hr
@@ -7562,6 +7583,7 @@ udc.es
 udel.edu
 udesc.br
 udg.edu
+udg.mx
 udima.es
 udir.cloud
 udir.no
@@ -7840,6 +7862,8 @@ unach.edu.ec
 unae.edu.ec
 unaerp.br
 unak.is
+unam.edu
+unam.mx
 unamur.be
 unatc.ro
 unav.es
@@ -8817,6 +8841,7 @@ walsallcollege.ac.uk
 waltham.ac.uk
 wampeewontakkeschool.com
 wang.no
+wantemuslimss.sc.ug
 wanyangegirlsss.sc.ug
 warkscol.ac.uk
 warrington.ac.uk
