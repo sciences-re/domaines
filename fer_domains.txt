@@ -164,6 +164,7 @@ ahnu.edu.cn
 aho.no
 ahpu.edu.cn
 ahrc.ac.uk
+ahskole.no
 ahstu.edu.cn
 ahszu.edu.cn
 ahtcm.edu.cn
@@ -202,6 +203,7 @@ aktu.ac.in
 aku.edu.tr
 aku.sk
 akubihar.ac.in
+akum.edu.ng
 alagappauniversity.ac.in
 alanya.edu.tr
 alaska.edu
@@ -286,6 +288,7 @@ anu.ac.in
 anu.edu.au
 aob.nl
 aoe.ac.cn
+aopoly.edu.ng
 aos.sk
 aosp.bo.it
 ap.edu.pl
@@ -934,6 +937,7 @@ cemps.ac.cn
 cenaero.be
 cene-stupar.si
 cenieh.es
+cens.res.in
 centenarycollege.ac.ug
 centennialcollege.ca
 center-db.si
@@ -967,6 +971,7 @@ cetene.gov.br
 ceu.edu
 ceub.br
 cfau.edu.cn
+cfri.edu.cn
 cgee.org.br
 cgie.lu
 cgu.edu
@@ -2060,6 +2065,7 @@ fiu.edu
 fiz-karlsruhe.de
 fjaler.kommune.no
 fjellhaug.no
+fjellnar.no
 fjirsm.ac.cn
 fjjxu.edu.cn
 fjmu.edu.cn
@@ -2533,6 +2539,7 @@ halddemontessori.no
 haldenskole.no
 halesowen.ac.uk
 halic.edu.tr
+hama-med.ac.jp
 hamar-montessoriskole.no
 hamar.kommune.no
 hamaroy.kommune.no
@@ -2988,6 +2995,7 @@ ibrict.edu.om
 ibs-b.hu
 ibs.re.kr
 ibu.edu.tr
+icafs.edu.cn
 icam.fr
 icar.org.in
 iccas.ac.cn
@@ -3477,7 +3485,6 @@ itvds.org
 iu.edu
 iuac.res.in
 iuav.it
-iub.edu.pk
 iubat.edu
 iuc-noord.nl
 iuc.edu.tr
@@ -3641,6 +3648,7 @@ kannuruniversity.ac.in
 kanoniss.sc.ug
 kanopoly.edu.ng
 kans.pl
+kansallisarkisto.fi
 kansangaseedsecschool.com
 kantaresss.sc.ug
 kapeekass.sc.ug
@@ -4621,6 +4629,7 @@ mgu.edu.tr
 mh-freiburg.de
 mh-hannover.de
 mh-luebeck.de
+mh-trossingen.de
 mhb-fontane.de
 miami.edu
 miamioh.edu
@@ -4890,6 +4899,7 @@ nannestad.kommune.no
 nanoctr.cn
 napier.ac.uk
 nara-k.ac.jp
+narc.fi
 narc.gov.pk
 naro.go.ug
 naroysund.kommune.no
@@ -5091,6 +5101,7 @@ nitdgp.ac.in
 nitech.ac.jp
 nitgoa.ac.in
 nith.ac.in
+niti.gov.in
 nitj.ac.in
 nitjsr.ac.in
 nitk.edu.in
@@ -5187,6 +5198,7 @@ nottingham.ac.uk
 nottingham.edu.cn
 nottingham.edu.my
 nottinghamcollege.ac.uk
+nou.edu.ng
 nova-uni.si
 nova.edu
 novacollege.nl
@@ -6214,7 +6226,13 @@ ref.ac.uk
 regents.ac.uk
 regieorgaan-sia.nl
 regiocollege.nl
+region-academique-auvergne-rhone-alpes.fr
+region-academique-bourgogne-franche-comte.fr
+region-academique-grand-est.fr
+region-academique-hdf.fr
 region-academique-idf.fr
+region-academique-occitanie.fr
+region-academique-paca.fr
 regionh.dk
 regionsjaelland.dk
 reigate.ac.uk
@@ -6657,6 +6675,7 @@ sigma-clermont.fr
 signo.no
 sii.edu.cn
 sik.si
+sikkimnlu.ac.in
 sikpos.si
 sikra.si
 sikt.no
@@ -7044,6 +7063,7 @@ suffolk.ac.uk
 sugiyama-u.ac.jp
 suibe.edu.cn
 suit-sz.edu.cn
+suksn.edu.in
 sula.kommune.no
 suldal.kommune.no
 sulross.edu
@@ -8339,7 +8359,6 @@ upi.si
 upjs.sk
 upm.edu.my
 upm.es
-upmc.fr
 upnm.edu.my
 upo.es
 upol.cz
