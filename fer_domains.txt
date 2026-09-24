@@ -256,6 +256,7 @@ amu.edu.pl
 amue.fr
 amuguss.sc.ug
 anadolu.edu.tr
+anaee.eu
 anan-nct.ac.jp
 andoy.kommune.no
 andoyaspace.no
@@ -488,6 +489,7 @@ bathspa.ac.uk
 batman.edu.tr
 batsfjord.kommune.no
 bau.edu.bd
+bausabour.ac.in
 bayburt.edu.tr
 baylor-uganda.org
 baylor.edu
@@ -920,6 +922,7 @@ cdu.edu.cn
 cdut.edu.cn
 cea.fr
 cecierj.edu.br
+cecri.res.in
 cedarcrest.edu
 cedia.org.ec
 cefet-rj.br
@@ -961,6 +964,7 @@ cerkljeobkrki.si
 cern.ch
 certh.gr
 certia.fi
+ces.ec
 cesar.org.br
 cesga.es
 cesi.fr
@@ -1020,6 +1024,7 @@ ciels.it
 ciemat.es
 cienciaviva.pt
 ciep.fr
+cift.res.in
 cigit.ac.cn
 ciit-attock.edu.pk
 ciit.edu.pk
@@ -1188,6 +1193,7 @@ constructor.university
 consvi.it
 consvv.it
 conts.it
+coou.edu.ng
 cordillera.edu.ec
 coreen.or.kr
 corila.eu
@@ -1974,6 +1980,7 @@ fd.si
 fdcnet.ac.jp
 fdmz.hr
 fdu.edu
+federalpolyilaro.edu.ng
 federalpolyoko.edu.ng
 fedgw.com
 fedje.kommune.no
@@ -2491,6 +2498,7 @@ guluhigh.ac.ug
 gumed.edu.pl
 gumed.pl
 gumushane.edu.tr
+gurugramuniversity.ac.in
 gva.es
 gvsu.edu
 gwc.ac.za
@@ -3166,6 +3174,7 @@ iitbhilai.ac.in
 iitbhu.ac.in
 iitd.ac.in
 iitdh.ac.in
+iite.ac.in
 iitg.ac.in
 iitgn.ac.in
 iitgoa.ac.in
@@ -4560,7 +4569,6 @@ mci4me.at
 mcmaster.ca
 mcnc.org
 mcom.gov.br
-mcti.gov.br
 mcw.edu
 mdanderson.org
 mdc-berlin.de
@@ -4621,6 +4629,7 @@ mf.no
 mfdps.si
 mg-lj.si
 mgcub.ac.in
+mgifri.org.in
 mgkvp.ac.in
 mglc-lj.si
 mgml.si
@@ -4899,7 +4908,6 @@ nannestad.kommune.no
 nanoctr.cn
 napier.ac.uk
 nara-k.ac.jp
-narc.fi
 narc.gov.pk
 naro.go.ug
 naroysund.kommune.no
@@ -7687,7 +7695,7 @@ ufms.br
 ufmt.br
 ufnt.edu.br
 ufob.edu.br
-ufop.br
+ufop.edu.br
 ufopa.edu.br
 ufp.pt
 ufpa.br
@@ -7779,6 +7787,7 @@ ujk.edu.pl
 ujn.edu.cn
 ujs.edu.cn
 ujs.sk
+ukc-mb.si
 ukcori.org
 ukf.sk
 ukfederation.org.uk
@@ -9026,6 +9035,7 @@ xupt.edu.cn
 xust.edu.cn
 xxmu.edu.cn
 xxu.edu.cn
+xynu.edu.cn
 xzit.edu.cn
 xzmu.edu.cn
 xzu.edu.cn
@@ -9074,6 +9084,7 @@ zafu.edu.cn
 zakladnica-montessori.si
 zal-lj.si
 zamren.zm
+zamsut.edu.ng
 zastita-prirode-dnz.hr
 zavod-sonce.si
 zavod-znanje.si
