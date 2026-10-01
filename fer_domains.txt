@@ -19,6 +19,7 @@ a-ms.no
 a-star.edu.sg
 a12.nl
 a3es.pt
+aaau.edu.ng
 aaf.edu.au
 aais.no
 aal.kommune.no
@@ -811,7 +812,6 @@ bzmc.edu.cn
 bzu.edu.cn
 bzu.edu.pk
 bzuu.edu.cn
-c2kni.net
 caces.gob.ec
 cadbury.ac.uk
 cadburycollege.ac.uk
@@ -873,6 +873,7 @@ caseab.ac.cn
 cashq.ac.cn
 casipm.ac.cn
 casit.ac.cn
+castg.edu.ng
 cat.org.uk
 catalysis.de
 catolicasc.org.br
@@ -1971,6 +1972,7 @@ fbn-dummerstorf.de
 fbu.edu.tr
 fccn.pt
 fccollege.edu.pk
+fceehamufu.edu.ng
 fceilawe.edu.ng
 fcetakoka.edu.ng
 fcmsantacasasp.edu.br
@@ -1980,6 +1982,7 @@ fd.si
 fdcnet.ac.jp
 fdmz.hr
 fdu.edu
+federalpolyekowe.edu.ng
 federalpolyilaro.edu.ng
 federalpolyoko.edu.ng
 fedgw.com
@@ -1990,6 +1993,7 @@ feide.no
 feiring.vgs.no
 fenix.org.mx
 fepecs.edu.br
+fepo.edu.ng
 fer.hr
 fernfh.ac.at
 fernuni-hagen.de
@@ -2136,6 +2140,7 @@ fpno.edu.ng
 fpnu.edu.cn
 fpp.edu.br
 fps.edu.br
+fptb.edu.ng
 fpul-lyon.org
 fpz.hr
 fpzg.hr
@@ -2167,9 +2172,11 @@ ftpo.si
 ftrr.hr
 fu-berlin.de
 fuask.edu.ng
+fubk.edu.ng
 fucape.br
 fudan.edu.cn
 fuds.si
+fugashua.edu.ng
 fui.edu.pk
 fukuyama-u.ac.jp
 fulafia.edu.ng
@@ -3449,6 +3456,7 @@ iste.edu.tr
 ister.edu.ec
 istiklal.edu.tr
 istinye.edu.tr
+istituto-besta.it
 istitutomarangoni.com
 istitutotumori.na.it
 istructe.org
@@ -3863,6 +3871,7 @@ kkh.se
 kkhl.edu.my
 kkhse.edu.my
 kkhsou.ac.in
+kki.lv
 kkjel.edu.my
 kkjerai.edu.my
 kkjerantut.edu.my
@@ -4569,6 +4578,7 @@ mci4me.at
 mcmaster.ca
 mcnc.org
 mcom.gov.br
+mcti.gov.br
 mcw.edu
 mdanderson.org
 mdc-berlin.de
@@ -4655,7 +4665,6 @@ mijneigenbibliotheek.nl
 miklavzev-vrtec.si
 miklovahisa.si
 millersville.edu
-mimas.ac.uk
 mindef.nl
 mines-albi.fr
 mines-ales.fr
@@ -5859,6 +5868,7 @@ ozyegin.edu.tr
 p-ng.si
 pa-ng.si
 pa.edu.tr
+paau.edu.ng
 paavai.edu.in
 pace.edu
 pacificu.edu
@@ -6186,6 +6196,7 @@ radford.edu
 radiostudent.si
 rae.co.ug
 rae.es
+rai.lv
 rakkestad.kommune.no
 rakovnik.si
 ralingen.kommune.no
@@ -6479,6 +6490,7 @@ sbccd.cc.ca.us
 sbccd.edu
 sbg.ac.at
 sbn.it
+sbpcnet.org.br
 sbs.edu.cn
 sbvu.ac.in
 sc-celje.si
@@ -7206,6 +7218,7 @@ tarsus.edu.tr
 tartini.si
 taru.edu.cn
 tasouganda.org
+tasued.edu.ng
 tau.ac.il
 tau.ac.jp
 tau.edu.tr
@@ -8085,6 +8098,7 @@ unilag.edu.ng
 unilasalle.fr
 unileoben.ac.at
 unileon.es
+unilesa.edu.ng
 unilia.ac.mw
 unilim.fr
 unilorin.edu.ng
