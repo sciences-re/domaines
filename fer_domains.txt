@@ -2166,6 +2166,7 @@ fryske-akademy.nl
 fsb.hr
 fsm.edu.tr
 fsu.edu
+fszek.hu
 fti.ac.ug
 ftmc.lt
 ftpo.si
@@ -2760,6 +2761,7 @@ hkbu.edu.hk
 hkdir.no
 hki-jena.de
 hkr.se
+hksyu.edu.hk
 hku.edu.tr
 hku.hk
 hku.nl
@@ -4164,6 +4166,7 @@ kvafjord.kommune.no
 kvalavag.no
 kvam.kommune.no
 kvanangen.kommune.no
+kvasu.ac.in
 kvh.vgs.no
 kvinesdal.kommune.no
 kvinnherad.kommune.no
@@ -4826,6 +4829,7 @@ muho-mannheim.de
 muhokyaparentsss.sc.ug
 muib.no
 mukisafoundation.org
+mul-ct.de
 multimedica.it
 multitech.ac.ug
 mumc.nl
@@ -5676,7 +5680,6 @@ osgorje.si
 osgorjup.si
 osgornjigrad.si
 osgrad.si
-osgradec.si
 osgrm.si
 osgusi.si
 oshjh-staritrg.si
@@ -7815,6 +7818,7 @@ ukw.edu.pl
 uky.edu
 ukzn.ac.za
 ul.ie
+ulab.edu.bd
 ulakbim.gov.tr
 ulapland.fi
 ulaval.ca
