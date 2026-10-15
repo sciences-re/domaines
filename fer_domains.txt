@@ -435,6 +435,7 @@ avp-rs.si
 avu.cz
 awi.de
 awkum.edu.pk
+aybu.edu.tr
 aydin.edu.tr
 ayerseedss.ac.ug
 ayit.edu.cn
@@ -791,7 +792,9 @@ burycollege.ac.uk
 busabiss.sc.ug
 busiass.sc.ug
 businessschool-berlin.de
+busitema.ac.ug
 busuulwamemorial.sc.ug
+butantan.gov.br
 butare.sc.ug
 butiruss.sc.ug
 buttaseed.sc.ug
@@ -1112,7 +1115,6 @@ cnpem.br
 cnpq.br
 cnr.it
 cnrs.fr
-cnrst.ma
 cnu.ac.kr
 cnu.edu.cn
 cnwl.ac.uk
@@ -1277,6 +1279,7 @@ crous-strasbourg.fr
 crous-toulouse.fr
 crous-versailles.fr
 croydon.ac.uk
+crrid.res.in
 crs4.it
 cruzeirodosul.edu.br
 csauk.ac.in
@@ -1785,7 +1788,6 @@ engarisecschool.sc.ug
 engerdal.kommune.no
 engesvea-skole.no
 enib.fr
-enim.ac.ma
 enise.fr
 enit.fr
 enitab.fr
@@ -2499,7 +2501,6 @@ gufe.edu.cn
 gug.ac.in
 guildford.ac.uk
 gujaratvidyapith.org
-gulbenkian.pt
 gulen.kommune.no
 guluarmyss.sc.ug
 guluhigh.ac.ug
@@ -4530,7 +4531,6 @@ marnav.dk
 marquette.edu
 marshall.edu
 martec.dk
-marwan.ma
 maryhillug.net
 marymount.edu
 masakasec.ac.ug
@@ -6147,6 +6147,7 @@ punjabiuniversity.ac.in
 puo.edu.my
 pup.ac.in
 purdue.edu
+purneau.ac.in
 purongoseedss.sc.ug
 purpan.fr
 pusan.ac.kr
@@ -7209,6 +7210,7 @@ tamaso.jp
 tameside.ac.uk
 tamu.edu
 tamucc.edu
+tamuct.edu
 tamuk.edu
 tamus.edu
 tamusa.edu
@@ -7530,6 +7532,7 @@ uaw.edu.ec
 uax.es
 uazuay.edu.ec
 ub.edu
+ub.ro
 ubalt.edu
 ubb.edu.pl
 ubbcluj.ro
@@ -7790,7 +7793,6 @@ uirs.si
 uis.edu
 uis.no
 uisrael.edu.ec
-uit.ac.ma
 uit.no
 uitm.edu.my
 uiu.ac.bd
@@ -7843,7 +7845,6 @@ um.edu.mo
 um.edu.mt
 um.es
 um.si
-um5.ac.ma
 uma.es
 uma.pt
 umaia.pt
@@ -8035,6 +8036,7 @@ unibe.edu.ec
 uniben.edu
 unibg.it
 unibit.bg
+unibl.org
 unibo.it
 unibocconi.it
 unibs.it
@@ -8397,6 +8399,7 @@ ups.edu.ec
 upsa.edu.gh
 upsa.es
 upu.ac.ug
+upums.ac.in
 upv.es
 upvetuniv.edu.in
 upwr.edu.pl
@@ -8443,7 +8446,6 @@ uskudar.edu.tr
 usm.edu
 usm.md
 usm.my
-usms.ac.ma
 usn.no
 usnh.edu
 usp.br
