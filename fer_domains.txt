@@ -38,7 +38,6 @@ abadir.net
 abana.it
 abaq.it
 abaravenna.it
-abc.org.br
 abcol.ac.uk
 abdn.ac.uk
 aber.ac.uk
@@ -974,6 +973,7 @@ cesga.es
 cesi.fr
 cesnet.cz
 cespu.pt
+cesupa.br
 cetem.gov.br
 cetene.gov.br
 ceu.edu
@@ -1980,6 +1980,7 @@ fcetakoka.edu.ng
 fcmsantacasasp.edu.br
 fcsc.es
 fct.pt
+fctcoezuba.edu.ng
 fd.si
 fdcnet.ac.jp
 fdmz.hr
@@ -4048,6 +4049,7 @@ knjiznicaivg.si
 knjiznicasnt.si
 knjiznicazagorje.si
 knjiznice.si
+knlu.edu.ua
 knmi.nl
 knooppunttechniek.nl
 knou.ac.kr
@@ -5868,7 +5870,6 @@ oyer.kommune.no
 oystre-slidre.kommune.no
 ozal.edu.tr
 ozyegin.edu.tr
-p-ng.si
 pa-ng.si
 pa.edu.tr
 paau.edu.ng
@@ -6138,6 +6139,7 @@ pucminas.br
 pucpr.br
 pucrs.br
 pucsp.br
+pucv.cl
 pugetsound.edu
 pulsalys.fr
 pum.edu.pl
@@ -6692,6 +6694,7 @@ sicau.edu.cn
 siclj.si
 sicnu.edu.cn
 sict.ac.cn
+sidn.nl
 sidsse.ac.cn
 sifulan.my
 sigdal.kommune.no
