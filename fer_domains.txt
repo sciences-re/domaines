@@ -38,6 +38,7 @@ abadir.net
 abana.it
 abaq.it
 abaravenna.it
+abc.org.br
 abcol.ac.uk
 abdn.ac.uk
 aber.ac.uk
@@ -128,7 +129,6 @@ adu.edu.tr
 adu.hr
 aeb.gov.br
 aegean.gr
-aer.mil.br
 aeres.nl
 aeronomie.be
 afjord.kommune.no
@@ -212,6 +212,7 @@ albasio.eu
 albeda.nl
 alberta-koledza.lv
 albmolecular.com
+aldringoghelse.no
 alesund.kommune.no
 alexandra.dk
 alfa-college.nl
@@ -774,6 +775,7 @@ bukandulamixedss.sc.ug
 bukhaluseed.sc.ug
 bukkyo-u.ac.jp
 bukoolicollege.sc.ug
+bulduri.lv
 bulindiss.sc.ug
 buloparents.ac.ug
 buluchekess.sc.ug
@@ -1115,6 +1117,7 @@ cnpem.br
 cnpq.br
 cnr.it
 cnrs.fr
+cnrst.ma
 cnu.ac.kr
 cnu.edu.cn
 cnwl.ac.uk
@@ -1788,6 +1791,7 @@ engarisecschool.sc.ug
 engerdal.kommune.no
 engesvea-skole.no
 enib.fr
+enim.ac.ma
 enise.fr
 enit.fr
 enitab.fr
@@ -1937,6 +1941,7 @@ ewu.edu
 excelia-group.com
 exe-coll.ac.uk
 exeter.ac.uk
+fab.mil.br
 facape.br
 facka.si
 facoltavaldese.org
@@ -2496,6 +2501,7 @@ gu.ac.ug
 gu.edu.pk
 gu.se
 guat.edu.cn
+guc.edu.cn
 gudgk.edu.pk
 guet.edu.cn
 gufe.edu.cn
@@ -2965,6 +2971,7 @@ hvu-morh.hr
 hvu.si
 hw.ac.uk
 hwg-lu.de
+hwg.at
 hwr-berlin.de
 hyllestad.kommune.no
 hytc.edu.cn
@@ -3042,7 +3049,6 @@ ict-edu.fr
 ict-toulouse.fr
 ict.ac.cn
 ict.edu.om
-ictp.it
 ide.go.jp
 idealinstitute.edu.in
 identityfor.co.uk
@@ -4164,6 +4170,7 @@ kurume-nct.ac.jp
 kust.edu.cn
 kust.edu.pk
 kustwudil.edu.ng
+kuvempu.ac.in
 kva.se
 kvafjord.kommune.no
 kvalavag.no
@@ -4533,6 +4540,7 @@ marnav.dk
 marquette.edu
 marshall.edu
 martec.dk
+marwan.ma
 maryhillug.net
 marymount.edu
 masakasec.ac.ug
@@ -5283,6 +5291,7 @@ nulc.ac.uk
 numl.edu.pk
 nuonet.fr
 nup.ac.cy
+nupp.edu.ua
 nure.ua
 nus.edu
 nus.edu.sg
@@ -6068,7 +6077,6 @@ pounovak.hr
 pouvinkovci.hr
 pozeska-bolnica.hr
 poznan.pl
-ppdi.com
 pphf.hu
 ppke.hu
 ppup.ac.in
@@ -6983,7 +6991,6 @@ steinkjer-montessori.no
 steinkjer.kommune.no
 stella-musikhochschule.ac.at
 stenden.com
-stepi.re.kr
 stettefriskule.no
 stevens.edu
 stevenson.edu
@@ -7285,8 +7292,6 @@ th-luebeck.de
 th-nuernberg.de
 th-owl.de
 th-wildau.de
-thairen.net.th
-thaisarn.net.th
 thalassotherapia-opatija.hr
 thapar.edu
 thea.ie
@@ -7796,6 +7801,7 @@ uirs.si
 uis.edu
 uis.no
 uisrael.edu.ec
+uit.ac.ma
 uit.no
 uitm.edu.my
 uiu.ac.bd
@@ -7848,6 +7854,7 @@ um.edu.mo
 um.edu.mt
 um.es
 um.si
+um5.ac.ma
 uma.es
 uma.pt
 umaia.pt
@@ -8449,6 +8456,7 @@ uskudar.edu.tr
 usm.edu
 usm.md
 usm.my
+usms.ac.ma
 usn.no
 usnh.edu
 usp.br
