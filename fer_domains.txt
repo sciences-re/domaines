@@ -551,6 +551,7 @@ bfk.no
 bfm.hr
 bfsu.edu.cn
 bg.ac.rs
+bgsbu.ac.in
 bgsu.edu
 bgu.ac.in
 bham.ac.uk
@@ -1236,6 +1237,7 @@ cqmu.edu.cn
 cqnu.edu.cn
 cqu.edu.cn
 cque.edu.cn
+cqust.edu.cn
 cqut.edu.cn
 cqwu.edu.cn
 cranfield.ac.uk
@@ -1322,6 +1324,7 @@ csustan.edu
 cta-consortium.org
 cta-observatory.org
 ctao.org
+ctcri.org
 cteguj.in
 cti.gov.br
 cti.gr
@@ -3765,7 +3768,6 @@ kenyon.edu
 keralauniversity.ac.in
 kfbk.si
 kfbz.cz
-kfe.re.kr
 kfki.hu
 kfmc.med.sa
 kfskolen.no
@@ -4430,7 +4432,6 @@ lu-trzic.si
 lu-velenje.si
 lu.lv
 lu.se
-luanar.ac.mw
 luas.edu.cn
 luawms.edu.pk
 lubagahospital.org
@@ -4526,7 +4527,6 @@ manipuruniv.ac.in
 manjasihs.sc.ug
 mansfield.edu
 mao.si
-maren.ac.mw
 mariamhigh.com
 marijin-vrtec.si
 marin.edu
@@ -4582,7 +4582,6 @@ mbu.asia
 mc-celje.si
 mc-eindhoven.nl
 mc-velenje.si
-mca.ac.mw
 mcbu.ac.in
 mcet.in
 mcgill.ca
@@ -4735,6 +4734,7 @@ mnzc.si
 mobile-university.de
 mocis.si
 modalen.kommune.no
+modrapikica.si
 modum.kommune.no
 modyuniversity.ac.in
 mohawkcollege.ca
@@ -4827,7 +4827,6 @@ mu-edu.de
 mu-pleven.bg
 mu-sofia.bg
 mu.edu.tr
-mubas.ac.mw
 mubs.ac.ug
 muc.edu.cn
 muet.edu.pk
@@ -4869,7 +4868,6 @@ musiitwaseedss.sc.ug
 musikene.eus
 musikkons.dk
 musph.ac.ug
-must.ac.mw
 must.ac.ug
 must.edu.mo
 must.edu.pk
@@ -4899,8 +4897,6 @@ mywsu.ac.za
 mzk.cz
 mzos.hr
 mzu.edu.in
-mzuni.ac.mw
-mzuzutech.ac.mw
 naalya-schools.com
 naba.it
 nabisunsagirls.ac.ug
@@ -5087,6 +5083,7 @@ nidh.ac.in
 nie.ac.lk
 nieer.ac.cn
 niesr.ac.uk
+nif.org.in
 nifs-k.ac.jp
 nifs.ac.jp
 nift.ac.in
@@ -6493,7 +6490,6 @@ saude.pi.gov.br
 saurashtrauniversity.ac.in
 saut.ac.tz
 sav.sk
-saveproject.mw
 savonia.fi
 savs.cz
 saxion.nl
@@ -6752,7 +6748,6 @@ sjcc.edu
 sjec.ac.in
 sjeccd.edu
 sjhksnm.ac.ug
-sjifh.ac.mw
 sjp.ac.lk
 sjsu.edu
 sjtu.edu.cn
@@ -7579,6 +7574,7 @@ ucdg.ac.uk
 ucdiakonissen.dk
 uce.edu.ec
 ucf.edu
+ucg.ac.me
 ucg.ac.uk
 uchastings.edu
 uchc.edu
@@ -8115,11 +8111,9 @@ unilasalle.fr
 unileoben.ac.at
 unileon.es
 unilesa.edu.ng
-unilia.ac.mw
 unilim.fr
 unilorin.edu.ng
 unilu.ch
-unima.ac.mw
 unimaas.nl
 unimar.br
 unimarconi.it
@@ -8218,7 +8212,6 @@ unite.it
 unitelmasapienza.it
 unithe.hu
 unitins.br
-unitir.edu.al
 unitn.it
 unito.it
 units.it
