@@ -113,7 +113,6 @@ acomarket.ac.at
 acorn-ns.ca
 acs-schools.com
 acs.si
-act.edu.om
 activatelearning.ac.uk
 actorscentreaustralia.com.au
 ad-education.ac.uk
@@ -188,6 +187,7 @@ aircentre.org
 aitech.ac.jp
 aithyra.ac.at
 aiu.ac.jp
+aiub.edu
 akademiapz.sk
 akademiaslaska.pl
 akademiasztuki.eu
@@ -346,7 +346,6 @@ as-skole.no
 asahi-u.ac.jp
 asahikawa-med.ac.jp
 asbu.edu.tr
-asds.edu.om
 aseral.kommune.no
 asfa.gr
 asfc.ac.uk
@@ -374,7 +373,6 @@ astrumcollege.nl
 asturias.es
 asu.ac.in
 asu.edu
-asu.edu.om
 at-hyogo.ac.jp
 at.edu.pl
 atauni.edu.tr
@@ -754,7 +752,6 @@ buas.nl
 buat.edu.in
 bubiitaseedss.sc.ug
 bubuloss.sc.ug
-buc.edu.om
 bucea.edu.cn
 buckingham.ac.uk
 bucknell.edu
@@ -1127,6 +1124,7 @@ coastal.edu
 coastmountaincollege.ca
 codarts.nl
 cog.nl
+cogna.com.br
 coh.org
 col-westanglia.ac.uk
 colchester.ac.uk
@@ -1213,6 +1211,7 @@ costablancaskole.com
 cotopaxi.k12.ec
 cotr.bc.ca
 cottonuniversity.ac.in
+cou.ac.bd
 cou.fi
 coulsdon.ac.uk
 couperin.org
@@ -1296,7 +1295,6 @@ csir.co.za
 csn.edu
 csod.si
 csr.res.in
-css.edu.om
 cssd.ac.uk
 cssscal.org
 cstam.org.cn
@@ -1387,6 +1385,7 @@ cut.ac.za
 cutm.ac.in
 cutn.ac.in
 cuz.edu.cn
+cvasu.ac.bd
 cviu-velenje.si
 cvtisr.sk
 cvut.cz
@@ -1600,7 +1599,7 @@ dti.sk
 dtu.dk
 du.ac.in
 du.edu
-du.edu.om
+du.lv
 du.se
 dudleycol.ac.uk
 duf.hu
@@ -2395,7 +2394,6 @@ gokoseedss.sc.ug
 gol.kommune.no
 gold.ac.uk
 gombess.sc.ug
-google.com
 gop.edu.tr
 gorenjski-muzej.si
 goriskimuzej.si
@@ -2634,7 +2632,6 @@ hck.hr
 hcmr.gr
 hcpa.edu.br
 hct.ac.uk
-hct.edu.om
 hcu-hamburg.de
 hcuge.ch
 hcw.ac.at
@@ -2751,6 +2748,7 @@ himolde.no
 hinko-smrekar.si
 hiof.no
 hirosaki-u.ac.jp
+hiroshima-cu.ac.jp
 hiroshima-u.ac.jp
 his.se
 hischool.no
@@ -2920,6 +2918,7 @@ hslu.ch
 hsmarnix.nl
 hsrw.org
 hsu-hh.de
+hsu.ac.uk
 hsu.edu.cn
 hswt.de
 hszg.de
@@ -3021,7 +3020,6 @@ ibestad.kommune.no
 ibet.pt
 ibfd.org
 ibict.br
-ibrict.edu.om
 ibs-b.hu
 ibs.re.kr
 ibu.edu.tr
@@ -3052,7 +3050,6 @@ icsmaugeri.it
 ict-edu.fr
 ict-toulouse.fr
 ict.ac.cn
-ict.edu.om
 ide.go.jp
 idealinstitute.edu.in
 identityfor.co.uk
@@ -3227,7 +3224,6 @@ imamu.edu.sa
 imap.edu.ng
 imau.edu.cn
 imbcams.com.cn
-imco.edu.om
 imde.ac.cn
 imdea.org
 ime.ac.cn
@@ -3667,6 +3663,7 @@ kalaidos-fh.ch
 kalasalingam.ac.in
 kalingauniversity.ac.in
 kambuga.sc.ug
+kamdhenuuni.edu.in
 kamerukaseed.sc.ug
 kamk.fi
 kamodss.sc.ug
@@ -4063,6 +4060,7 @@ knlu.edu.ua
 knmi.nl
 knooppunttechniek.nl
 knou.ac.kr
+knowdle.org
 kntb.cz
 knu.ac.kr
 knust.edu.gh
@@ -4504,8 +4502,6 @@ maher.ac.in
 mahindrauniversity.edu.in
 mail.com
 maine.edu
-majancollege.edu.om
-majlisoman.om
 maju.edu.pk
 mak.ac.ug
 makererecollege.sc.ug
@@ -4604,7 +4600,6 @@ mdsskranj.si
 mdw.ac.at
 mdx.ac.uk
 meap.org.uk
-mec.edu.om
 mec.gov.br
 medeniyet.edu.tr
 medhub.com
@@ -4639,7 +4634,6 @@ mersin.edu.tr
 merthyr.ac.uk
 mesto-klimkovice.cz
 mesto-milovice.cz
-met.gov.om
 met.no
 metaalwerkzeeland.nl
 metfilmschool.ac.uk
@@ -4819,7 +4813,6 @@ mt.kommune.no
 mta.ca
 mta.hu
 mtc.edu.cn
-mtc.edu.om
 mte.eu
 mtholyoke.edu
 mtsac.edu
@@ -4859,8 +4852,6 @@ murambaseedss.sc.ug
 murdoch.edu.au
 musashi.ac.jp
 musc.edu
-muscatcollege.edu.om
-muscatuniversity.edu.om
 museogalileo.it
 museon-omniversum.nl
 museon.nl
@@ -4929,6 +4920,7 @@ nannestad.kommune.no
 nanoctr.cn
 napier.ac.uk
 nara-k.ac.jp
+nara-wu.ac.jp
 narc.gov.pk
 naro.go.ug
 naroysund.kommune.no
@@ -4956,6 +4948,7 @@ nbcc.ca
 nbcol.ac.uk
 nbdbiblion.nl
 nbi.ac.uk
+nbrc.ac.in
 nbu.bg
 nbu.cz
 nbu.edu.cn
@@ -4979,7 +4972,6 @@ ncp.edu.pk
 ncri.ie
 ncstdlc.org
 ncsu.edu
-nct.edu.om
 nctt.ac.cn
 ncu.edu.cn
 ncut.edu.cn
@@ -4989,7 +4981,6 @@ nd.edu
 nda.or.ug
 nda.si
 ndagwesss.sc.ug
-ndc.edu.om
 ndeebass.sc.ug
 ndejjesss.ac.ug
 ndejjevoc.sc.ug
@@ -5249,6 +5240,7 @@ nsf.gov
 nsi.edu.cn
 nsk.hr
 nssc.ac.cn
+nstu.edu.bd
 nsu.ac.in
 nsuk.edu.ng
 nsut.ac.in
@@ -5269,7 +5261,6 @@ ntua.gr
 ntungamoghs.sc.ug
 ntyneside.ac.uk
 nu.ac.bd
-nu.edu.om
 nu.edu.pk
 nu.edu.sa
 nuaa.edu.cn
@@ -5403,7 +5394,6 @@ ombaci.ac.ug
 omgk.hu
 omnipasskey.com
 omoross.ac.ug
-omren.om
 omu.edu.tr
 on.br
 oncologico.bari.it
@@ -5851,7 +5841,6 @@ oszk.hu
 oszrece.si
 oszuzemberk.si
 otago.ac.nz
-otc.edu.om
 oth-aw.de
 oth-regensburg.de
 otis.edu
@@ -6368,6 +6357,7 @@ rowan.edu
 royalmarsdenschool.ac.uk
 royalroads.ca
 royrvik.kommune.no
+rpcau.ac.in
 rpi.edu
 rsh-duesseldorf.de
 rsio.no
@@ -6560,7 +6550,6 @@ scsi.hr
 scsio.ac.cn
 scsl.si
 scst.hr
-sct.edu.om
 scu.ac.jp
 scu.edu
 scu.edu.cn
@@ -6905,7 +6894,6 @@ spts.si
 spu.ac.za
 spuvvn.edu
 squ.edu.cn
-squ.edu.om
 sr.edu.sa
 src.ac.uk
 srce.hr
@@ -7084,7 +7072,6 @@ stud-dom-lj.si
 studielink.nl
 studytafensw.edu.au
 stvincent.ac.uk
-su.edu.om
 su.se
 suaslj.si
 suat-sz.edu.cn
@@ -7532,6 +7519,7 @@ uaos.hr
 uapp.cz
 uark.edu
 uartes.edu.ec
+uasbangalore.edu.in
 uasd.edu
 uatlantica.pt
 uaw.edu.ec
@@ -7951,7 +7939,6 @@ unesp.br
 unespar.edu.br
 unex.es
 unf.edu
-ung.edu
 ung.si
 unh.edu
 uni-ak.ac.at
@@ -8092,6 +8079,7 @@ unifesp.br
 unifesspa.edu.br
 unifg.it
 unifi.it
+unifimes.edu.br
 unifor.br
 unifortunato.eu
 unifr.ch
@@ -8215,6 +8203,7 @@ unite.it
 unitelmasapienza.it
 unithe.hu
 unitins.br
+unitir.edu.al
 unitn.it
 unito.it
 units.it
@@ -8313,7 +8302,6 @@ unizg.hr
 unizik.edu.ng
 unizin.org
 unizulu.ac.za
-unizwa.edu.om
 unk.edu
 unl.edu
 unl.edu.ec
@@ -8341,7 +8329,6 @@ unthsc.edu
 untsystem.edu
 unyp.cz
 uoa.gr
-uob.edu.om
 uob.edu.pk
 uoc.ac.in
 uoc.cw
