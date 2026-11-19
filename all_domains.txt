@@ -1431,7 +1431,6 @@ dcpune.ac.in
 dcterra.nl
 dcu.ie
 dd-msobota.si
-dd-nm.si
 dd-trbovlje.si
 ddb.si
 dddrava.si
@@ -1718,6 +1717,7 @@ egasmoniz.edu.pt
 ege.edu.tr
 egi.eu
 egms.no
+egnet.net
 ego-gw.it
 egss.si
 eh-berlin.de
@@ -2257,6 +2257,7 @@ gbu.edu.in
 gbv.de
 gcc.si
 gchs.ac.ug
+gchumanrights.org
 gcu.ac.uk
 gcuc.edu.gh
 gcwuf.edu.pk
@@ -2917,6 +2918,7 @@ hsleiden.nl
 hslu.ch
 hsmarnix.nl
 hsrw.org
+hstu.ac.bd
 hsu-hh.de
 hsu.ac.uk
 hsu.edu.cn
@@ -3026,6 +3028,7 @@ ibu.edu.tr
 icafs.edu.cn
 icam.fr
 icar.org.in
+icardfr.in
 iccas.ac.cn
 iccs.gr
 icep-berlin.de
@@ -4154,6 +4157,7 @@ ku.sk
 kuet.ac.bd
 kufos.ac.in
 kug.ac.at
+kuhes.ac.mw
 kuhs.ac.in
 kuk.ac.in
 kul.pl
@@ -4275,6 +4279,7 @@ leibniz-gemeinschaft.de
 leibniz-gwzo.de
 leibniz-hbi.de
 leibniz-iom.de
+leibniz-irs.de
 leibniz-kis.de
 leibniz-lib.de
 leibniz-liv.de
@@ -4325,6 +4330,7 @@ lis.nl
 liser.lu
 lissa.si
 lit.edu.cn
+lit.eu
 liu.se
 liuc.it
 liv-coll.ac.uk
@@ -4525,6 +4531,7 @@ manipuruniv.ac.in
 manjasihs.sc.ug
 mansfield.edu
 mao.si
+maren.ac.mw
 mariamhigh.com
 marijin-vrtec.si
 marin.edu
@@ -4580,6 +4587,7 @@ mbu.asia
 mc-celje.si
 mc-eindhoven.nl
 mc-velenje.si
+mca.ac.mw
 mcbu.ac.in
 mcet.in
 mcgill.ca
@@ -4822,6 +4830,7 @@ mu-edu.de
 mu-pleven.bg
 mu-sofia.bg
 mu.edu.tr
+mubas.ac.mw
 mubs.ac.ug
 muc.edu.cn
 muet.edu.pk
@@ -4861,6 +4870,7 @@ musiitwaseedss.sc.ug
 musikene.eus
 musikkons.dk
 musph.ac.ug
+must.ac.mw
 must.ac.ug
 must.edu.mo
 must.edu.pk
@@ -4890,6 +4900,8 @@ mywsu.ac.za
 mzk.cz
 mzos.hr
 mzu.edu.in
+mzuni.ac.mw
+mzuzutech.ac.mw
 naalya-schools.com
 naba.it
 nabisunsagirls.ac.ug
@@ -4970,6 +4982,7 @@ ncl.res.in
 ncoi.nl
 ncp.edu.pk
 ncri.ie
+ncshare.org
 ncstdlc.org
 ncsu.edu
 nctt.ac.cn
@@ -5926,6 +5939,7 @@ perdanauniversity.edu.my
 pern.edu.pk
 pes.edu
 pesg.hr
+pesnica.si
 petermac.org
 peterpan.si
 petka-zavod.si
@@ -6325,6 +6339,7 @@ rkka.cz
 rm.dk
 rmc.dk
 rmit.edu.au
+rmstu.ac.bd
 rncm.ac.uk
 rndc.bg
 rnngroup.ac.uk
@@ -6482,6 +6497,7 @@ saude.pi.gov.br
 saurashtrauniversity.ac.in
 saut.ac.tz
 sav.sk
+saveproject.mw
 savonia.fi
 savs.cz
 saxion.nl
@@ -6740,11 +6756,13 @@ sjcc.edu
 sjec.ac.in
 sjeccd.edu
 sjhksnm.ac.ug
+sjifh.ac.mw
 sjp.ac.lk
 sjsu.edu
 sjtu.edu.cn
 sju.edu.in
 sjziam.ac.cn
+sjzu.edu.cn
 sk-oppvekst.no
 skagerak.org
 skageraktonsberg.org
@@ -7359,6 +7377,7 @@ toros.edu.tr
 torun.pl
 torvikbuktskule.no
 totenmontessoriskole.no
+tottori-u.ac.jp
 toulouse-inp.fr
 touro.edu
 tower.ac.uk
@@ -8102,9 +8121,11 @@ unilasalle.fr
 unileoben.ac.at
 unileon.es
 unilesa.edu.ng
+unilia.ac.mw
 unilim.fr
 unilorin.edu.ng
 unilu.ch
+unima.ac.mw
 unimaas.nl
 unimar.br
 unimarconi.it
@@ -8147,6 +8168,7 @@ unipegaso.it
 unipg.it
 unipi.gr
 unipi.it
+uniplaclages.edu.br
 unipmn.it
 unipo.sk
 uniport.edu.ng
@@ -8292,6 +8314,7 @@ univesp.br
 univet.hu
 univie.ac.at
 univille.br
+univiseu.pt
 univpm.it
 univr.it
 uniwa.gr
@@ -8921,7 +8944,6 @@ westlake.edu.cn
 westlaw.com
 weston.ac.uk
 weymouth.ac.uk
-wfmc.edu.cn
 wfu.edu
 wfu.edu.cn
 whigg.ac.cn
