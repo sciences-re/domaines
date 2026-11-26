@@ -1725,6 +1725,7 @@ eh-hessen.de
 ehb-schweiz.ch
 ehesp.fr
 ehess.fr
+ehime-u.ac.jp
 ehs-dresden.de
 ehs.se
 ehsm.ch
@@ -3026,6 +3027,7 @@ ibs.re.kr
 ibu.edu.tr
 icafs.edu.cn
 icam.fr
+icar-iigr.org.in
 icar.org.in
 icardfr.in
 iccas.ac.cn
@@ -3052,6 +3054,7 @@ icsmaugeri.it
 ict-edu.fr
 ict-toulouse.fr
 ict.ac.cn
+ictp.it
 ide.go.jp
 idealinstitute.edu.in
 identityfor.co.uk
@@ -4109,6 +4112,7 @@ kpsw.edu.pl
 kpu-m.ac.jp
 kpu.ca
 kpz.nl
+kragero-montessori.no
 kragero.kommune.no
 krakow.pl
 kranjski-vrtci.si
@@ -4152,6 +4156,7 @@ ku.edu
 ku.edu.tr
 ku.lt
 ku.sk
+kud.ac.in
 kuet.ac.bd
 kufos.ac.in
 kug.ac.at
@@ -4786,7 +4791,9 @@ mpi-bremen.de
 mpi-sws.org
 mpi.nl
 mpic.de
+mpie.de
 mpifg.de
+mps.si
 mpt-velenje.si
 mpu.mp.br
 mpumuddess.sc.ug
@@ -5116,6 +5123,7 @@ nina.no
 nionett.no
 nioz.nl
 niperrbl.ac.in
+nipgr.ac.in
 nipos.cz
 nipr.ac.jp
 nipv.nl
@@ -5870,7 +5878,6 @@ overhalla.kommune.no
 overtsoftware.com
 ovre-eiker.kommune.no
 ovrebo.vgs.no
-owens.edu
 ox.ac.uk
 oxy.edu
 oya.vgs.no
@@ -6475,6 +6482,7 @@ santannapisa.it
 santosh.ac.in
 sanu.ac.rs
 saocamilo-sp.br
+sapac.es
 sapientia.hu
 sarao.ac.za
 sari.ac.cn
@@ -6601,6 +6609,7 @@ seamk.fi
 seatech.fr
 sebastianssbethelehem.sc.ug
 sece.ac.in
+seedicar.org.in
 seetacoll.sc.ug
 seetahigh.ac.ug
 sehico.ac.ug
@@ -6618,6 +6627,7 @@ selvita.hr
 semi.ac.cn
 semmelweis-univ.hu
 semmelweis.hu
+senai.br
 senaicimatec.com.br
 sendai-nct.ac.jp
 senja.kommune.no
@@ -7796,6 +7806,7 @@ uic.edu
 uic.es
 uidaho.edu
 uie.edu
+uii.ac.id
 uil-sipo.si
 uimp.es
 uio.no
@@ -8969,7 +8980,6 @@ wisc.edu
 wisconsin.edu
 wistar.org
 wit.edu.cn
-wit.ie
 witeno.de
 wits.ac.za
 wkc.ac.uk
